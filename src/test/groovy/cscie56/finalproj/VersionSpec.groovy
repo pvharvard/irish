@@ -16,8 +16,47 @@ class VersionSpec extends Specification {
     def cleanup() {
     }
 
-    void "test something"() {
-        expect:"fix me"
-            true == false
+    void "create version"() {
+        def version = new Version(setting:10, index:5, key:"Gmaj", meter:"3/4", unitLength:"1/8", abc:"abcdefga")
+        expect:
+        version.validate()
     }
+
+    void "create long abc to test the limit"() {
+        def version = new Version(setting:10, index:5, key:"Gmaj", meter:"3/4", unitLength:"1/8",
+                abc:"abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+            "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc")
+        expect:
+        version.validate()
+    }
+
+    void "create extremely long abc to test the limit"() {
+        def version = new Version(setting:10, index:5, key:"Gmaj", meter:"3/4", unitLength:"1/8",
+                abc:"abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc" +
+                        "abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc abcdefgabc")
+        expect:
+        version.validate()
+    }
+
 }

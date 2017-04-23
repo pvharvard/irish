@@ -7,6 +7,7 @@ class Tune {
     Integer numTunebooks
     Integer numRecordings
     Dance dance
+    String primaryName
 
 
     static constraints = {
@@ -16,5 +17,6 @@ class Tune {
         dance blank : true
     }
 
-    static hasMany = [name : Name, version : Version, setMate : SetMate]
+    static hasMany = [names : Name, versions : Version, setMate : SetMate, tuneMeasLoc : TuneMeasureLoc]
+
 }

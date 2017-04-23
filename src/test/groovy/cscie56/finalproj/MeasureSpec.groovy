@@ -16,8 +16,48 @@ class MeasureSpec extends Specification {
     def cleanup() {
     }
 
-    void "test something"() {
-        expect:"fix me"
-            true == false
+    void "create a simple measure with 10"() {
+        when: (" create a measure")
+            List<Integer> seq = new ArrayList<>()
+            for(i in 0..10) {
+                seq.add(i)
+            }
+            def measure = new Measure(sequence: seq)
+        expect:
+        measure.validate()
     }
+
+    void "create a simple measure with 1000"() {
+        when: (" create a measure")
+        List<Integer> seq = new ArrayList<>()
+        for(i in 1..1000) {
+            seq.add(i)
+        }
+        def measure = new Measure(sequence: seq)
+        expect:
+        measure.validate()
+    }
+
+
+    void "create a simple measure with 0"() {
+        when: (" create a measure")
+        List<Integer> seq = new ArrayList<>()
+        def measure = new Measure(sequence: seq)
+        expect:
+        measure.validate()
+    }
+
+
+    void "create a simple measure with 1"() {
+        when: (" create a measure")
+        List<Integer> seq = new ArrayList<>()
+        for(i in 1..1) {
+            seq.add(i)
+        }
+
+        def measure = new Measure(sequence: seq)
+        expect:
+        measure.validate()
+    }
+
 }

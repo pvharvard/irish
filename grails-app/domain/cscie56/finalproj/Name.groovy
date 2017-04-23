@@ -7,5 +7,5 @@ class Name {
 
     }
 
-    static belongsTo = [tune:Tune]
+    //static belongsTo = [tune : Tune]
 }
