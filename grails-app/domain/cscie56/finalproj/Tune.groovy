@@ -16,6 +16,9 @@ class Tune {
         numRecordings blank : true
         dance blank : true
         tuneMeasLoc nullable : true
+        setMate nullable : true
+        names nullable : true
+        versions nullable : true
     }
 
     static hasMany = [names : Name, versions : Version, setMate : SetMate, tuneMeasLoc : TuneMeasureLoc]

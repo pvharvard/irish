@@ -4,7 +4,7 @@ class Measure {
     List<Integer> sequence
 
     static constraints = {
-        sequence unique: true
+        //sequence unique: true
     }
 
     static hasMany = { tuneMeasLoc : TuneMeasureLoc }

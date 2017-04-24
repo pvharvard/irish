@@ -99,21 +99,21 @@ class BootStrap {
 
         def measure1 = new Measure(sequence: seq1, tuneMeasLoc:tuneMeasureLoc1)
         saveObject(measure1)
-        def measure2 = new Measure(sequence: seq2, tuneMeaLoc:tuneMeasureLoc2)
+        def measure2 = new Measure(sequence: seq2, tuneMeasLoc:tuneMeasureLoc2)
         saveObject(measure2)
 
         def tune27 = new Tune(dance:Tune.Dance.REEL, primaryName:"Drowsey Maggie", tuneId:27, numRecordings: 158, numTunebooks: 4932,
-                names: [name27a, name27b, name27c, name27d, name27e], tuneMeasLec:[tuneMeasureLoc1, tuneMeasureLoc2])
+                names: [name27a, name27b, name27c, name27d, name27e], tuneMeasLoc:[tuneMeasureLoc1, tuneMeasureLoc2])
         saveObject(tune27)
 
         def tune55 = new Tune(dance:Tune.Dance.JIG, primaryName:"The Kesh", tuneId:55, numRecordings: 140, numTunebooks: 4463,
                 names: [name55a, name55b, name55c, name55d, name55e],
                 versions: [version55_10, version55_1, version55_5],
-                tuneMeasLec:[tuneMeasureLoc2])
+                tuneMeasLoc:[tuneMeasureLoc2])
         saveObject(tune55)
 
         def tune8 = new Tune(dance:Tune.Dance.JIG, primaryName:"The Banshee", tuneId:8, numRecordings: 100, numTunebooks: 2711,
-                names: [name8a, name8b, name8c, name8d, name8e, name8f, name8g, name8h, name8i, name8j, name8k])
+                names: [name8a, name8b, name8c, name8d, name8e, name8f, name8g, name8h, name8i, name8j, name8k], tuneMeasLoc:[tuneMeasureLoc2])
         saveObject(tune8)
 
 
