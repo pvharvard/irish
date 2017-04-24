@@ -1,0 +1,57 @@
+Tune 4070	Setting 25078
+
+X: 3
+T: The Green Fields Of Woodford
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|:e|ecB A2E|FEF ABc|fec ecB|cff faf|
+ecB A2E|FEF ABc|BAF B2c|AFE E2:|
+|:B|cAA eAA|fec ecB|cAA eAA|fec BAB|
+cBc efa|baf ecA|BAF B2c|AFE E2:|
+
+
+Tune 4070	Setting 16874
+
+X: 2
+T: The Green Fields Of Woodford
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:d|dBA G2D|EDE GAB|edB dBA|Bee ege|dBA G2D|EDE GAB|AGE A2B|GED D2:||:A|BGG dGG|edB dBA|BGG dGG|edB AGA|BAB deg|age dBG|AGE A2B|GED D2:|
+
+
+Tune 4070	Setting 4070
+
+X: 1
+T: The Green Fields Of Woodford
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+dBA GAE|EDE Gzd|edB dBA|Bge ege|
+dBA GAE|EDE GzB|GED A2B|GED D2z:|
+BGG dBd|ege dBG|BGG dBd|edB AGA|
+BzB dBd|ege dBG|AGE A2B|GED D2z|
+BGG dBd|ege dBG|BGG dBd|edB AGA|
+BzB deg|age dBG|AGE AzB|Ged ege||
+
+
+Tune 4070	Setting 28263
+
+X: 4
+T: The Green Fields Of Woodford
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+e|:dBA G2E|EDE G2e|edB dBA|B2e ege|
+dBA G2E|EDE GAB|AGE ABA|[1GED DBc:|[2 GED D2 A||
+B2G dGG|edB dBA|BGG dGG|edB AGA|
+BGG dGG|edB dBA|GAB ABA|GED D2 A||
+B2G dGG|edB dBA|BGG dGG|edB AGA|
+BAB deg|age dBA|GAB ABA|GED DBc|]
+
+

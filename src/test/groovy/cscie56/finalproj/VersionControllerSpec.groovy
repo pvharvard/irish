@@ -10,12 +10,16 @@ class VersionControllerSpec extends Specification {
     def populateValidParams(params) {
         assert params != null
 
-        params['setting'] = 101
-        params['index'] = 5
-        params['key'] = 'Dmaj'
-        params['meter'] = '1/4'
+        params['setting'] = 26404
+        params['key'] = "Gmaj"
+        params['meter'] = '6/8'
         params['unitLength'] = '1/8'
-        params['abc'] = 'abcdefg'
+        params['index'] = 10
+        params['abc'] = '|:BGG dGG | ege dBA | BGG dGG | ~A3 ABc |\n' +
+                        'BGG dGG | ege dBd | gbg aga | bgg g2d :|\n' +
+                        '|:G2F GAB | A2G ABd | edd gdd | edB dBA |\n' +
+                        'G2F GAB | A2G ABd | edd gdB |1 AGF GBA :|2 AGF G2A |'
+
         assert true
     }
 

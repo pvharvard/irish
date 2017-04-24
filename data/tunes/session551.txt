@@ -1,0 +1,24 @@
+Tune 551	Setting 551
+
+X: 1
+T: Michael Kennedy's
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:a2ag edcd|eaag (3efe dg|eaab agef|gedB GABd:|
+|:eAAB cBAa|aAAG ABcd|eAAB cBAg|gedB GABd:|
+
+
+Tune 551	Setting 13513
+
+X: 2
+T: Michael Kennedy's
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+|:ADDE FEDd-|dDDC DEFG|ADDE FEDc|-cAGE CDEG:|
+|:d2dc AGFG|Addc (3ABA Gc|Adde dcAB|cAGE CDEG:|
+
+

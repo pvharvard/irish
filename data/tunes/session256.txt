@@ -1,0 +1,106 @@
+Tune 256	Setting 12982
+
+X: 3
+T: The Mist On The Mountain
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+G|EAA ABd|edB AGE|~G3 GAB|dBA GED|EAA ABd|edB ABd|efg dBG|BAG A2:|
+
+
+Tune 256	Setting 12984
+
+X: 5
+T: The Mist On The Mountain
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+G|EAA ABd|eAB AGE|G3 GAB|dBA GED|EAA ABd|eAB AGE|efg dBG|BAG A2:|a|age a2b|age edB|AGE G2A|BAB AGE|age a2b|age edB|AGE G2A|BAG A3|age a2b|age edB|AGE G2A|BAB GED|EDE G2A|B2A Bcd|efg dBG|BAG A3||
+
+
+Tune 256	Setting 25788
+
+X: 7
+T: The Mist On The Mountain
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:EAA ABd|eAA AGE|G3 GAB|dBA GED|
+EAA ABd|eAA ABd|efg dBG|BAA A2:|
+|:age a3|age edB|AGE G2A|BAB deg|
+age a3|age edB|AGE G3|BAA A3|
+age a3|age edB|AGE G3|BAB GED|
+EDE G2A|B2A ABd|efg dBG|BAA A2||
+
+
+Tune 256	Setting 12981
+
+X: 2
+T: The Mist On The Mountain
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+A3 A3|e2 e e>dB|G3 G3|B>AB A>GA|c3 d3|e>fg B>AG|A>Be d>cB|A3 A3:|e3 e3|d>eg e>dB|G2 G d2 B|e2 e d>cB|A3 c3|e>fg B>AG|A>Be d>cB|A3 A3:|
+
+
+Tune 256	Setting 12983
+
+X: 4
+T: The Mist On The Mountain
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+a|age a2b|age edB|AGE G2A|BAB deg|G|EAA ABd|edB AGE|~G3 GAB|dBA GED|EAA ABd|edB ABd|efg dBG|BAG A2:|a|age a2b|age edB|AGE G2A|BAB deg|age a2b|age edB|AGE G2A|BAG A2a|age a2b|age edB|AGE G2A|BAB GED|EDE G2A|BAG ABd|efg dBG|BAG A2||
+
+
+Tune 256	Setting 22803
+
+X: 6
+T: The Mist On The Mountain
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+A3 A3|e2 e e>dB|G3 G3|B>AB A2B|
+c3 d3|e>fg B>AG|A>Be d>cB|A3 A3:|
+e3 e3|d>eg e>dB|G2 G3|B>AB A2B|
+c3 d3|e>fg B>AG|A>Be d>cB|A3 A3:|
+
+
+Tune 256	Setting 256
+
+X: 1
+T: The Mist On The Mountain
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+G|EAA ABd|e2 A AGE|~G3 GAB|dBA GED|
+EAA ABd|e2A AGE|efg dBG|BAG A2:|
+a|age a2b|age edB|AGE G2A|BAB GED|
+age a2b|age edB|AGE G2A|BAG A3|
+age a2b|age edB|AGE G2A|BAB GED|
+EDE G2A|BAG ABd|efg dBG|BAG A2||
+
+
+Tune 256	Setting 30254
+
+X: 8
+T: The Mist On The Mountain
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+E|A2A ABd|edB dBA|G2G GAB|dBA GEG|
+A2A ABd|edB ABd|efg dBG|BAA A2:|
+e|age a2b|age edB|AGE G2A|BAG ABd|
+age a2b|age edB|AGE G2A|BAG ABd|
+age a2b|age edB|AGE G2A|BAG ABG|
+EDE G2A|BAG ABd|efg dBG|BAG A2||
+
+

@@ -1,0 +1,68 @@
+Tune 1872	Setting 15309
+
+X: 5
+T: Billy Brocker's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dB|:AF~F2 ~A2dB|BAFA ~G3B|AF~F2 ~A2Bd|1 efge fedB:|2 efge fedA||dAAd faad|eAAd eAAB|defd faaf|gfeg fdef|defd faad|eAAd eAAd|f2~f2 ~g2fg|af~f2 fedB||
+
+
+Tune 1872	Setting 15310
+
+X: 6
+T: Billy Brocker's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dB|AFFF AFdB|ADFA G3B|AFFF ABdf|efge fedB|AFFF AFdB|ADFA GABd|AFFF ABdf|efge fdef||d3e f2af|eAAA eAcA| dAde faaf|gfeg fdef|dcde fbaf|eAAA eAce|f4 g2fg|abag fedB||AFFF AFdB|ADFA G3B|AFFF ABdf|efge fedB|AFFF AFdB|ADFA GABd|AFFF ABdf|efgb afef||d3e f2af|eAAA eAcA| dAde faaf|gfeg fdef|dcde fbaf|eAAA eAce|ff/f/ff g2fg|abag fedB||AFFF AFdB|ADFA GABd|AFFF ABdf|efge fedB|AFFF AFdB|ADFA G3B|AFFF ABdf|efgb afef||d3e f2af|eAAA eAcA| dAde faaf|gfeg fdef|dcde faaf|eAAA eAce|f4 g2fg|abag fedB|A4|]
+
+
+Tune 1872	Setting 15306
+
+X: 2
+T: Billy Brocker's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+AF~F2 AFdB|ADFA ~G3B|AF~F2 ABde|f2eg fddB|AF~F2 AFdB|AF~F2 ~G3B|(3ABA FA ABde|fAeA fd(3ddd||d2df ~a3f|eABA eABA|dedf ~a3g|faea fd(3ddd|d2df ~a3f|eABA eABA|~f3a g2 (3efg|a2ge fdd2|
+
+
+Tune 1872	Setting 1872
+
+X: 1
+T: Billy Brocker's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dB|:AF~F2 A2dB|AF~F2 G3B|AF~F2 ABdf|efge fddB:|
+|:~f3a g2fg|eA(3cBA eA(3cBA|~f3a g2fg|afge fdd2|
+~f3a g2fg|eA(3cBA eA(3cBA|~f3a g2fg|afge fdd2:|
+
+
+Tune 1872	Setting 15308
+
+X: 4
+T: Billy Brocker's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+B|A~F3 AFdB|A~F3 ~G3B|A~F3 ABdf|e2 ge fddB|A~F3 AFdB|A~F3 ~G3B|A~F3 ABdf|e2 ge fd d/e/f|| ~d3f ~a3z|f~a3 abaf|d2 df ~a3f|~g2 e/f/g f{gf}d d/e/f| dcdf a2 a{b}a|e~a3 abaf|e~f3 f~g3|a2 ge fddB||
+
+
+Tune 1872	Setting 15307
+
+X: 3
+T: Billy Brocker's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+AF~F2 AFBF|AF~F2 ~G3B|AF~F2 ABdf|efge fedB:|ABde f2af|eABA eABA|dcdf ~a3f|g2eg fedB|ABde f2af|eABA eABA|~f3f g2fg|(3ggf ge fedB||
+
+

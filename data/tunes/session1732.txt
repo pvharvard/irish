@@ -1,0 +1,97 @@
+Tune 1732	Setting 16965
+
+X: 7
+T: Old Joe's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+e | f2A AFA | BAF A3 | B/c/dB AFA | Bcd efg |f2A AFA | BAF A3 | B/c/dB AFA | Bdd d2 :|e | fgf efe | dBA d2e | fgf efe | dfa b2a |fgf efe | dBA d2e | fdB AFA | Bdd d2 :|
+
+
+Tune 1732	Setting 15159
+
+X: 3
+T: Old Joe's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:{g}fAA {B}AFA | {c}BAF A{B}A{G}A | ((3Bcd)B {B}AFA |Bcd {f}ede |{=f}fAA {B}AFA | {d}BAF A{B}A{G}A |1 ((3Bcd)B {B}AFA | Bdc d2 e :|2 B{c}B{A}B {B}AFA | Bdc d2 e |||: f{a}f{e}f efe | dBA d2e | {afe}f2a {b}afe |fa{b}a ((3bc'b) a ||1((3.f.g.a)f efe | dBA d2e | fAA {B}AFA | {c}Bdc d3 :||2 f{a}f{e}f efe | dBA d2e | fAA {B}AFA | {c}Bdc d2 e ||{g}fAA {B}AFA | {c}BAF A{B}A{G}A | B{c}B{A}B {B}AFA |Bcd {f}ede |{=f}fAA {B}AFA | {d}BAF A{B}A{G}A | ((3Bcd)B {B}AFA | Bdc d2 e |{g}fAA {B}AFA | {c}BAF A{B}A{G}A | B{c}B{A}B A{B}A{G}A |B2d {f}ede |{=f}f3 A{B}A{G}A | {d}BAF A{B}A{G}A | B{c}B{A}B {B}AFA | Bdc d2 e ||: f{a}f{e}f efe | dBA d2e | {afe}f2a {b}afe |fa{b}a ((3bc'b) a ||1((3.f.g.a)f efe | dBA d2e | fAA {B}AFA | {c}Bdc d3 :||2 f{a}f{e}f efe | dBA d2e | fAA {B}AFA | {c}Bdc d3 ||
+
+
+Tune 1732	Setting 4216
+
+X: 4
+T: Old Joe's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: ~f2 A AFA | BAF ADD | B/2c/2dB AFA | Bcd efg |
+~f2 A AFA | BAF ADD | B/2c/2dB AFA |Bdc d2 e :|
+|: ~f3 efe | dBA d2e | ~f2a {b}afe | faa {b}aba |
+~f3 efe | dBA d2e | ~f2 A AFA | [1 Bdc d2 e |[2 Bdc d3 :|
+
+
+Tune 1732	Setting 1732
+
+X: 1
+T: Old Joe's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+e|:fAA AFA | BAF A2A | B3 AFA |Bcd efg |
+fAA AFA | BAF A2A | B3 AFA | Bdc d3 :|
+|: f3 efe | dBA d2e | faa afe |faa b2a |
+f3 efe | dBA d2e | fAA AFA | Bdc d3 :|
+
+
+Tune 1732	Setting 15160
+
+X: 6
+T: Old Joe's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+e|:"D"fAA AFA |"G" BAF "D"A2A | "G"B3 "D"AFA |"E7"Bcd "A7"efg |"D"fAA AFA | "G"BAF "D"A2A |"G" B3 "D"AFA | "A7"Bdc "D"d3 :||: "D"f3 "A"efe |"D" dBA d2e |"D" faa "G" afe |"D"faa "A7"b2a |"D"f3 "A"efe | "D"dBA d2e |"D" fAA AFA |"A7" Bdc "D"d3 :|
+
+
+Tune 1732	Setting 15158
+
+X: 2
+T: Old Joe's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:fAA AFA | BAF ABA | BdB AFA |Bcd efg |fAA AFA | BAF ABA | BdB AFA | Bdc d3 :||: f3 efe | dBA d2e | faa a^ga |baf e2d |f3 efe | dBA d2e | fAA AFA | Bdc d3 :|
+
+
+Tune 1732	Setting 6063
+
+X: 5
+T: Old Joe's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+e|:"D"fAA AFA |"G" BAF "D"A2A | "G"B3 "D"AFA |"E7"Bcd "A7"efg |
+"D"fAA AFA | "G"BAF "D"A2A |"G" B3 "D"AFA | "A7"Bdc "D"d3 :|
+|: "D"f3 "A"efe |"D" dBA d2e |"D" faa "G" afe |"D"faa "A7"b2a |
+"D"f3 "A"efe | "D"dBA d2e |"D" fAA AFA |"A7" Bdc "D"d3 :|
+
+
+Tune 1732	Setting 15161
+
+X: 8
+T: Old Joe's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+e | f2A AFA | BAF A3 | B/c/dB AFA | Bcd efg |f2A AFA | BAF A3 | B/c/dB AFA | Bdd d2 :|e | fgf efe | dBA d2e | fgf efe | dfa b2a |fgf efe | dBA d2e | fdB AFA | Bdd d2 :|
+
+

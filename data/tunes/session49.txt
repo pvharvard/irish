@@ -1,0 +1,79 @@
+Tune 49	Setting 22979
+
+X: 4
+T: The Harvest Home
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+A2|:"1"D2 (3FGA DAFA | BGec dcBA | "2"eAfA gefd | (3efe (3dcB (3ABA (3GFE |
+D2 (3FGA EAFA | BGec dcBA |1 eAfA gece | dfec d2A2 :|2 eAfA gece | dfec d2cd |
+|"3"eA (3cBA fA (3cBA | g (3cBA f (3cBA | eAfA gefd | (3efe (3dcB (3ABA (3GFE |
+D2 (3FGA DAFA | BGec dcBA |1 eAfA gece | dfec d2cd |2 eAfA gece | dfec d2|
+"Variations" "1"~D2 (3FGA DAFA |"2" ~e3f gfgf | edcB (3ABA (3GFE |"3" e AAA fAAA | gAAA fAAA |
+
+
+Tune 49	Setting 12479
+
+X: 2
+T: The Harvest Home
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+vcud | vD2 FA (DA)FA | vd(ef)c (dc)BA | v(e/f/g)fa (ga)fg | ve(dc)B (AG)FE |vD2 FA (DA)FA | d(ef)c (dc)BA | (e/f/g)fa (ge)cA | d(gf)e d2 AF |vD2 FA (DA)FA | d(ef)c (dc)BA | (e/f/g)fa (ga)fg | ve/uf/vedB (AG)FE |vD2 FA (DA)FA | d(ef)c (dc)BA | ve/uf/vgfa (ga)fg | d(gf)e d2 cd |v(eA)A/A/A (fA)A/A/(A | gA)fA eAA/A/A | v(e/f/g)fa g(gf)g | edcB A(GF)E|vD2 FA (DA)FA | d(ef)c (dc)BA | (e/f/g)fa (ge)cA | d(gf)e d2 cd |v(eA)A/A/A (fA)A/A/(A | gA)fA eAA/A/A | v(e/f/g)fa g(af)g | e/f/ed/c/B A/G/AF/G/E |vD2 FA (DA)FA | d(ef)c (dc)BA | (e/f/g)fa (ge)cA | d(gf)e d2 |
+
+
+Tune 49	Setting 21792
+
+X: 3
+T: The Harvest Home
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+"A"AF|:"D"DAFA DAFA|"D"defe dcBA|"A"eAfA gAfA|"Em"(3efe (3dcB "A7"(3ABA (3GFE|
+"D"DAFA DAFA|"D"defe dcBA|"A7"eAfA gfec|[1"D"d2 f2 d2 "A"AF:|[2"D"d2 f2 d2 cd|]
+|:"A"eAA/G/A "D"fAA/G/A|"A7"gAfA "D"eAA/G/A|"A"eAfA gAfA|"Em"(3efe (3dcB "A7"(3ABA (3GFE|
+"D"DAFA DAFA|"D"defe dcBA|"A7"eAfA gfec|[1"D"d2 f2 d2 cd:|[2"D"d2 f2 d4|]
+
+
+Tune 49	Setting 26326
+
+X: 5
+T: The Harvest Home
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: A>G | F>AD>A F>AD>A | d>ef>e d>cB>A | e>Af>A g>Af>A | e>dc>B (3ABA (3GFE |
+D>AF>A D>AF>A | d>ef>e d>cB>A | e>Af>A g>ec>e | d2 f2 d2 :|
+|: c>d | e>AA>A f>AA>A | g>Af>A e>AA>A | e>Af>A g>Af>A | e>dc>B (3ABA (3GFE |
+D>AF>A D>AF>A | d>ef>e d>cB>A | e>Af>A g>ec>e | d2 f2 d2 :|
+
+
+Tune 49	Setting 29014
+
+X: 6
+T: The Harvest Home
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:BdGd BdGd|gbab gfed |eAab c'abg |(3aba (3gfe dcBA|
+BdGd BdGd|gbaf gfed|(3efg ab c'afa |g2 gf [1 gedc:|[2 gd (3efg||
+ad (3ddd ed (3ddd|c' (3ddd ed (3ddd|eAab c'abg|(3aba (3gfe dcBA|
+BdGd BdGd|gbaf gfed|(3efg ab c'afa |g2 gf [1 gd (3efg|[2 gedc:|
+
+
+Tune 49	Setting 49
+
+X: 1
+T: The Harvest Home
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:AF|DAFA DAFA|defe dcBA|eAfA gAfA|(3efe (3dcB AGFE|DAFA DAFA|defe dcBA|eAfA gfec|d2 f2 d2:||:cd|eAAA fAAA|gAfA eAAA|eAfA gAfA|(3efe (3dcB (3ABA (3GFE|DAFA DAFA|defe dcBA|eAfA gfec|d2 f2 d2:|
+
+

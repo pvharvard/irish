@@ -1,0 +1,25 @@
+Tune 2466	Setting 15780
+
+X: 2
+T: The Portsmouth
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+|:C2|F3G AGFE|D4 d3e|f3c dcBA|G6 C2|F3G AGFE|D4 d4|cdcA GFGA|F6:||:c2|f3g agfe|d3c A2GF|f2c2 dcBA| G6 C2|F3G AGFE|D4 d4|cdcA GFGA|F6:|
+
+
+Tune 2466	Setting 2466
+
+X: 1
+T: The Portsmouth
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:D2|G3A BAGF|E4e4|d2B2cBAG|A6D2|
+G3A BAGF|E4e4|d2B2cBAB|G6:|
+|:D2|g3a bagf|g2d4B2|d2B2cBAG|A6 D2|
+G3A BAGF|E4e4|d2B2cBAB|G6:|
+
+

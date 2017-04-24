@@ -1,0 +1,39 @@
+Tune 6275	Setting 23805
+
+X: 3
+T: The Parting Glass
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|: BA G2 E2 E2 | DE G2 G2 A2 | GA B2 B2 BA | GA B2 D2 D2 |
+BA G2 E2 E2 | DE G2 G2 A2 | GA B2 e2 d2 | BA G2 E2 E2 :|
+|: Bc dB e2 d2 z| dd B e2 d3 | B c2 cB A2 G | A B2 D2 D2 B |
+A G2 E2 E2 D | E G2 G2 A2 G | A B2 e2 d2 B | A G2 E2 E3 :|
+
+
+Tune 6275	Setting 6275
+
+X: 1
+T: The Parting Glass
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+|:e>d | c2 B>c A2 AB | cdec d2 cd | e2 a ^f g=fed | c2 a2 g2 e>d |
+c2 B>c A2 AB | cdec d2 cd | e2 af gfed | c2 A2 A2 :|
+|: e>f | gfga gfed | e2 A2 A2 B>A | gfed cBcd | e2 G2 G2 e>d |
+c2 B>c A2 AB | cdec d2 cd | e2 af gfed| c2 A2 A2 :|
+
+
+Tune 6275	Setting 18065
+
+X: 2
+T: The Parting Glass
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+GEFD ~E3 F | ~G3 B ~A2 GA | B ~e3 edBA |1 G ~E3 (3DED :|(3dcd Bd ~e2 (3Bcd | edBG ~A2 Bc | d ~B3 edBA | GEFE D2 BA |~G2 FD ~E3 F | GFGB (3ABA GA | Be (3def edBA | GE (3FED E2 ||
+
+

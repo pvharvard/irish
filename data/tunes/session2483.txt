@@ -1,0 +1,64 @@
+Tune 2483	Setting 15790
+
+X: 3
+T: When The Cock Crows It Is Day
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+_gbd' ||g'd'b g'd'b|c._cbd'|g'db g'db|a._ etc ||
+
+
+Tune 2483	Setting 27038
+
+X: 4
+T: When The Cock Crows It Is Day
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+D|:GAB AGE|c2 B c2 D|GAB AGE|A2 G A2 D|
+GAB AGE|c2 d e/f/ge|dBG AGE|1 G3 G2:|2 G3 GBd||
+|:g2 e dBG|c3 c2d |e/f/ge dBG|A3 ABd|
+g2 e dBG|c2 d e/f/ge|dBG AGE|1 G3 GBd:|2G3 G2D||
+
+
+Tune 2483	Setting 2483
+
+X: 1
+T: When The Cock Crows It Is Day
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+D|GAB AGE|{e}c2 B c2 D|GAB AGE|{B}A2 G A2 D|
+GAB AGE|c2 d (3efg e|dBG AGE|1 G3 G2:|2 G3 GBd||
+g2 e dBG|c4 z d|(3efg e dBG|A3 ABd|
+g2 e dBG|c2 d (3efg e|dBG AGE|1 G3 GBd:|2G3 G2D|
+
+
+Tune 2483	Setting 15789
+
+X: 2
+T: When The Cock Crows It Is Day
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+D|GAB BAG|d3 d2B|GAB BAG|A3 ABA|GAB BAG|c2d ege|dBG AGE|G3 G2:|d|gdd gdd|c3 c2d|gdd gdB|A3 ABd|gdd gdB|c2d ege|dBG AGE|G3 G2:|
+
+
+Tune 2483	Setting 27364
+
+X: 5
+T: When The Cock Crows It Is Day
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+D|:GBB BAG|ded dBA|G3 BAG|A3 A2D|
+G3 BAG|d3 e/f/ge|dBG ABA|1 G3 G2:|2 G3 GB/c/d||
+|:gdd gdd|c3 c2d |gdd gdB|A3 AB/c/d|
+(g3 g)dB|c2 d e/f/ge|dBG ABA|1 G3 GB/c/d:|2G3 G2D||
+
+

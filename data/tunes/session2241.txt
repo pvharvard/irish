@@ -1,0 +1,69 @@
+Tune 2241	Setting 15609
+
+X: 2
+T: The Milky Way
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+D2 FD FAAB | d2 fd efdA | D2 FD FA A2 | BF F2 BFAF |D2 FD FAAB | d2 fd ef d2 | efdB BAFB | AFEG FD D2 :||efdB BAFA | d2 fd ef d2 | efdB BAFB | AFEG FD D2 |efdB BAFA | d2 fd efde | f2 df efdB | AFEG FD D2 :|
+
+
+Tune 2241	Setting 2241
+
+X: 1
+T: The Milky Way
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:D2 (3FED ADFA|d2 fd ef d2|D2 (3FED ADFA|BE E2 BE E2|
+D2 (3FED ADFA|d2 fd ef d2|dffd efdB|AFEF d4:|
+|:efdB AFEF|d2 fd ef d2|efdB AFEF|A2 FE AFAE|
+efdB AFEF|defd ef d2|dffd efdB|AFEF d4:|
+
+
+Tune 2241	Setting 15610
+
+X: 3
+T: The Milky Way
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:D2 (3FED FA A2|d2 fd efdA|D2 (3FED FA A2|BF F2 BFAF|D2 (3FED FAAB|d2 fd ef d2|efdB BAFB|AFEG FD D2 :||:efdB BAFA|d2 fd ef d2|efdB BAFB|AFEG FD D2|efdB BAFA|d2 fd efde|f2 df efdB|AFEG FD D2:|
+
+
+Tune 2241	Setting 15611
+
+X: 4
+T: The Milky Way
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: D2 ED FAAB | d2 fd efdB | D2 ED FAAd | BF~F2 BFAF |D2 ED FAAB | dffd ef d2 | efdB BAFB |[1 AFEG FDDE :|[2 AFEG FD D2 |||: efdB BAFA | dffd ef d2 | efdB BAFB | AFEG FD D2 |efdB BAFA | d2 fd efde | f2 df efdB |[1 AFEG FD D2 :|[2 AFEG FDDE |]
+
+
+Tune 2241	Setting 15613
+
+X: 6
+T: The Milky Way
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: D2 F/E/D FAA2 | defd efd2 | D2 F/E/D FA~A2 | BF~F2 BFAF |D2 F/E/D FAA2 | defd ef d2 | efdB BAFB |[1 AFEG FDDE :|[2 AFEG FD D2 |||: efdB BAFA | defd ef d2 | efdB BAFB | AFEG FD D2 |efdB BAFA | defd efde | f2 df efdB |[1 AFEG FD D2 :|[2 AFEG FDDE |]
+
+
+Tune 2241	Setting 15612
+
+X: 5
+T: The Milky Way
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: D2 F/E/D FAA2 | defd efd2 | D2 F/E/D FA~A2 | BF~F2 BFAF |D2 F/E/D FAA2 | defd ef d2 | efdB AF~F2 |[1 AFEG FDDE :|[2 AFEG FD D2 |||: efdB AF~F2 | defd ef d2 | efdB AF~F2 | AFEG FD D2 |efdB AF~F2 | defd efde | f2 df efdB |[1 AFEG FD D2 :|[2 AFEG FDDE |]
+
+

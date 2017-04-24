@@ -1,0 +1,108 @@
+Tune 273	Setting 273
+
+X: 1
+T: The Castle
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:~c3 BAG|AGE DB,G,|~A,3 EDB,|DEG AGE|
+cBA BAG|AGE DB,G,|A,2 E EDE|DB,G, A,2 B:|
+|:cBA ~a3|bag edB|GBd ~g3|GBd cBA|
+cBc dcd|ede gab|age dBG|EFG A2 B:|
+
+
+Tune 273	Setting 13017
+
+X: 5
+T: The Castle
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+c2 A BAG | AGE DBG | A^GA E^DE | DEG AGE |c2 A B/c/dB | AGE DBE | A^GA E^DE | DBG A2 :|cBA a^ga | bag edB | GBd gfg | GB/c/d cBA |c2 c d^cd | e^de gab | age dBG | E>FG A2 :|
+
+
+Tune 273	Setting 21994
+
+X: 8
+T: The Castle
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+B|:cBA BAG|AGE DB,G,|A,2,A, EDB,|DEG AGE|
+cBA BAG|AGE DB,G,|~A,3 EGE|DB,G, A,2B:|
+|:cBA a2a|bag edB|GBd g2g|GBd cBA|
+cBc dcd|ede gab|age dBG|1E^FG A2B:|2E^FG A2|
+
+
+Tune 273	Setting 25649
+
+X: 9
+T: The Castle
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:B|cBA BAG|AGE DB,G,|~A,3 EDB,|DEG AGE|
+c2A B/c/dB|AGE DB,G,|~A,3 E^CE|DB,G, A,2:|
+|:B|cBA ~a3|bag edB|GBd ~g3|G,B,D GBG|
+cBc d^cd|ede gab|age dBG|E^FG A2:|
+
+
+Tune 273	Setting 13019
+
+X: 7
+T: The Castle
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+c3 BAG|AGE DB,G,|~A,3 EDB,|DEG AGE| versus a3 bag| eaf ged | c2A BAG |EFG ABd||'Long' bag|XXX XXX|'Long' XXX|-EG AXX||
+
+
+Tune 273	Setting 13018
+
+X: 6
+T: The Castle
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+| AGE DBG | A^GA E^DE | - to - | AGE DB,G, | ~A,3 EDB, |c2 c d^cd | e^de gab | - to - | cdc d^cd | ede gab |
+
+
+Tune 273	Setting 13014
+
+X: 2
+T: The Castle
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:cBA afa|bag edB|GBd gfg|GBd cBA|1cBA afa|bag edB|GBd gdc|BAG A2B:|2cBc dcd|ede gab|age dBG|EFG A2 B||
+
+
+Tune 273	Setting 13015
+
+X: 3
+T: The Castle
+R: jig
+M: 6/8
+L: 1/8
+K: Cmaj
+fed edc|dcA GEC| DED AcA|GAc dcA|fed edc|dcA GEC|DED AcA|1 GEC D3:|2 GEC D2 F||FED ~d3|edc AGE|CEG cBc|CEG FED|~F3 ~G3|AGA cde|dcA GEC|1 A,B,C D3:|
+
+
+Tune 273	Setting 13016
+
+X: 4
+T: The Castle
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:cBA BAG|AGE DBG|~A3 EDB|DEG AGE|c2A B/2c/2dB|AGE DBG|~A2 E EDE|DBG A2 B:||:cBA ~a3|bag edB|GBd ~g3|GBd cBA|cBc dcd|ede gab|age dBG|EFG A2 B:|
+
+

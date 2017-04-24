@@ -1,0 +1,101 @@
+Tune 1831	Setting 1831
+
+X: 1
+T: The Maid On The Green
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+gfg e2d|Bee dBA|BGG dBG|BAG AB/c/d|
+~g3 eGd|BeB dBA|BGG dBA|AGF GA/B/d:|
+|:~g3 afd|~g3 a2a|bag agf|gef g2a|
+bag agf|~g3 e2d|Bee dBA|AGF GA/B/d:|
+
+
+Tune 1831	Setting 15261
+
+X: 3
+T: The Maid On The Green
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+d|gag e2d|Bee dBA|BAG AGA|BAA A2d|gfg e2d|Bee dBA|BAG dBA|AGG G2:|e|ggg aff|ggg a2e|ggg egg|ffe d2e|bbb aaa|ggg e2d|Bde dBA|AGG G2:|
+
+
+Tune 1831	Setting 15264
+
+X: 6
+T: The Maid On The Green
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+d|:g(3ggg e2d|B(3eee dBA|BAG AGA|BAA A2G|g(3ggg e2d|B(3eee dBA|BAG dBA|BGGG2:|e|:gggaee |ggga2e |ggg egg|ffe d2e|bbb aaa|ggg e2d|Bde dBA|BGGG:|
+
+
+Tune 1831	Setting 15262
+
+X: 4
+T: The Maid On The Green
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+gfg e2 d | Bge dBA | BGG dGG | BAA AB/c/d |gfg e2 d | BeB dBA | BGG dBA | AGF G :||: gfg afd | gfg abc' | bag agf | gef g2 a |[1 bg/a/b afa | gfg e2 d | BeB dBA | AGF G :|[2 bc'b ac/b/a | gea gdB | GeB dBA | AGF G |]
+
+
+Tune 1831	Setting 15260
+
+X: 2
+T: The Maid On The Green
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+d|gfg afd|~g3 ~a3|g2g eag|fdd d2a|bag agf|~g3 e2d|Bee dBA|BGF G2:|
+
+
+Tune 1831	Setting 15263
+
+X: 5
+T: The Maid On The Green
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: B/c/d |gfg e2 d | Bge dBA | BGG dGG | BAA AB/c/d |
+gfg e2 d | BeB dBA | BGG dBA | AGF G :|
+|: B/c/d ||: gfg afd | gfg abc’ | bag agf | gef g2 a |
+[1 bg/a/b afa | gfg e2 d | BeB dBA | AGF G :|
+[2 bc’b ac’/b/a | gea gdB | GeB dBA | AGF G |]
+
+
+Tune 1831	Setting 23272
+
+X: 7
+T: The Maid On The Green
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+d|:gfg e2d|Bee dBA|AGG dGG|BAG ABd|
+gfg e2d|Bee dBA|AGG dBA|BGF GBd:|
+|:g3 afd|g3 a3|bag agf|gef g2a|
+bag agf|gfg e2d|Bee dBA|1 BGF GBd:|2BGF G3||
+
+
+Tune 1831	Setting 25322
+
+X: 8
+T: The Maid On The Green
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+~g3 e2d|Bee dBA|BGG DGG|FAA ABd|
+~g3 e2d|Bde dBA|BGG dBA|AGF G3:|
+~g3 afd|~g3 a2f|~g3 eag|fd^c d2a|
+bag agf|~g3 e2d|Bde dBA|AGF GB/c/d:|
+
+

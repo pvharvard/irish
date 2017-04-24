@@ -1,0 +1,113 @@
+Tune 112	Setting 23558
+
+X: 6
+T: The Trip To Pakistan
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:EGBE G3B|A3G FGAF|EGBE G3B|AFDE FE E2:||
+|:EGBE c3A|B3G AGFG|EGBE c3A|BAGA BA A2:||
+|:FGBF GBFG|EFGE FGEF|DFAD FADF|AGFG E4:||
+|:EGBe e3f/g/|agbg agfg|EGBe e3f/g/|agfg e4:||
+
+
+Tune 112	Setting 23457
+
+X: 5
+T: The Trip To Pakistan
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:EGBE G3B|A3G FGAF|EGBE G3B|AGFG E4:||
+|:EGBG c3A|B3G AGFG|EGBG c3A|BAGB A4:||
+|:FGBF GBFG|EFGE FGEF|DFAD FADF|AGFG E4:||
+|:EGBe e4|agbg agfg|EGBe e4|agfg e4:||
+
+
+Tune 112	Setting 30225
+
+X: 9
+T: The Trip To Pakistan
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|: EGBE G3 B | A3 G FGAF | EGBE G3 B | AFDE FEED :|
+|: EGBE c3 A | B3 B BAGF|EGBE c3 A |BAGB ~A3G :|
+|: FGBF GBFG | EFGE FGEF | DFAD FADA | AGFG ~DE3 :|
+
+
+Tune 112	Setting 112
+
+X: 1
+T: The Trip To Pakistan
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:EGBE G3 B|A3 B AGFG|EGBE G3 B|AGFG E4:||:EGBG c3 A|B3 d AGFG|EGBG c3 A|BAGB A4:||:FGBF GBGF|EFGE FGFE|DFAD FADF|AGFG E4:|
+
+
+Tune 112	Setting 29585
+
+X: 7
+T: The Trip To Pakistan
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:EGBE G3 B|A3 G FGAF|EGBE G3 B|AGFG E4:|
+|:EGBE c3 A|B3 c BABG|EGBE c3 A|BAGB A4:|
+|:FGBF GBFG|EFGE FGEF|DFAD FADF|AGFG E4:|
+
+
+Tune 112	Setting 12697
+
+X: 2
+T: The Trip To Pakistan
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:Bc|~d3e dcBd|c2cA BGGF|EGBG ~c3d|BAGB A2:||:GE|DAAG ~A2cA|~B2dB ceGB|DAAG ABcA|BdcB A2:|
+
+
+Tune 112	Setting 30223
+
+X: 8
+T: The Trip To Pakistan
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|: BdfB d3 f | e3 d cdec | BdfB d3 f | ecAB cBBA :|
+|: BdfB g3 e | f3 f fedc|BdfB g3 e |fedf ~e3d :|
+|: cdfc dfcd | BcdB cdBc | AceA ceAe | edcd ~AB3 :|
+
+
+Tune 112	Setting 12698
+
+X: 3
+T: The Trip To Pakistan
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|: BdfB d3 f | e3 d cdec | BdfB d3 f |[1 edcd B4 :|[2 edcd B2 BA :||: BdfB g3 e | f3 a fefd|BdfB g3 e |[1 fedf e4 :|[2 fedf e2 a2 :||: cdfc dfdc | BcdB cdcB | AceA ceAe |[1 edcd B4 :|[2 edcd B2 BA :|
+
+
+Tune 112	Setting 20981
+
+X: 4
+T: The Trip To Pakistan
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+|:E^GBE ^G3 B|A3 B A^GF^G|E^GBE ^G3 B|A^GF^G E4:|
+|:E^GB^G c3 A|B3 d A^GF^G|E^GB^G c3 A|BA^GB A4:|
+|:F^GBF ^GB^GF|EF^GE F^GFE|DFAD FADF|A^GF^G E4:|
+
+

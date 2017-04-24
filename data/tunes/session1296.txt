@@ -1,0 +1,25 @@
+Tune 1296	Setting 14604
+
+X: 2
+T: The Old French
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+| (3ABc | d2 c>d B>dA>F | D>FA>d (3fgf e>d | c>de>f g>ec>e | d>fe>d (3BcB ~
+
+
+Tune 1296	Setting 1296
+
+X: 1
+T: The Old French
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+(3ABc|d2cd BdAF|DFAd f2ed|cdef gece|defd A2(3ABc|
+d2cd BdAF|DFAd f2ed|cdef gece|d2f2 d2:|
+|:cd|efed c2A2|AEAc e2dc|BGBd gfed|cAce a2cd|
+efed (3cdc A2|AEAc e2dc|bGBd gfed|c2A2 A2:||
+
+

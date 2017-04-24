@@ -1,0 +1,25 @@
+Tune 705	Setting 13768
+
+X: 2
+T: Barrowburn
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:D2ED FA~A2|ABBA BcdB|AFAB d3e|fedB AFEA|D2ED FA~A2|ABBA Bcde|fagf egfe|1 dBAB dBAF:|2 dBAB d2cd|||:e2ef ecBA|f2fg fdBA|g2ga gecA|a2ag f2ef|g2ga gecA|a2ag f2ef|g2ag f2ed|1 dBAB d2cd:|2 dBAB dBAF||
+
+
+Tune 705	Setting 705
+
+X: 1
+T: Barrowburn
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+FE|~D2DE FAAd | ~B2BA BddB | ~A2AB d2de | fedB AFEF |
+~D2DE FAAd | ~B2BA Bdde | f2af e2fe | dBAB d2:||
+cd|~e2ef ecBA | ~f2fg fdBA | ~g2ga gecA | a2ag f2ef |
+g2ga gecA | a2ag f2ef | g2ag f2ed | dBAB d2:||
+
+

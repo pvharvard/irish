@@ -1,0 +1,103 @@
+Tune 3640	Setting 3640
+
+X: 1
+T: The Barren Rocks Of Aden
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|:f2 f>e|df Ad|ce AB/c/|de fd|
+f2 f>e|df Ad|ce AB/c/|1 d2 de:|2 d2 df||
+|:af df|ef Af|ge ce|d/e/f/g/ a>f|
+af df|ef Af|ge ce|1 d2 df:|2 d2 d2||
+
+
+Tune 3640	Setting 16649
+
+X: 4
+T: The Barren Rocks Of Aden
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|:d/e/|f>g fe|df Ad|ce A/A/e|fA de|f>g fe|df Ad|ce A/A/e|d2 d:||||f/g/|a>f df|ef Ae/f/|ge ce|df Af/g/|a>f df|ef Ae/f/|ge ce|d2 df/g/|a/f/d/f/ a/f/d/f/|ef Ae/f/|g/e/c/e/ g/e/c/e/|df Af/g/|a/f/d/f/ a/f/d/f/|ef Ae/f/|ge ce|d2 d||
+
+
+Tune 3640	Setting 29586
+
+X: 8
+T: The Barren Rocks Of Aden
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|:e|f>g fe|df Ad|ce Ad/e/|fA de|
+f>g fe|df Ad|ce Af/e/|d2 d:|
+f/g/|a>f df|ef Ae/f/|g>e ce|df Af/g/|
+a>f df|ef Ae/f/|ge cA|d2 d :|
+e | f>g fe | d/e/f/d/ Ad | c/d/e/c/ A/A/d/e/ | f/f/A/A/d/d/e/e/ |
+f>g fe | d/e/f/d/ Ad |  c/d/e/c/ A/A/f/e/ | d2 d:|
+f/g/|a/f/d/f/ a/f/d/f/|ef Ae/f/|g/e/c/e/ g/e/c/e/|df Af/g/|
+a/f/d/f/ a/f/d/f/|ef Ae/f/|ge ce|d2 d :||
+
+
+Tune 3640	Setting 16650
+
+X: 5
+T: The Barren Rocks Of Aden
+R: polka
+M: 2/4
+L: 1/8
+K: Gmaj
+|: B>d BA | GB DG | FA/F/ ED | BD GA | B>d BA | GB DG | FA/F/ EF |[1 G2 G>A :|[2 G2 G/A/B/c/ |||: dB GB | Ac E>A | cA FD | GB d>B |dB GB | Ac E>A | cA FD |[1 G2 G>B :|[2 G2 G>A |]
+
+
+Tune 3640	Setting 26201
+
+X: 7
+T: The Barren Rocks Of Aden
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|:e|f>g fe|df Ad|ce Ad/e/|fA de|
+f>g fe|df Ad|ce Af/e/|d2 d:|
+f/g/|a>f df|eg Ae/f/|g>e ce|df Af/g/|
+a>f df|eg Ae/f/|ge ce|d2 d |
+f/g/|a/f/d/f/ a/f/d/f/|eg Ae/f/|g/e/c/e/ g/e/c/e/|df Af/g/|
+a/f/d/f/ a/f/d/f/|eg Ae/f/|ge ce|d2 d |]
+
+
+Tune 3640	Setting 16647
+
+X: 2
+T: The Barren Rocks Of Aden
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|:e|f>g fe|df Ad|ce Ae|fA de|f>g fe|df Ad|ce Af/e/|d2 d:||:f/g/|a>f df|eg Ae/f/|g>e ce|df Af/g/|a>f df|eg Ae/f/|g>e ce|d2 d:||:f/g/|a/f/d/f/ a/f/d/f/|eg Ae/f/|g/e/c/e/ g/e/c/e/|df Af/g/|a/f/d/f/ a/f/d/f/|eg Ae/f/|g>e ce|d2 d:|
+
+
+Tune 3640	Setting 16651
+
+X: 6
+T: The Barren Rocks Of Aden
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+fg fe | df Ad | ce Bc | d/d/A de |fg {f/g/}fe | df Ad | ce Bc | d2 d :|aa/f/ df | eg B2 | gg/e/ ce | df A2 | aa/f/ df | eg B2 | gg/e/ cA | d2 d :|
+
+
+Tune 3640	Setting 16648
+
+X: 3
+T: The Barren Rocks Of Aden
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|:f/g/|a/f/d/A/ A/f/d/f/|a/f/d/A/ A/f/d/f/|a/f/d/A/ A/f/d/f/|a/f/d/A/ A/f/d/f/|g/e/c/A/ A/e/c/e/|d2 d:|
+
+

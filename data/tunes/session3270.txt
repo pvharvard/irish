@@ -1,0 +1,60 @@
+Tune 3270	Setting 16339
+
+X: 4
+T: The Road To Cashel
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+FEED ~E3G | FE~E2 FABA | FEED ~E3 G | FDDc dABA :|!~B3d ef{a}fe|df~f2 afed|Bdge ~f3e|dBAF {G}FE{F}ED|!~B3d ef{a}fe|df ~f2 aefa|bf~f2 aefa|bfaf edBA|!
+
+
+Tune 3270	Setting 16337
+
+X: 2
+T: The Road To Cashel
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+FEED E3B|FE~E2 F2AB|FEED E2BA|1 FDD2 B/c/dAB:|2 FDD2 B/c/dAd||!BA B/c/d egfe|d2ab afed|B/c/d ge ~f3e|dBAF FEE2|!BA B/c/d egfe|d2ab afed|bf~f2 afef|bfaf edBA|!
+
+
+Tune 3270	Setting 22062
+
+X: 5
+T: The Road To Cashel
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:FEED E2EG|FEE2 DFAB|FEED B,EGE|FD (3DDD FABA|
+FEED E2EG|FEE2 DFAB|FE (3EEE EFGE|FADF ADFA:|
+|:B3B d (3efg fe|defa afed|B3B gf2f|dBAd BE2E|
+BABd e^def|dfab adfa|bf2f af2f|bfaf edBA| FEDE2:|
+
+
+Tune 3270	Setting 3270
+
+X: 1
+T: The Road To Cashel
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+FEED E2E2|FE~E2 deBd|FEED E2BA|1 FDD2 dABd:|2 FAdA BdAd||
+~B3d fgfe|dfab afed|(3Bcd ge ~f3e|dBAF FEE2|
+~B3d fgfe|dfab afef|bf~f2 af~f2|bfaf edBA||
+
+
+Tune 3270	Setting 16338
+
+X: 3
+T: The Road To Cashel
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|FEED ~E3B|FE~E2 dFAB|FEED E2BA|FDDA B/c/d Ac|BEED ~E3B|FE~E2 dFAB|FEED E2BA|FDDA B/c/d Ac|~B2d e2fe|dfab afed|Bdge ~f3e|dBAF BE~E2|~B2d e2fe|dfab afef|bf~f2 afef|bfaf edBA||
+
+

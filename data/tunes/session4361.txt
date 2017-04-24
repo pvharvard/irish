@@ -1,0 +1,54 @@
+Tune 4361	Setting 24593
+
+X: 2
+T: The Seagull
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|:aga fae|fec Bce|aga fae|fec Ace|
+aga fae|fec Bce|afe fae|fec Ace:|
+|:fcc cBB|fec Bce|fcc cBB|fec Ace|
+fcc cBB|fec Bce|afe fae|fec Ace:|
+|:cfe Bce|fec Bce|cfe Bce|fec Ace|
+cfe Bce|fec Bce|afe fae|fec Ace:|
+|:aec Bce|fec Bce|aec Bce|fec Ace|
+aec Bce|fec Bce|afe fae|fec Ace:|
+
+
+Tune 4361	Setting 27802
+
+X: 3
+T: The Seagull
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:gfg egd|edB ABd|gfg egd|edB GBd|
+gfg egd|edB ABd|ged egd|edB GBd:|
+|:eBB BAA|edB ABd|eBB BAA|edB GBd|
+eBB BAA|edB ABd|ged egd|edB GBd:|
+|:Bed ABd|edB ABd|Bed ABd|edB GBd|
+Bed ABd|edB ABd|ged egd|edB GBd:|
+|:gdB ABd|edB ABd|gdB ABd|edB GBd|
+gdB ABd|edB ABd|ged egd|edB GBd:|
+
+
+Tune 4361	Setting 4361
+
+X: 1
+T: The Seagull
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|:aga fae|fec Bce|aga fae|fec Ace|
+aga fae|fec Bce|afe fae|fec Ace:|
+|:fcc cBB|fec Bce|fcc cBB|fec Ace|
+fcc cBB|fec Bce|afe fae|fec Ace:|
+|:cfe Bce|fec Bce|cfe Bce|fec Ace|
+cfe Bce|fec Bce|afe fae|fec Ace:|
+|:aec Bce|fec Bce|aec Bce|fec Ace|
+aec Bce|fec Bce|afe fae|fec Ace:|
+
+

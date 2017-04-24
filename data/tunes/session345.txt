@@ -1,0 +1,115 @@
+Tune 345	Setting 13145
+
+X: 3
+T: The Lilting Fisherman
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+G3 E GAcd | edcB cA A2 | GE ~E2 GAcd |1. edcB c3 A:|2. edcB c3 d ||eg ~g2 ea ~a2 | gede cA A2 | eg ~g2 ea ~a2 | gabg a3 g|eg ~g2 agea | gede cA A2 | GE ~E2 GAcd |1. edcB c3 d:|2. edcB c3 A ||
+
+
+Tune 345	Setting 13144
+
+X: 2
+T: The Lilting Fisherman
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+|:GE E2 GAcd|edcB cA A2|GE E2 GAcd|1 edcB c3 A:|2 edcB c3 d|||eg g2 agea|gede cA A2|eg g2 ea a2|gabg a3 g||eg g2 agea|gede cA A2|GE E2 GAcd|edcB c3 A||
+
+
+Tune 345	Setting 25460
+
+X: 8
+T: The Lilting Fisherman
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:A3F ABde | fedc dB B2 | AF F2 ABde | fedc d3B |
+A3F ABde | fedc dB B2 | AF F2 ABde | fedc d3e ||
+|:fa a2 bafb | afef dB B2 | fa a2 fb b2 | abc'a b3a |
+fa a2 bafb | afef dB B2 | AF F2 ABde | fedc d3B ||
+
+
+Tune 345	Setting 25459
+
+X: 7
+T: The Lilting Fisherman
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+|:G3E GAcd | edcB cA A2 | GE E2 GAcd | edcB c3A |
+G3E GAcd | edcB cA A2 | GE E2 GAcd | edcB c3d ||
+|:eg g2 agea | gede cA A2 | eg g2 ea a2 | gabg a3g |
+eg g2 agea | gede cA A2 | GE E2 GAcd | edcB c3A ||
+
+
+Tune 345	Setting 345
+
+X: 1
+T: The Lilting Fisherman
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+cA|G~E3 GAcd|egdB cAAc|G~E3 GAcd|egdB c2 cA|
+|G~E3 GAcd egdB cAAc|G~E3 GAcd|egdB c3 d|
+|e~g3 e~a3|gedB cAAc|e~g3 e~a3|gabg a2 ag|
+|e~g3 e~a3|gedB cAAc|G~E3 GAcd|egdB c2 cA|
+
+
+Tune 345	Setting 21904
+
+X: 6
+T: The Lilting Fisherman
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+B-A|GE~E2 cdef|gedB c-A Az|GE~E2 cdef|gedB c2:|
+c-d|ef~g2 eaaf|gedB c-AA2|ef~g2 eaab|c'bag a2g-f|
+ef~g2 eaaf|gedB cAA2|GE~E2 cdef|gedB c2c-d||
+ef~g2 eaaf|gedB c-AA2|ef~g2 eaab|c'bag a2ab|
+(3c'ba bg agef|gedB c-AA2|GE~E2 cdef|gedB c2|]
+
+
+Tune 345	Setting 13146
+
+X: 4
+T: The Lilting Fisherman
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+cA|G~E3 GAcd|egdB cAAc|G~E3 GAcd|egdB c2 cA||G~E3 GAcd|egdB cAAc|G~E3 GAcd|egdB c3 d||e~g3 e~a3|gedB cAAc|e~g3 e~a3|gabg a2 ag||e~g3 e~a3|gedB cAAc|G~E3 GAcd|egdB c2 cA|
+
+
+Tune 345	Setting 28528
+
+X: 9
+T: The Lilting Fisherman
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+|G~E3 GAcd|egdB cAAc|G~E3 GAcd|egdB c2 Ac|
+|G~E3 GAcd|e2dB cAAc|G~E3 GAcd|egdB c3d|
+|e~g3 eaae|gedB cAAc|e~g3 e~a3|bagb a3g|
+|egge agea|gedB cAAc|G~E3 GAcd|e2dB cAAc|
+
+
+Tune 345	Setting 13147
+
+X: 5
+T: The Lilting Fisherman
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DE|G2~G2 G2Bd|egdB cABA|GE~E2 G2Bd|gedB cABA|GBAF G2Bd|egdB cABA|GE~E2 G2Bd|gedB ~c3d||eg~g2 ~a3e|gedB cAA2|eg~g2 eaab|(3c'ba b^g aba=g|eg~g2 eaaf|gedB cABA|GE~E2 G2Bd|egdB ~c3d|eg~g2 ~a3e|gedB cAA2|eg~g2 eaab|(3c'ba b^g abab|c'aba agef|gedB cABA|GE~E2 G2Bd|egdB cABA||
+
+

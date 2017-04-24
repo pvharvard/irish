@@ -1,0 +1,86 @@
+Tune 746	Setting 746
+
+X: 1
+T: The Miller Of Droghan
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+A2 cA EAcA | Fffg afec | A2 cA eAcB | AFAB cecB |
+A2 cA EAcA | Fffg ~a2 fa | gafg ec ~c2 | AFAB c2 (3cde |
+fF ~F2 EFCF | EFAB cdcB | AF ~F2 EFCF | EFAB cB (3cde |
+fF ~F2 EFCF | EFAB cdcB | AF ~F2 EFCF | EFAB cdcB |
+
+
+Tune 746	Setting 13836
+
+X: 4
+T: The Miller Of Droghan
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G2 BG DGBG|Eeef gedB|G2 BG dGBA|GEGA BcBA|G2 BG DGBG|Eeef gfeg|fdef dBBA|1 GEGA BcBA:|2 GEGA BA (3Bcd||e~E3 DEB,E|DEGA BcBA|G~E3 DEB,E|DEGA BA (3B^cd|e~E3 DEB,E|DEGA BcBA|G~E3 DEB,E|DEGA BcBA||
+
+
+Tune 746	Setting 13834
+
+X: 2
+T: The Miller Of Droghan
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|:G2BG DGBG|EGef gdBA|G2BG DGBA|GEGA BdBA|G2BG DGBG|EGef gdBA|faef d2ed|1 BAGA B2BA:|2 BAGA BG (3Bcd||eEE2 DEBE|DEGA B2BA|GEE2 DEBE|DEGA BG(3Bcd|eEE2 DEBE|DEGA B2BA|GEE2 DEBE|DEGA B2BA|
+
+
+Tune 746	Setting 13837
+
+X: 5
+T: The Miller Of Droghan
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:"G" G2BG DGBG| "Em" EBef gedB | "G"G2BG DGBA | "C"GEGA "D"BdBA |"G"G2BG DGBG | "Em" EBef gfed|"Bm" faef deBA |1 "C"GEGA "D"~B3A:|2 "C" GEGA "D" BA (3B^cd||"Em" eE~E2 DEBE | "D" DEGA "Bm" ~B3A | "C" GE~E2 DEBE|"Bm"DEGA "G"BA (3B^cd|"Em" eE~E2 DEBE|"Bm" DEGA BdBA|"C"GE~E2 "D" DEBE|"Em" DEGA "F#m" ~B3A||
+
+
+Tune 746	Setting 25218
+
+X: 7
+T: The Miller Of Droghan
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2BG DGBG|EBef gedB|G2BG DGBA|GEGA BdBA|
+G2BG DGBG|EBef gfed|faef deBA|1 GEGA B3A:|2 GEGA BA (3B^cd||
+eE E2 DEBE|DEGA B3A|GE E2 DEBE|DEGA BA (3B^cd|
+eE E2 DEBE|DEGA BdBA|GE E2 DEBE|DEGA B3A||
+
+
+Tune 746	Setting 25215
+
+X: 6
+T: The Miller Of Droghan
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+Bd[|eE EE DGB,G|DEGA BAGA|GE EE DGB,G|DEGA BABd|
+eE EE DGB,G|DEGA BAGA|GE EE DGB,G|DEGA BdBA||
+G2 BG dG (3BAG|Eeef gedB|G2 BG dGBA|GEGA BdBA|
+G2 BG dG (3BAG|Eeef gfed|faef deBA|GEGA Bdef|]
+
+
+Tune 746	Setting 13835
+
+X: 3
+T: The Miller Of Droghan
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2BG DGBG|EBef gedB|G2BG DGBA|GEGA BdBA|G2BG DGBG|EBef gfed|faef deBA|1 GEGA ~B3A:|2 GEGA BA (3B^cd||eE~E2 DEBE|DEGA ~B3A|GE~E2 DEBE|DEGA BA (3B^cd|eE~E2 DEBE|DEGA BdBA|GE~E2 DEBE|DEGA ~B3A||
+
+

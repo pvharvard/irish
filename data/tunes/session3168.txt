@@ -1,0 +1,46 @@
+Tune 3168	Setting 16262
+
+X: 2
+T: The Old Dudeen
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+fe|dB{d}BA ~F3 A|dcde fgfe|dB{d}BA ~F3 A|BdcA B3 c||dB{d}BA ~F3 A|dcde fgfe|dB{d}BA ~F3 A|BdcA B3 g|||fdBc ~d3 f|a2 a^g afe=g|fdBd A/B/A de|fbaf [e3e3] g||fdBc ~d3 e|fbbf a2 fa|b3 f a2 fa|bfaf egfe||
+
+
+Tune 3168	Setting 16263
+
+X: 3
+T: The Old Dudeen
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+fedc BAFA|~d3e fdef|dBcB BAFA|BdcA ~B3c|dBBA ~F3A|~d3e faef|dBcB BAFA|BdcA ~B3c||d2Bc dcde|f2bf afeg|fdBc ~d3e|fbaf edeg|fdBc dcde|f2bf afef|bf~f2 af~f2|bfaf edeg||
+
+
+Tune 3168	Setting 3168
+
+X: 1
+T: The Old Dudeen
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|:fe|dBBA FEFA|dcde fgfe|dBBA ~F3 A|BdcA B2:|
+Bc|:d2 Bc dcde|fbbf afef|dBBc dcde|fbaf e2 de|
+fB~B2 dcde|fbbf a2 fa|bfbf abaf|bf~f2 eafe:|
+
+
+Tune 3168	Setting 16264
+
+X: 4
+T: The Old Dudeen
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+fe|dB{d}BA ~F3 A|dcde fgfe|dB{d}BA ~F3 A|(3Bcd cA B3 c||dB{d}BA ~F3 A|dcde fgfe|dB{d}BA ~F3 A|(3Bcd cA ~B2 eg|||fdBc ~d3 e|ffbf afeg |fd (3Bcd ABde|fbaf e3 g||fdBc ~d3 e|ffbf a2 fa|b3 f a2 fa|bfaf egfe||
+
+

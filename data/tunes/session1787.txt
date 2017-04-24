@@ -1,0 +1,111 @@
+Tune 1787	Setting 15235
+
+X: 6
+T: The Trip To Birmingham
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+DGGF GAB/c/d | e2 ge edBA | G2 GB dGBG | ABAG EG DG | DGGF GAB/c/d | e2 ge efga | bg g2 ageg |1 dBAB G3 E :|2 dBAB GABc ||dggf g2 ga | bgag edBA | G2 GB dGBG | ABAG EG D2 | |1dggf g2 ga | bgag edBA | G2 GB dGBG | AGFA GABc :| |2dg g2 ag g2 | ab ag edBA | G3 B dGBG | AGFA G4 ||
+
+
+Tune 1787	Setting 27817
+
+X: 8
+T: The Trip To Birmingham
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:DGGF G2 (3Bcd | e3d edBA | G3B dGBG | ABAG EGGE |
+DGGF G2 (3Bcd | e3d efga | bg g2 ageg |dBAB G3:||
+|:dggf g3a | bg g2 edBA | G3B dGBG | ABAG EG G2 |
+dggf g3a | bg g2 edBA | G3B dGBG | AGFA G3e |
+dggf g3a | bg g2 edBA | G3B dGBG | ABAG EG G2 |
+dg g2 ag g2 | bg g2 edBA | G3B dGBG | AGFA G3 ||
+
+
+Tune 1787	Setting 15233
+
+X: 4
+T: The Trip To Birmingham
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+Part A, second and third bars |eged edBA|G3B G3B|
+
+
+Tune 1787	Setting 20577
+
+X: 7
+T: The Trip To Birmingham
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: GE |DGGF GABd | eged edBA | G3 B dGBG | ABAG ED ~D2 |
+DGGF GABd | eged efga | bggb ageg | dBAB G2- :|
+|: Bc |dggf g2 ga | bgag edBA | G3 B dGBG | ABAG ED ~D2 |
+[1 dggf g2 ga | bgag edBA | G3 B dGBG | AGFA G2 :|
+[2 dg ~g2 bg ~g2 | bgfa gedB | G3 B dGBG | AGFA G2 |]
+
+
+Tune 1787	Setting 15232
+
+X: 3
+T: The Trip To Birmingham
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+E|DGGF G2Bd | ~e3d edBA | ~G3B dGBG | ABAG EFGE |
+DGGF G2Bd | ~e3d efga | bg~g2 ageg |dBAB G3:|
+e|dggf g2 ga | bg~g2 edBA | ~G3B dGBG | ABAG EFG2 |
+dggf g2 ga | bg~g2 edBA | ~G3B dGBG | AGFA G3e |
+dggf g2 ga | bg~g2 edBA | ~G3B dGBG | ABAG EFG2 |
+dg~g2 ag~g2 | bg~g2 edBA | ~G3B dGBG | AGFA G3 ||
+
+
+Tune 1787	Setting 15234
+
+X: 5
+T: The Trip To Birmingham
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: GE |DGGF GABd | eged edBA | G3 B dGBG | ABAG ED ~D2 |
+DGGF GABd | eged efga | bggb ageg | dBAB G2- :|
+|: Bc |dggf g2 ga | bgag edBA | G3 B dGBG | ABAG ED ~D2 |
+[1 dggf g2 ga | bgag edBA | G3 B dGBG | AGFA G2 :|
+[2 dg ~g2 bg ~g2 | bgfa gedB | G3 B dGBG | AGFA G2 |]
+
+
+Tune 1787	Setting 1787
+
+X: 1
+T: The Trip To Birmingham
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+DB{A}GF GzBd|~E3D edBA|~G3B dzBG|ABAG EGDE|
+DG{A}GF Gz{A}BD|e~d3 efga|b~g3 azge|dBAB {A}G4:|
+|:dggf gzg2|{c}Bgag edBA|~g3B d2BG|ABAG EGDz|
+dg{a}gf gzga|bgag edBA|~g3B d2BG|AGFA G4:|
+"variation"
+d~G3 A~G3|BG{B}AG edBA|~G3B DzBG|AGFA {A}G4:|
+
+
+Tune 1787	Setting 15230
+
+X: 2
+T: The Trip To Birmingham
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+DGGF GABd | e2 ed edBA | G2 GB dGBG | ABAG ED D2 | DGGF GABd | e2 ed efga | bg g2 ageg |1 dBAB G3 E :|2 dBAB G2 Bc | dggf g2 ga | bgag edBA | G2 GB dGBG | ABAG ED D2 | 1 dggf g2 ga | bgag edBA | G2 GB dGBG | AGFA GABc :| 2 dg g2 ag g2 | b2 ag edBA | G3 B dGBG | AGFA G4 |
+
+

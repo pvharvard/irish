@@ -1,0 +1,39 @@
+Tune 114	Setting 25453
+
+X: 2
+T: The Teetotallers
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:(3DEF|G3F GABc|dgge dBAc|BEED EFGA |BGAF GFED|
+G3F GABc|dgge dBAc|BEED EFGA |BGAF G2:||
+|:A2|Beed e3f| geaf gfed| Add^c d3e | fdaf gfed|
+Beed e3f|geaf gfed|BEED EFGA|BGAF G2:||
+
+
+Tune 114	Setting 25666
+
+X: 3
+T: The Teetotallers
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:"G"G/G/G GF GABc|d/d/d eB dBAc|"Em"BE E/E/D EFGA |BGAF GFED|
+"G"G/G/G GF GABc|d/d/d ee dBAc|"Em"BE E/E/D EFGA |"D"BGAF "G"G2G2:|
+|:"Em"Be e/e/d e2ef| gfaf gfed|"D"Ad d/d/^c d2de| fdaf gfed |
+"Em"Be e/e/d e2ef|geaf gfed|BE E/E/D EFGA|"D"BGAF "G"G2G2:|
+
+
+Tune 114	Setting 114
+
+X: 1
+T: The Teetotallers
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2 GF GABc|dBeB dBAc|BEED EFGA |BGAF GFED|G2 GF GABc|dBeB dBAc|BEED EFGA |BGAF G4:||:Beed e2ef| gfaf gfed| B^cde d2ef| gfaf gfed|Beed e2ef|gfaf gfed|BEED EFGA|BGAF G4:|
+
+

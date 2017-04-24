@@ -1,0 +1,93 @@
+Tune 1409	Setting 14786
+
+X: 7
+T: The Milliner's Daughter
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+dg~g2 dg~g2|df~f2 df~f2|dgg fg2ge|d^cde fd=cA|dg~g2 bgag|dcde ~f3g|afge fde^c|d2 (3efg fd=cA||
+
+
+Tune 1409	Setting 22942
+
+X: 8
+T: The Milliner's Daughter
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2BG DGBG|A2 eg fdcA|G2BG DGBG|AD F2 ABcA|
+G2BG DGBG|A2 eg fdcA|G2BG DGBd|cAFG AGG2||
+|:dg g2 dg g2|df f2 df f2|dg g2 dg g2|d^cde fd=cA|
+dg g2 bgag|fdde f3g|afge fde^c|d2 (3efg fd=cA||
+
+
+Tune 1409	Setting 14781
+
+X: 2
+T: The Milliner's Daughter
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2BG DG (3Bcd|{g}~a3g fdcA|FGBG dG (3Bcd|cAFG AG{A}GF|GdBG DG (3Bcd|{g}~a3g fdcA|FG{A}GF D2Bd|cAFG AG{A}GF:||:d~g2f d~g2f|df~f2 d~f2e|d2gf ~g3f|d2de fdcA|dg~g2 b2ag|e~f2e ~f3g|af{a}ge fd~e2|d2 (3efg fdcA:|
+
+
+Tune 1409	Setting 1409
+
+X: 1
+T: The Milliner's Daughter
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G2BG DGBG|A2 (3efg fdcA|G2BG DGBd|1 cAFG AGGF:|2 cAFG AGG2||
+dg~g2 dg~g2|df~f2 df~f2|dg~g2 dg~g2|d^cde fd=cA|
+dg~g2 bgag|fdde ~f3g|afge fde^c|d2 (3efg fd=cA||
+
+
+Tune 1409	Setting 14782
+
+X: 3
+T: The Milliner's Daughter
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G|~G2BG DGBG|~A2eg fdcA|~G2BG DGBG|AD~F2 ABcA|~G2BG DGBG|.A2~g2 fd^cA|~G2BG DGBG|cAFA AGG||B||.dg~g2 .dg~g2|.de~f2 .de~f2|.dg~g2 .dg~g2|d^cde fdcA|dg~g2 bgad|fdd(e~f3)g|af (3.g.f.e) fdec|d^cde fdcA||
+
+
+Tune 1409	Setting 14785
+
+X: 6
+T: The Milliner's Daughter
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+dg~g2 dg~g2| df~f2 df~f2| dg~g2 bgag|d^cde fd=cA|dg~g2 bgag| d^cde ~f3|afge fde^c|d^cde fd=cA||dg~g2 dg~g2| d=f~=f2 d=f~=f2| dg~g2 bgag|d^cde =fdcA|dg~g2 bgag| d^cde ~f3|afge fde^c|d^cde fdcA||
+
+
+Tune 1409	Setting 14783
+
+X: 4
+T: The Milliner's Daughter
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2BG DGBG|A2 (3efg fdcA| G2BG DGAB| cAFG AGGF |!G2BG DGBG|A2 (3efg fdcA | GB ~B2 dB ~B2 |1 cAFG AGGF:|2 cAFG AGGB|!:dg~g2 dg~g2|df~f2 df~f2|dggf gagf|d^cde fd=cA|!dg~g2 bgaf|d^cde f2 fg|afge fde^c|d2 eg fd=cA:||!|"End"d2 eg fd=cA|G4 z4||!
+
+
+Tune 1409	Setting 14784
+
+X: 5
+T: The Milliner's Daughter
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G2BG DGBG|A2(3efg fdcA|G2BG DGBd|cAFG AGGF|G2BG DGBG|A2(3efg fdcA|GB~B2 FA~A2|cAFG AGG2||dg~g2 dg~g2|df~f2 df~f2|dg~g2 bgag|d^cde fd=cA|dg~g2 bgag|d^cde ~f3g|afge fde^c|d^cde fd=cA||
+
+

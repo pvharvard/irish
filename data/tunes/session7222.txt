@@ -1,0 +1,34 @@
+Tune 7222	Setting 7222
+
+X: 1
+T: Tie The Bonnet
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+~E3B BABG|EFGE FDDF|~E3B BABc|1 dfed dBAF:|2 dfed dBAd||
+|:BA (3Bcd efge|fdfa afdf|g2bg faaf|1 (3efg fe dBAd:|2 (3efg fe dBAF||
+
+
+Tune 7222	Setting 18754
+
+X: 2
+T: Tie The Bonnet
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|: B2 ef efge | fefg afdf | g2 bg faaf | egfd edBA |B2 ef efge | fefg afdf | g2 bg faaf | edfe dBAF :||: E2 BA BAGF | E3 G FDDF | EB B2 BABd | egfe dBAF |E3 B BAGF | E3 G FDDF | EB B2 BABd | egfd Beef :||:eB B2 efge | d2 fg afdf | gfge f3 d | egfd edBA |B2 ef efge | fefg afdf | g2 bg faaf | edfe dBAF :||: E3 A B2 GF | EDEG FDDF | EB B2 BABd | egfe dBAF |E3 B BAGF | E3 G FDDF | EB B2 BABd | egfd Beef :|
+
+
+Tune 7222	Setting 18755
+
+X: 3
+T: Tie The Bonnet
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+E3B BABG|EGBG FDAF|~E3B BABc|1 d2fe dBAF:|2 dfed dBAd|||:BA (3Bcd e2fe|defg afdf|1 g2bg fdaf|(3efg fe dBAd:|2 g2bg effd|(3efg fe dBAF||
+
+

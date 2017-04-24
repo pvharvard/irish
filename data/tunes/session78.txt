@@ -1,0 +1,47 @@
+Tune 78	Setting 12570
+
+X: 4
+T: Eanach Mhic Coilin
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+d2 c|:BE ~E2 DEGA|BE ~E2 d2 BA|BE ~E2 DEGA|BedB ABGA:||:~B2 ed c/2B/2A GA|~d2 ef g2 ag|eged c/2B/2A GA|BedB ABGA:|
+
+
+Tune 78	Setting 78
+
+X: 1
+T: Eanach Mhic Coilin
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+GA|Beed BAGA|Bdef g3 z|Beed BAGA|BGdB A2GA|
+Beed BAGA|Bdef g3 a|bgfa gfed |efdB A2||
+GA|BE E2 DEGA|BEE2 d2 BA|BE E2 DEGA|BGdB A2 GA|
+BEE2 DEGA|BEE2 d2 BA|BEE2 DEGA| BGdB A2||
+
+
+Tune 78	Setting 12569
+
+X: 3
+T: Eanach Mhic Coilin
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+BE~E2 DEGA|BE~E2 D2GA|BE~E2 DEGA|1 BedB A2GA:|2 BedB ADFA||Beed BAGA|(3Bcd ef gfed|Beed BAGA|BedB A2GA|Beed BAGA|(3Bcd ef g2fg|e3f edBA|BedB ADFA||
+
+
+Tune 78	Setting 12568
+
+X: 2
+T: Eanach Mhic Coilin
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+BEGE DEGA|BEGE d2BA|BEGE DEGA|BddB A2GA:|Beed BAGA|(3Bcd ef gfed|Beed BAGA|(3BAG dB A2GA|Beed BAGA|(3Bcd ef ~g3a|bgaf gfed|eBdB A2GA||
+
+

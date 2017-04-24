@@ -1,0 +1,118 @@
+Tune 1357	Setting 14710
+
+X: 4
+T: Jenny Picking Cockles
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: Addc AGEF | GEcE dEcE | Addc AGEF | GEcE EDD2 || Addc AGEF | GEAB c3 d | eddc AGEF |GEcE EDD2 :||: =f3 d e3 d | cAAB cdeg | =f3 d e3 d | eaag edd2 || =f3 d e3 d | cBAB c3 d | eddc AGEF | GEcE EDD2 :|
+
+
+Tune 1357	Setting 25776
+
+X: 6
+T: Jenny Picking Cockles
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+Addc AGEF|GEcE dEcE|Addc AGEF|GEcE EDD2|
+Addc AGEF|~G2AB c3d|eddc AGEF|GEcE EDD2:|
+f2fd efed|^cAAB cdeg|fedf ed^cd|eaag edd2|
+f2fd efed|^cAAB =c3d|eddc AGEF|GEcE EDD2:|
+
+
+Tune 1357	Setting 24195
+
+X: 5
+T: Jenny Picking Cockles
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:Beed BAFB|AFdF eFdF|Bded BAFB|AFDE FEED|
+E2ed BAFB|A2Bc ~d3e|fded BAFB|AFDE FEE2:|
+|:~g3e f2ef|dB~B2 ABdf|g2eg fede|faba feef|
+~g3e ~f3e|dB~B2 ABde|fded BAFB|AFDE FEE2:|
+
+
+Tune 1357	Setting 14709
+
+X: 3
+T: Jenny Picking Cockles
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|:Addc AGEF|GEcE dEcE|Addc AGEF|GEcE ED D2|Addc AGEF|G2AB c2cd|ecdc AGEF|GEcE ED D2:||f2 fd e2 ed|cAAB cdeg|f2 fd e2 ed|eaag edd e|~f2 fd ~e2 ed|cAAB c3 d|eddc AGEF|GEcE ED D2|f2 fd e2 ed|cAAB cdeg|fedf ed(3Bcd|eaag fdd e|fafd ~e2 ed|cAAB c3 d|eddc AGEF|GEcE ED D2
+
+
+Tune 1357	Setting 29543
+
+X: 9
+T: Jenny Picking Cockles
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+Addc AGEF | GEcE dEcE | Addc AGEF | GEcE EDD2 |
+Addc AGEF | GEcA d2cd | eddc AGEF | GEcE EDD2 :|
+f2fd efed | ^cAAB cdeg | fedf ed^cd | eaag edde |
+f2fd efed | ^cAAB =c3d | ecdc AGEF | GEcE EDD2 :|
+
+
+Tune 1357	Setting 14708
+
+X: 2
+T: Jenny Picking Cockles
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|:AD (3DDD FGAB|CAGE CDEG|AD (3DDD FGAB|~c3 e dcAG|AD (3DDD FGAB|CAGE CDEG|AD (3DDD FGAB|cAGE D3 G:||:Ad~d2 Adfd|ec~c2 Gcec|Ad~d2 Adfd|ed^cd edd^c|Ad~d2 Adfd|ec~c2 efge|a3 g ed^cd|eaag eddB:|
+
+
+Tune 1357	Setting 27336
+
+X: 7
+T: Jenny Picking Cockles
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+"Intro"A4=cAA2|GAA2=cAA2|GAA2=cAA2|DAAD AADA|
+A4=cAA2|GAA2=cAA2|e8-|e7d|
+|:"Part A"d3=c AGG2|FGAB =cAA2|d3=c AGG2|AGcG EDDE|
+A2d=c AGG2|FGAB =c3d|e2d=c AGEG|[1AG=cG EADE:|[2 AA=cG GAde|
+|: "Part B"f3d efed|cAAA B/2c/2deg|fffd edcd|a3g edde|
+f3d efed|cAAB=c3d|e2dB AGEG|[1AA=cA GAde:|[2 AA=cA GAD2|]
+
+
+Tune 1357	Setting 1357
+
+X: 1
+T: Jenny Picking Cockles
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|FG|:Addc AGEF|GEcE dEcE|Addc AGEF|GEcE ED D2:|
+|:f2 fd e2 ed|cAAB cdeg|f2 fd e2 ed|eaag edd e
+|f2 fd e2 ed|cAAB c3 d|eddc AGEF|GEcE ED D2:|
+
+
+Tune 1357	Setting 28852
+
+X: 8
+T: Jenny Picking Cockles
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+A2dc AG~G2 | FGAB cA~A2 | dedc AG~G2 | AGcG EDDG |
+A2dc AG~G2 | FGAB cA (3Bcd | ecdc AGEF |1 GEcG EDDF :|2 GEcG EDDe
+|:~f3d ~e3d | cA~A2 (3Bcd eg | ~f3d edcd | eaag edde |
+~f3d ~e3d | cA~A2 G2cd | ecdc AGEF |1 GEcG EDDe :|2 GEcG EDD2 |
+
+

@@ -1,0 +1,53 @@
+Tune 1432	Setting 29078
+
+X: 4
+T: The Noisy Curlew
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: GB B2 Gc c2 | GB B2 A2 BA | GB B2 dega | bgdc BG G2 |
+GB B2 Gc c2 | GB B2 A2 BA | GB B2 dega | bgdc BG G2 :||
+|: BcdB c2 dc | BcdB cBAc | BcdB c2 dc | BGDc BG G2 |
+BcdB c2 dc | BcdB cBAc | BGDB c2 dc | BGDc BG G2 :||
+
+
+Tune 1432	Setting 29077
+
+X: 3
+T: The Noisy Curlew
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: DF F2 DG G2 | DF F2 E2 FE | DF F2 ABde | fdAG FDDA |
+DF F2 DG G2 | DF F2 E2 FE | DF F2 ABde | fdAG FDDA :||
+|: fgaf g2 ag | fgaf gfeg | fgaf g2 ag | fdAG FDDA |
+fgaf g2 ag | fgaf gfeg | fdAF G2 ag | fdAG FDDA :||
+
+
+Tune 1432	Setting 1432
+
+X: 1
+T: The Noisy Curlew
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:DFAF DGBG | DFAF EDCE | DF~F2 ABde| fdAG FGEF |
+DFAF DGBG | DFAF EDCE | DF~F2 ABde| fdAG FDD2:|
+|:fgaf g2ag| fgaf gfeg | fgaf geag| fdAG FDDg |
+fgaf g2ag| fgaf gfeg | fdAF Gzag|1 (3faf ea fddg :| 2 (3faf ea fdAF ||
+
+
+Tune 1432	Setting 14809
+
+X: 2
+T: The Noisy Curlew
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: DF (3FFF DG (3GGG | DF (3FFF E2 FE | DF (3FFF ABde | fdAG FD (3DDD | DF (3FFF DG (3GGG | DF (3FFF E2 FE | DF (3FFF ABde | fdAG FD (3DDD :| |: fgaf g2 ag | fgaf gfeg | fgaf g2 ag | fdAG FD (3DDD | fgaf g2 ag | fgaf gfeg | fdAF G2 ag | fdAG FD (3DDD :|
+
+

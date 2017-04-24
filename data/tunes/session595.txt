@@ -1,0 +1,60 @@
+Tune 595	Setting 595
+
+X: 1
+T: The Dogs Among The Bushes
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+BG~G2 DG~G2|BG~G2 cedc|BG~G2 DGFG|AF~F2 fdcA|
+BG~G2 DG~G2|BG~G2 c2cA|BG~G2 DGFG|AF~F2 fdcA||
+dggf ~g3f|dg~g2 bgaf|dffe fgfe|df~f2 af~f2|
+dggf ~g3f|dg~g2 bgag|bg~g2 aggf|d^cde fd=cA||
+"version 2"
+|:BG~G2 DG~G2|BG~G2 cedc|B2GB DGBd|AF~F2 fdcd|
+BG~G2 DG~G2|BG~G2 cedc|B2Bc defd|1 cAeg fdcd:|2 cAeg fdcA||
+|:dggf g2gf|dg~g2 bgaf|defe ~f3e|dfeg fdcA|
+dggf ~g3f|dg~g2 bgag|bg~g2 agbg|1 d2eg fdcA:|2 d2eg fdcd||
+
+
+Tune 595	Setting 13605
+
+X: 3
+T: The Dogs Among The Bushes
+R: reel
+M: 4/4
+L: 1/8
+K: Gmix
+|BG~G2 DG~G2|BGAB cedc|BG~G2 DGBG|AFAc fdcA|BG~G2 DG~G2|BGAB cedc|BABc defd|cAFe fdcA:||g3g2 agf|dgga bgaf|dffe fgfd|cdfg afgf|dggf gagf|dgga bgag|bggf d3e|f2fe fdcA:||
+
+
+Tune 595	Setting 26745
+
+X: 4
+T: The Dogs Among The Bushes
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|BG G2 DG G2|BG G2 cedc|BG G2 DGFG|AF F2 fdcA|
+BG G2 DG G2|BG G2 c2cA|BG G2 DGFG|AF F2 fdcA||
+dggf g3f|dg g2 bgaf|dffe fgfe|df f2 af f2|
+dggf g3f|dg g2 bgag|bg g2 aggf|d^cde fd=cA||
+"version 2"
+|:BG G2 DG G2|BG G2 cedc|BDGB DGBG|AF F2 fdcd|
+BD D2 DG G2|BG G2 cedc|B2Bc defd|1 cAeg fdcd:|2 cAeg fdcA||
+|:dggf g3f|dg g2 bgaf|dffe f3e|dffe fdcA|
+dggf g3f|dg g2 bgag|bg g2 agbg|1 d2eg fdcA:|2 d2eg fdcd||
+
+
+Tune 595	Setting 13604
+
+X: 2
+T: The Dogs Among The Bushes
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+B3 A|:GE~E2 B,E~E2|GE~E2 AcBA|GE~E2 B,EGE|FDD2 dBAF|GE~E2 B,E~E2|GE~E2 AcBA|GFGA BcdB|1AFDF A2 BA:|2AFDF A3 c|||:Bee2 efed|Beef gefe|Bddc dedc|Bdde fdec|Be/e/e/e efed|Beef gefe|ge/e/e/e ~B3 c|d2 dc dcBA:|
+
+

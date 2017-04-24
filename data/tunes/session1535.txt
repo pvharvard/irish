@@ -1,0 +1,39 @@
+Tune 1535	Setting 14939
+
+X: 3
+T: The Cuil Aodha
+R: polka
+M: 2/4
+L: 1/8
+K: Amaj
+Ac EF|A>A Af|ec BA|e/f/e/c/ Bc/B/|Ac EF|A>A Af|ec BA/B/|1 cA AE:|2 cA A|]B|ce ce|a2 af|ec BA|e/f/e/c/ BA|[1 ce ce|a2 af|ec BA/B/|cA A:|[2 Ac EF|A>A Af|ec BA/B/|cA A|]
+
+
+Tune 1535	Setting 1535
+
+X: 1
+T: The Cuil Aodha
+R: polka
+M: 2/4
+L: 1/8
+K: Amaj
+Ac EF|A>A Af|ec BA|e/f/e/c/ Bc/B/|
+Ac EF|A>A Af|ec BA/B/|1 cA AE:|2 cA AB||
+|:ce ce|a2 af|ec BA|e/f/e/c/ BA|ce ce|
+a2 af|ec BA/B/|1 cA AB:|2 cA AE||
+
+
+Tune 1535	Setting 14938
+
+X: 2
+T: The Cuil Aodha
+R: polka
+M: 2/4
+L: 1/8
+K: Gmaj
+|: B/A/ |GB DE | G>F Ge | dB AG | dB AB/A/ |
+GB DE | G>F Ge | dB AG/A/ | BG G :|
+|: G/A/ |B/c/d Bd | g2 ge | dB AG | d/e/d/B/ A2 |
+B/c/d B/c/d | g>f ge |dB AG/A/ | BG G :|
+
+

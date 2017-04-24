@@ -1,0 +1,43 @@
+Tune 388	Setting 388
+
+X: 1
+T: The Drops Of Brandy
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmaj
+ABA FDF FDF|ABA FDF GFE|ABA FDF FDF|GFG E2 F GFE|
+ABA FDF FDF|ABA FDF GFE|ABA FDF FDF|GFG E2 F GFE:||
+DFA dAF dAF|DFA dAF GFE|DFA dAF dAF|GFG E2 F GFE|
+DFA dAF dAF|DFA dAF GFE|DFA dfe dAF|GFG E2 F GFE:||
+
+
+Tune 388	Setting 13220
+
+X: 2
+T: The Drops Of Brandy
+R: slip jig
+M: 9/8
+L: 1/8
+K: Amaj
+|: ABA FDF FDF | ABA FDF GFE |
+ABA FDF FDF | GFG E2 F GFE :|
+|: DFA dAF dAF | DFA dAF GFE |
+[1 DFA dAF dAF | GFG E2 F GFE :|
+[2 DFA dfe dAF | GFG E2 F GFE ||
+
+
+Tune 388	Setting 25912
+
+X: 3
+T: The Drops Of Brandy
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|:ded BGB BGB|ded BGB c2A|ded BGB BGB|cBc A2 B cBA|
+ded BGB BGB|ded BGB c2A|ded BGB BGB|cBc A2 B cBA||
+|:GB/c/d gdB gdB|GB/c/d gdB cBA|GB/c/d gdB gdB|cBc A2 B cBA|
+GB/c/d gdB gdB|GB/c/d gdB cBA|GB/c/d gba gdB|cBc A2 B cBA||
+
+

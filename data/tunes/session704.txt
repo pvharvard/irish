@@ -1,0 +1,25 @@
+Tune 704	Setting 28110
+
+X: 2
+T: The Tailor's Thimble
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+cAAG A3B | cA3 dBGB | cAAG ABcd |1 efge dBGB :|2 efge dega ||
+b2bg a2ga | bage dega | bg3 abgd | efge dega |
+b2bg a2ga | bage dega | bg2b aged | efge dBGB ||
+
+
+Tune 704	Setting 704
+
+X: 1
+T: The Tailor's Thimble
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|: GE~E2 E2AF | GE~E2 AFDF | GE~E2 EFGA |1 BcdB AFDF :|2 BcdB ABde ||
+|: f2df efde | fedB ABde | f2df efdA |1 BcdB ABde :|2 BcdB AFDF ||
+
+

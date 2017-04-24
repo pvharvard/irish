@@ -1,0 +1,66 @@
+Tune 2170	Setting 22011
+
+X: 5
+T: Caisleán An Óir
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmix
+|Bc |dGG^F G2 Bc |(3ddd de f2 ga| gfdc AdcA |GAGE FDCF |
+|DGG^F G2 Bc |(3ddd de f2 ga| gfdc AdcA |(3GGG G^F G2 :||:
+Bc|dgga _b2 ag| gfde f2 ga| gfdc AdcA |GAGE FDCF |
+|DGG^F G2 Bc |(3ddd de f2 ga| gfdc AdcA |(3GGG G^F G2 :||
+
+
+Tune 2170	Setting 15539
+
+X: 2
+T: Caisleán An Óir
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Ador
+AG|EA AG A2 (3Bcd|ed ef g2 ab|ag ed Be dB|A2 GE G2 ED|EA AB A2 (3Bcd|ed ef g2 ab|ag ed Be dB|A2 AG A2:|:(3Bcd||ea ab c'2 ba|ag ef g2 ab|ag ed Be dB|A2 GE G2 ED|EA (3GAB A2 (3Bcd|ed ef g2 ab|ag ed Be dB|A2 AG A2:|
+
+
+Tune 2170	Setting 2170
+
+X: 1
+T: Caisleán An Óir
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gdor
+|: GF | DGGF G2 (3A=Bc | dcde f2ga | gedc AdcA | DGGE FEDC |
+DGGF G2 (3A=Bc | dcde f2ga | gfdc AdcA | G2GF G2 :|
+|: (3A=Bc | dgga _b2 ag | gfde f2ga | gfdc AdcA | DGGE FEDC |
+DGGF G2 (3A=Bc | dcde f2ga | gfdc AdcA | G2GF G2 :|
+
+
+Tune 2170	Setting 11727
+
+X: 3
+T: Caisleán An Óir
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Ddor
+A,DCE D2DG|ABBA d2de|dcAG EAGE|EDCA, C2A,G,|
+A,DCE D2DG|ABBA dcde|dcAG EAGE|1EDDC D2DC:|2EDDC D3G||
+Adde =f2ed|dcAB c2cA|dcAG EAGE|EDCA, C2A,G,|
+A,DCE D2DG|ABBA d2de|dcAG EAGE|EDDC D3G|
+Adde =f2ed|dcAB c2cA|dcAG EAGE|EDCA, C2A,G,|
+A,DCE D2DG|ABBA dcde|dcAG EAGE|EDDC D2DC|
+
+
+Tune 2170	Setting 15540
+
+X: 4
+T: Caisleán An Óir
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Ddor
+A,DCE D2 DG | ABBA d2 de | dcAG EAGE | EDCA, C2 A,G, | A,DCE D2 DG | ABBA d2 de | dcAG EAGE| EDDC D2- :|Adde f2 ed | dcAB c2 cA | dcAG EAGE | EDCA, C2 A,G, |A,DCE D2 DG | ABBA d2 de | dcAG EAGE | EDDC D2- :|
+
+

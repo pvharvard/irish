@@ -1,0 +1,40 @@
+Tune 418	Setting 13274
+
+X: 2
+T: Ievan's Polkka
+R: polka
+M: 2/4
+L: 1/8
+K: Amin
+|: E |A>A AB | cA Ac | BG GB | c/B/A/G/ AE |
+A>A AB | cA Ac | de/d/ cB |[1 A2 A :|[2 A2 A2 ||
+|: Ec ce | dB Bc | de/d/ cB | AB cd |
+ec ce | dB Bc | de/d/ cB |[1 A2 A2 :|[2 A2 A |]
+
+
+Tune 418	Setting 418
+
+X: 1
+T: Ievan's Polkka
+R: polka
+M: 2/4
+L: 1/8
+K: Bmin
+B>B Bc|dB Bd|cA Ac|d/c/B/A/ BF|B>B Bc|dB B2|ef/e/ dc|B2 B2:|
+|:f>d df|ec cd|ef/e/ dc|Bc de|f>d df|ec cd|ef/e/ dc|B2 B2:|
+
+
+Tune 418	Setting 26165
+
+X: 3
+T: Ievan's Polkka
+R: polka
+M: 2/4
+L: 1/8
+K: Amin
+|: E | A>A AB | cA Ac | BG GB | c/B/A/G/ AE |
+A>A AB | cA Ac | de/d/ cB | [1 A2 A :| [2 A2 A2 |]
+|: ec ce | dB Bc | de/d/ cB | AB cd |
+ec ce | dB Bc | de/d/ cB | [1 A2 A2 :| [2 A2 A |]
+
+

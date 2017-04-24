@@ -1,0 +1,42 @@
+Tune 4320	Setting 22407
+
+X: 3
+T: The Star Of The County Down
+R: barndance
+M: 4/4
+L: 1/8
+K: Amin
+M: 3/4
+E2G2|:A4AB|A3GA2|c4c2|d3cd2|e2d2c2|A2G2E2|G6-|G2c2B2|
+|A4AB|A3GA2|c4c2|d3cd2|e2d2c2|A4G2|A6-|1 A2E2G2:|2 A4e2||
+|:g4e2|e3dc2|d6|d4cd|e3dc2|A2G2E2|G6-|G2c2B2|
+|A4AB|A3GA2|c4c2|d3cd2|e2d2c2|A4G2|A6-|1 A4e2:|2 A6||
+
+
+Tune 4320	Setting 4320
+
+X: 1
+T: The Star Of The County Down
+R: barndance
+M: 4/4
+L: 1/8
+K: Emin
+B,D|E2E2 E2DE|G2G2 A2GA|B2AG E2DB,|D6 B,D|
+E2E2 E2DE|G2G2 A2GA|B2AG E2E2|E6||
+Bc|d2B2 B2AG|A2A2 A2GA|
+B2AG E2DB,|D6 B,D|!E2E2 E2DE|G2G2 A2GA|B2AG E2E2|E6||
+Bc|d2B2 B2AG|A2A2 A2GA|!B2AG E2DB,|D6 B,D|
+E2E2 E2DE|G2G2 A2GA|B2AG E2E2|E6||
+
+
+Tune 4320	Setting 17015
+
+X: 2
+T: The Star Of The County Down
+R: barndance
+M: 4/4
+L: 1/8
+K: Amin
+E2G2|:A4AB|A3GA2|c4c2|d3cd2|e2d2c2|A2G2E2|G6-|G2c2B2||A4AB|A3GA2|c4c2|d3cd2|e2d2c2|A4G2|A6-|1 A2E2G2:|2 A4e2|||:g4e2|e3dc2|d6|d4cd|e3dc2|A2G2E2|G6-|G2c2B2||A4AB|A3GA2|c4c2|d3cd2|e2d2c2|A4G2|A6-|1 A4e2:|2 A6||
+
+

@@ -1,0 +1,25 @@
+Tune 577	Setting 13564
+
+X: 2
+T: Ah Surely
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+A3c BG~G2|BGBd g2fg|eA~A2 BGBd|egdc BAGB|A3c BG~G2|BGBd ~g3a|bgag (3efg fa|gedc BG~G2:|bg~g2 agef|~g3e dega|bg~g2 aged|eaag a2ga|bg~g2 agef|~g3e dega|bgag (3efg fa|gedc BG~G2:|
+
+
+Tune 577	Setting 577
+
+X: 1
+T: Ah Surely
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:AGAc BG (3GGG|BGBd g2fg|eA (3AAA G2Bd|e2dc Bdgd|
+AGAc BG (3GGG|BGBd g2ga|bgaf ge (3def|gedc BG (3GGG:|
+|:bg (3ggg agef|gage dega|bg (3ggg aged|ea (3aaa ea a2|
+bg (3ggg agef|gage dega|bgaf ge (3def|gedc BG G2:|
+
+

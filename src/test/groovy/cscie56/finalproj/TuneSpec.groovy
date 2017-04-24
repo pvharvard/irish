@@ -20,8 +20,34 @@ class TuneSpec extends Specification {
 
     void "Create a generic tune"() {
         when:
+
+        List<Integer> seq1 = new ArrayList<>()
+        seq1.add(2)
+        seq1.add(3)
+        seq1.add(5)
+        List<Integer> seq2 = new ArrayList<>()
+        seq2.add(1)
+        seq2.add(3)
+        seq2.add(-5)
+
+        TuneMeasureLoc tuneMeasureLoc1 = new TuneMeasureLoc(shift:3, loc:1)
+        TuneMeasureLoc tuneMeasureLoc2 = new TuneMeasureLoc(shift:4, loc:2)
+        def name8a = new Name(name: 'Around the World')
+        def name8b = new Name(name: 'The Bansee')
+        def name8c = new Name(name: 'Bean An Mulga Sig')
+        def name8d = new Name(name: 'The Bean Si')
+
+
         def tune = new Tune(dance:Tune.Dance.REEL, primaryName:"Drowsey Maggie", tuneId:27, numRecordings: 158, numTunebooks: 4932,
-                names: [name27a, name27b, name27c, name27d, name27e], tuneMeasLec:[tuneMeasureLoc1, tuneMeasureLoc2])
+                names: [name8a, name8b, name8c, name8d], tuneMeasLoc:[tuneMeasureLoc1, tuneMeasureLoc2])
+        then:
+        tune.validate()
+
+    }
+
+    void "Create a minimal tune"() {
+        when:
+        def tune = new Tune(dance:Tune.Dance.REEL, primaryName:"Drowsey Maggie", tuneId:27, numRecordings: 158, numTunebooks: 4932)
         then:
         tune.validate()
 
@@ -31,7 +57,7 @@ class TuneSpec extends Specification {
         when:
         def tune = new Tune(primaryName:"Drowsey Maggie")
         then:
-        tune.validate()
+        ! tune.validate()
 
     }
 

@@ -1,0 +1,46 @@
+Tune 1744	Setting 15177
+
+X: 3
+T: The Gladstone
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+ed | c3d efga | A2cA BGE2 | c3d efga | edcB Aced |cBcd efga | A2cA BGE2 | cBcd efga | edcB A2 :||: ce | a2c'a g2bg | f2af edce | d2fd c2ec | BABc defg |1 a2c'a g2bg | f2af edce | defd c2ec | BAGB | A2 :|2 aA (3AAA cAce | a2ga fece | defd c2ec | BABc A2 ||
+
+
+Tune 1744	Setting 1744
+
+X: 1
+T: The Gladstone
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|: cAdB efga | A/A/AcA BGEd | cAdB efga | ecdB A2A2 :|
+| afba geag | fdgf ecfe | dBed cAdc | BAGA Bcde |
+afba geag | fdgf ecfe | dBed ceaf | ecdB A2z2 |
+
+
+Tune 1744	Setting 15178
+
+X: 4
+T: The Gladstone
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+cAdB efga | A/A/A cA BGEd | cAdB efga | gfe^d e2 e=d |cAdB efga | A/A/A cA BGEd | cAdB efga | ecdB A2 A ||afba geag | fdgf ecfe | dBed cAdc | BAGA Befg |afba geag | fdgf ecfe | dBed ceaf | ecdB A2 A || cAdB efga | A/A/A cA BGEd | cAdB efga | gfe^d e2 e=d |cAdB efga | A/A/A cA BGEd | cAdB efga | ecdB A2 A ||a/a/a fa g/g/g eg | f/f/f df e/e/e ce | d/d/d Bd c/c/c Ac | BAGA Befg |afba gbeg | fdaf eace | dBed ceAa | ecdB A2 A |]
+
+
+Tune 1744	Setting 15176
+
+X: 2
+T: The Gladstone
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+| cAdA efga | A/A/A cA BG E/E/E | EAcd efga | ecdB Afed || ~c3d efga | A/A/A cA B~E3 | EAcd efga | ecdB Aefg ||| afba geag | fdaf eAce | d~B3 ceAc | ~B3c defg || aA A/A/A eAce | aAge fece | d/d/d fd ceaf | ecdB Afed ||
+
+

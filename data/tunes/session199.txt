@@ -1,0 +1,25 @@
+Tune 199	Setting 199
+
+X: 1
+T: The Salvation
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+EGAE GAEG|~A2cA BAFA|~B3c BAFA|dBcA BAFA|
+EGAE GAEG|A2cA BAFA|~c3A BAFA|EFAB cAA2:||
+|:BceB ceAe|~f3e cBB2|~f3e ~f3g|abaf ecBA|
+cdec defg|abaf efc2|fecA B2AB|cBAE F4:||
+
+
+Tune 199	Setting 12861
+
+X: 2
+T: The Salvation
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+EGAE GAEG | AecA BAFA | B3B- BAFA | dAcA BAFA |EGAE GAEG | AecA BAFA | BccA BcAF | EFAB cA~A2 :||:BceB ceBc | effe cBBe | f3f- fece | agae fecB |cdec defg | agae fece | fecA B2AB | cBAE FAE2 :||!EGAE GAEG | AEGA EGAE | FGAF GAFG | AFGA FGAF |GABG ABGA | BGAB GABz | BccA BcAF | EFAB cA~A2 :||
+
+

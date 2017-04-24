@@ -1,0 +1,61 @@
+Tune 2286	Setting 15649
+
+X: 4
+T: Leather Away The Wattle-O
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|:f/e/|dA FA|d>d df|ed cd|ef gf/g/|af ge|dc AF|GB A/B/A/G/|FD D:||:e|f>f ff|z gg2|f>f f a|gf ef/g/|af ge|dc AF|GB A/B/A/G/|FD D:|
+
+
+Tune 2286	Setting 15648
+
+X: 3
+T: Leather Away The Wattle-O
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+dA FA |d2 dc/d/ | ed cd | ef gf/g/ | af/a/ g/f/e | dB AF | GB A/B/A/G/ | FD D :|f2 fe/f/ | g2 ge | f2 fa | gf ef/g/ | af/a/ g/f/e | dB AF | GB A/B/A/G/ FD D :|| dA FA |d2 dc/d/ | ed cd | ef gf/g/ || af/a/ g/f/e | dB AF | GB A/B/A/G/ | FD D :||: f2 fe/f/ | g2 ge | f2 fa | gf ef/g/ || af/a/ g/f/e | dB AF | GB A/B/A/G/ FD D :|dA FA | d2 dc/d/ | ed cd | ef gf/g/ |af/a/ g/f/e | dB AF | GB A/B/A/G/ | FD D :|f2 fe/f/ | g2 ge | f2 fa | gf ef/g/ |af/a/ g/f/e | dB AF | GB A/B/A/G/ FD D :|
+
+
+Tune 2286	Setting 15647
+
+X: 2
+T: Leather Away The Wattle-O
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|: dA FA | d>e fd | ed cd | e>f ge |af ge | d/e/d/B/ A>F | GB A>G |FD D2 :||: f>e fd | g>f ge | f>e fa | gf ef/g/ |af ge | d/e/d/B/ A>F | GB AG | FD D2 :|
+
+
+Tune 2286	Setting 28925
+
+X: 5
+T: Leather Away The Wattle-O
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+(3ABc|dA FA|d2d/e/f/g/|ed cd|e/f/g fg|
+af ge|d2 AF|G/A/B/c/ AG|FD D|
+d/e/|ff fd|gg ge|ff fa|gf ef/g/|
+af ge|d2 AF|G/A/B/c/ AG|FD D|
+
+
+Tune 2286	Setting 2286
+
+X: 1
+T: Leather Away The Wattle-O
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|:f/e/|dA FA|d>d df|ed cd|ef gf/g/|
+(3agf ge|dc AF|GB A/B/A/G/|FD D:|
+|:e|ff/f/ fd|gg/g/ ge|ff/f/ fa|gf ef/g/|
+af ge|dc AF|GB A/B/A/G/|FD D:|
+
+

@@ -1,0 +1,50 @@
+Tune 2259	Setting 15630
+
+X: 3
+T: The Legacy
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: e | GGG BGB | d2e g3 | GGG BGB | dBA A2e |GGG BGB | d2e g3 | agf g2e | dBA A2 :||: e | A2e edB | d2e dBA | A2e edB | dBA A2e |A2e edB | d2e g2e | agf g2e | dBA A2 :|
+
+
+Tune 2259	Setting 2259
+
+X: 1
+T: The Legacy
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+~G3 ~B3|~g3 gab|~G3 ~B3|dBA AFD|
+~G3 ~B3|~g3 gab|age edB|1dBA AFD:|2dBA ABd||
+~e3 edB|ded dBd|~e3 edB|gdB ABd|
+~e3 edB|ded def|~g3 ~e3|1dBA ABd:|2dBA AFD||
+
+
+Tune 2259	Setting 15629
+
+X: 2
+T: The Legacy
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+G3 BAB|ggd gab|G3 BAB|dBG A3|G3 BAB|ggd gab|age eeg|1dBG A3:|2dBG ABd|:e3 edB|d3 dBd|ege edB|d2 B ABd|e3 edB|dBd def|g3 ege|dBG A3:|
+
+
+Tune 2259	Setting 28261
+
+X: 4
+T: The Legacy
+R: jig
+M: 6/8
+L: 1/8
+K: Fmaj
+~F3 ~A3|~f3 fga|~F3 ~A3|cAF GAG|
+~F3 ~A3|~f3 fga|gfd dfd|[1 cAF GAG:|[2 cAG GAc||
+~d3 dcA|~c3 cAc|~d3 dcA|cAG GAc|
+~d3 dcA|~c3 cde|~f3 ~d3|[1 cAF GAc:|[2 cAF GAG|]
+
+

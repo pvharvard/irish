@@ -1,0 +1,30 @@
+Tune 1827	Setting 27238
+
+X: 2
+T: The Jig Runrig
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|fe|:d3 BAA|FAA BAA|
+Bdd AAA|fee efe|d3 BAA|FAA BAA
+[1 Bdd Aff| edd dfe :|2 Bdd Aff|edd dag|
+|: faa eaa|daa caa|Bdd AAA|fee eag|
+[1 faa eaa|daa caa|Bdd Aff|edd dag:|
+[2 d3 BAA|FAA BAA| Bdd Aff| edd dBA||
+
+
+Tune 1827	Setting 1827
+
+X: 1
+T: The Jig Runrig
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+e/2f/2|"D"d2d BAA|FAA BAA|"G"Bdd "D"AAA|"Em"fee "A"efe|!
+"D"d2d BAA|FAA BAA|"G"Bdd "D"Aff|"A7"edd "D"d2:|
+|:a/2g/2|"D"faa "A"eaa|"D"daa "A"caa|"G"Bdd "D"AAA|"Em"fee [1"A"eag|"D"faa "A"eaa|"Bm"daa "F#m"caa|"G"Bdd "D"Aff|"A"edd "D"d2]:|
+[2"A"efe|"D"d2d BAA|FAA BAA|"G"Bdd "D"Aff|"A7"edd "D"d3]||
+
+

@@ -1,0 +1,27 @@
+Tune 355	Setting 20855
+
+X: 2
+T: The Cat That Ate The Candle
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A2GB ADDE|FGAB =c2dB|(3ABA GB AGAB|=cAGE FEFG|
+(3ABA GB ADDE|FGAB =cAdB|(3ABA GB A3B|=cAGE F3G||
+Adde fedf|ed=ce dcAd|Adde fefg|af (3gfe fde^c|
+Adde fedf|ed=ce dcAd|Adde f3g|afge fde^c |]
+
+
+Tune 355	Setting 355
+
+X: 1
+T: The Cat That Ate The Candle
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+EB~B2 BAB^c | d2AF DEFD | EA~A2 BAGF |1 GBAF GEEB:|2 GBAF GEE2 ||
+Be~e2 Begb | afge fdd2 | ecdB cBAF | GBAF GEE2 |
+Be~e2 Begb | a2ge eddf | e2dB cBAF | GBAF GEEB ||
+
+

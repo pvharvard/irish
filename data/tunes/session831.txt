@@ -1,0 +1,114 @@
+Tune 831	Setting 831
+
+X: 1
+T: The Trip To Nenagh
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+d2AG FD~D2|A,DFA dcAG|Addc d=fed|c2Gc EcGc|
+dcAG FD~D2|A,DFA dcAG|Ad~d2 ADFA|GE^CE EDD2:|
+|:d2fd Adfd|geed ^cdec|d2=cA FDDE|FGAB ~=c3B|
+Ad~d2 Adfd|^cdef gefg|a2ed ^cdec|d=cAG FDD2:|
+
+
+Tune 831	Setting 13988
+
+X: 6
+T: The Trip To Nenagh
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dcAG FDDG, | A,DFA d=cAG | Ad ~d2 A=fed | =c2 Gc EcGc |dcAG FDDG, | A,DFA d=cAG | Ad ~d2 ADFA | G=CEG FD D2 :||:Adfd adfa | gfed ceAc | dcAG FADF | (E/F/G) AB =c2 Bc |Adde (ef)ed | cdef .g2 (e/f/g) | a2 ea caec | dcAG FD D2:|
+
+
+Tune 831	Setting 2315
+
+X: 2
+T: The Trip To Nenagh
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|~ddAG FADA| A,DFA d^cAG|Ad~dd A=fed| ~=ccG cEcG^c|
+~dd AG FADA| A,DFA dcAG|Ad~dd ADFA| GCEA FDD2:|
+|:~ddfd Adfa| gfed ^cdec|~ddAd FdAG| FGAB cGBc|
+Ad~dd Fd~dd| ^cdef gefg|~aaea ^caed| ^cABc d3z:|
+
+
+Tune 831	Setting 13986
+
+X: 4
+T: The Trip To Nenagh
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+dcAG FAD2|A,DFA dcAG|Ad~d2 A=fed|c2Gc EcGE|dcAG FAD2|A,DFA dcAG|Ad~d2 AdFA|GB,EG FD~D2:||:Ad~d2 adfa|gfed ^caec|d2AG FAD2|(3EFG AB c2AG|Ad~d2 fded|^cdef gefg|a2ea ^caec|dBAG FD~D2:|d2AG FD~D2|A,DFA dcAG|Add^c d=fed|c2Gc EcGc|d2AG FD~D2|A,DFA dcAG|Ad~d2 AdFA|GEAG FD~D2:||:d2ed adfa|g2ed ^cAfe|d2AG FD~D2|(3EFG AB c2Bc|Adde fded|cdef g2fg|a2ga (3efg d^c|A=cGE ED~D2:|
+
+
+Tune 831	Setting 22359
+
+X: 8
+T: The Trip To Nenagh
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+d2AG FD D2|ADFA dcAG|Addc d=fed|=c Gc EcGc|
+dcAG FD D2|ADFA dcAG|Ad d2 ADFA|GE=cE EDD2:|
+|:d2fd Adfd|geed ^cdec|d2=cA FDDE|FGAB =c3B|
+Ad d2 Adfd|^cdef gefg|a2ed ^cdec|d=cAG FDD2:|
+
+
+Tune 831	Setting 29262
+
+X: 9
+T: The Trip To Nenagh
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|:d2AG (3FGA DA|ED (3FGA d=cAG|Addd A=fed|=c2Gc EcG2|
+d2AG (3FGA DA|ED (3FGA d=cAG|Addd A2FA|G2EG FDD2:|
+|:d2fd Adfd|gfed ^caec|d2AG FADA|(3EFG AB =cGBG|
+Addd Aded|(3B^cd ef gefg|a2ea ^caec|d=cAG FDDD:|
+
+
+Tune 831	Setting 22344
+
+X: 7
+T: The Trip To Nenagh
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+d2AG FDDF | A,DFA d^cAG | Ad~d2 d=fed | c2Gc EcGc |
+d^cAG FDDF | A,DFA d^cAG | Ad~d2 AdFA |1 GFEG FDD2 :|2 GFEG FDFA |
+: d2fd adfd | gfed ^cABc | d2AG FADF | (3EFG AB c2Bc |
+Ad~d2 Adfd | (3B^cd ef g2fg |a2ea ^caec |1 d^cAB FDFA :|2 d^cAB FDD2 ||
+
+
+Tune 831	Setting 13985
+
+X: 3
+T: The Trip To Nenagh
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+dcAG FD~D2|A,DFA dcAG|Ad~d2 A=fed|c2Gc EcGc|dcAG FD~D2|A,DFA dcAG|Ad~d2 AdFd|GE^CE D2FA:||:~d2df adfa|geed ^cAce|d/c/dAG FDDC|EGAB =cecB|A2de fded|^cdef g2e/f/g|a2ea ^caec|1. dcAG FAD2:|2. dcAG FAEA|D8|]
+
+
+Tune 831	Setting 13987
+
+X: 5
+T: The Trip To Nenagh
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+dcAG FADF | A,DFA dcAG | Ad d/^c/d d=fed | c2 Gc EcGc |dcAG F2 D/E/F | A,DFA dcAG | Add^c AdFA | GC E/F/G FD D :|Ad d/^c/d adfa | gfed ^caec | d2 AG F/G/A DG | (3EFG AB c2 Bc |Add^c Ad f/e/d | ^cdef gefg | a2 ea ^caec | dcAG FD D :|
+
+

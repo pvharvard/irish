@@ -1,0 +1,67 @@
+Tune 401	Setting 13251
+
+X: 2
+T: The Gander In The Pratie Hole
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+FAD FAF | GFG EE/F/G | FAD FAD | GED D2 E |FAD F2 A | GFG E2 g | fed ecA | GED D2 :|Add ded | cAB cAG | Ad/c/d ded | cAB c2 B |Add ded | cAB cde | fed ecA | GED D2 :|~ | fed e^cA | GED D2 :|
+
+
+Tune 401	Setting 26366
+
+X: 3
+T: The Gander In The Pratie Hole
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:FAD FAD|GFG EFG|F/G/AD F/G/AD|GED D3|
+FAD FAD|GFG EFG|g/f/ed ecA|GED D3:||
+|:Add ded|cAB =cAG|Add ded|^cAB =c2 B|
+Add ded|^cAB =cde|g/f/ed ecA|GED D3:||
+
+
+Tune 401	Setting 401
+
+X: 1
+T: The Gander In The Pratie Hole
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+FAD FAD|GFG EFG|FAD FAF|GED {G} D2 E|
+FAD FAD|GFG Efg|fed ecA|GED {G} D2 z:||
+Add {e} ded|^cAB cAG|Add {e} ded|^cAB c2 B|
+Add {e} ded|^cAB cde|fed ecA|GED {G} D2 z:||
+
+
+Tune 401	Setting 26368
+
+X: 4
+T: The Gander In The Pratie Hole
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A|:(3.F.G.A D (3.F.G.A D|~G3 EFG|(3.F.G.A D (3.F.G.A D|GED {G} (3DDD A|
+FAD FAD|GFG EFG|(3.g.f.e d ecA|GED {G} D2 A:|
+Add {e} ded|^cAB cAG|Add {e} ded|^cAB c3|
+Add {e} ded|^cAB cde|(3.g.f.e d ecA|GED {G} D2 A:|
+
+
+Tune 401	Setting 27195
+
+X: 5
+T: The Gander In The Pratie Hole
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+"D"FAD FAD | "A7"GFG EFG | "D"FAD FAD | "A7"GEA "D"D2 D |
+"D"FAD FAD | "A7"GFG EFG | "A7"fed e^cA | GEA "D"D2 A :|
+"D"Add ded | "Am"cAB cAG | "D"Add ded | "Am"cAB c2 B|
+"D"Add ded | "Am"cAB cde | "Am"fed ecA | GEA "D"D3 :|
+
+

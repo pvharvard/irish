@@ -1,0 +1,52 @@
+Tune 1723	Setting 15151
+
+X: 3
+T: The Killavil
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+D2AD BDAD|D2AD BDAD|E2BE dEBE|BABc dBAF |D2AD BDAD|D2AD BDAD|GFEF GABc|1 dfed BAFE:|2 dfed BAFA||d2fd adfd|g2fg edBc|d2fd adfd|g2fg e2fe|d2fd adfd|g2fg edBc|dBBA Bcde|1 fdec dBAB:|2 fdec dBAF||
+
+
+Tune 1723	Setting 1723
+
+X: 1
+T: The Killavil
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+D2AD BDAD|D2AD BDAD|E2BE cEBE|E2Bc dBAF|
+D2AD BDAD|D2AD BDAF|GFEF GABc|1 d2fd BdAF:|2 defd BdAB||
+d2fd Adfa|g2fg egfe|d2fd Adfa|g2fg ~e3f|
+d2fd Adfa|g2fg edBc|dBBA Bcde|f2ed BdAB|
+defd adfa|gefd edBc|defd adfa|gefd ~e3f|
+defd adfa|g2fg edBc|dBBA Bcde|f2ed BdAF|
+
+
+Tune 1723	Setting 15150
+
+X: 2
+T: The Killavil
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+d2fd Adfd|g2fg edBc|d2fd Adfd|g2fg e3A|d2fd Adfd|g2fg edBc|dBBA Bcde|1 f2gf edBc:|2 f2gf edAF||
+
+
+Tune 1723	Setting 21687
+
+X: 4
+T: The Killavil
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+D2AD BDAD | D2AD BDAF | E2BE dEBE | BABc dBAF |
+D2AD BDAD | D2AD BDAF | GFEF GABc |defd BAFE :|
+d2fd Adfa | gefg edBc |d2fd Adfa | gefd e2(ABc) |
+d2fd Adfa | gefg edBc |dBBA Bcde | fdec dBAF :|
+
+

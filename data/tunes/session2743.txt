@@ -1,0 +1,49 @@
+Tune 2743	Setting 15977
+
+X: 2
+T: The Fairy
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmix
+|: A2 G Add Add | ABA AFA fAg | A2 G Add Add | cAG cAG FED :|||: ~a3 fab afd | ~a3 faa baf | ~a3 baf afd | cAG cAG FED :||
+
+
+Tune 2743	Setting 28802
+
+X: 4
+T: The Fairy
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmix
+|:ABG Add Add|ABG Add fAg|
+A2G Add Add|cAG ABG FED:|
+|: abg add add| abg add bag||
+|1 abg add add | cAG ABG FED|
+|2 a2a baf gag |fed cAG FED ||
+
+
+Tune 2743	Setting 2743
+
+X: 1
+T: The Fairy
+R: slip jig
+M: 9/8
+L: 1/8
+K: Ador
+|:A2G Add Add|ABA AFA fAg|A2G Add ded|cAG AAG FDD:|
+|:a2g fab afd|afd dfa baf|afa baf afd|cAG AAG FDD:|
+
+
+Tune 2743	Setting 15978
+
+X: 3
+T: The Fairy
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmix
+|: A2 G Add Add | A2G Add f3 | A2 G Add Add | cAG A2G FED :||| a2f add add | a2f add baf | a2f add add | cAG A2G FED|| a2f add add | a2f add baf | a3 bag a2g | fed cAG FED ||
+
+

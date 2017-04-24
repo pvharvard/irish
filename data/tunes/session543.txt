@@ -1,0 +1,78 @@
+Tune 543	Setting 543
+
+X: 1
+T: The Ships Are Sailing
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+Beed BcdB | AD (3FED A,D (3FED | ~E3F GFGA | Beef gfed |
+Beed BcdB | AD (3FED A,D (3FED | ~E3F GFGA | Beed e3z :||
+~g3a bgeg | ~f3g afdf | gfga bgaf | gefd e2 de |
+gfga bgeg | fefg afdf | g2bg f2af | edef gfed :||
+
+
+Tune 543	Setting 13500
+
+X: 2
+T: The Ships Are Sailing
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+ef| ge3 b'e3 | fd3 ad3 | ge3 b'e3 | fAdf e3f |
+
+
+Tune 543	Setting 26706
+
+X: 5
+T: The Ships Are Sailing
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:Beed BcdB | AD D2 AD D2 | E3F GFGA | Beef gfed |
+Beed BcdB | AD (3FED AD (3FED | E3F GFGA | Beed e3z :||
+|:g3a bgeg | f3g afdf | g3a bgaf | gfed Be e2 |
+gfga bgeg | fefg afdf | g2bg f2af | edef gfed :||
+
+
+Tune 543	Setting 27984
+
+X: 6
+T: The Ships Are Sailing
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:FBBA FGAF | EA A2 EA A2 | B3c dcde | fBBc dcBA |
+FBBA FGAF | EA (3cBA EA (3cBA| B3c dcde | fBBA B3z :||
+|:d3e fdBd | c3d ecAc | d3e fdec | dcBA FB B2 |
+dcde fdBd | cBcd ecAc | d2fd c2ec | BABc dcBA :||
+
+
+Tune 543	Setting 13501
+
+X: 3
+T: The Ships Are Sailing
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+AB|cAB^G A=GEF|GABc dBGB|cAB^G A=GED|EAA^G A2AB|cAB^G A=GEF|GABc dBGB|cAB^G A=GED|EAA^G A2||AB|cdef g2eg|a2ed cAAB|cdef gfgd|eaa^g a2AB|cdef g2eg|aged cAAB|cAB^G A=GED|EAA^G A2||
+
+
+Tune 543	Setting 25010
+
+X: 4
+T: The Ships Are Sailing
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+Bee Bcd | AFD AFD| EDE GFG | Bee gfe |
+Bee Bcd | AFD AFD| EDE GFG |1Be^d e2d:|2 Be^d eef|
+gfg bge | fef afd | gfg bge | fed e2f |
+gfg bge | fef afd | gbg faf | ede gfe :|
+
+

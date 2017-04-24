@@ -1,0 +1,85 @@
+Tune 1634	Setting 15056
+
+X: 2
+T: The Lark On The Strand
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:A3 AGA | BGE G3 | GBA GBd | e2d edB |
+A3 AGA | BGE G3 | GBA GAB | dBG BdB :|
+| GBd g3 | gba g3 | GBd e2d | e2d edB |
+GBd g3 | gba g3 | a2a a2d | e2d edB :|
+
+
+Tune 1634	Setting 27367
+
+X: 6
+T: The Lark On The Strand
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:A3 AGA | BGE G3 | ABA GBd | edg edB |
+A3 AGA | BGE G3 | ABA g2d | edg edB |
+ADD AGA | BGE D3 | ABA GBd | ed(g g)dB |
+A3 AGA | BGE G3 | ABA g2d | edg edB |
+| GB/c/d g3 | gba g3 | GB/c/d g2d | edg edB |
+GB/c/d g3 | gba g3 | a3 age | edg edB |
+GB/c/d g3 | gba gfg | GB/c/d g2d | edg edB |
+GB/c/d g3 | gba g3 | a3 age | edg edB |
+
+
+Tune 1634	Setting 15058
+
+X: 4
+T: The Lark On The Strand
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+ABG AGA | BGE G3 | ABA GBd | egd edB |
+ABG AGA | BGE G2 D | GBA G2B | dBG BdB :|
+GBd ggg | gba gdB | GBd g2d | egd edB |
+GBd ggg | gba ggg | aba age | egd edB :|
+
+
+Tune 1634	Setting 15057
+
+X: 3
+T: The Lark On The Strand
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+~A3 ABc|BGE ~G3|ABA GBd|egd edB|~A3 ABc|BGE G2D|GBA G2B|dBG BdB:|GBd ~g3|gba gdB|GBd g2f|egd edB|GBd ~g3|gba ~g3|a2b age|edg edB:|
+
+
+Tune 1634	Setting 1634
+
+X: 1
+T: The Lark On The Strand
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:A3 AGA | BGE G3 | GBA GBd | e2d edB |
+A3 AGA | BGE G3 | GBA GAB | dBG BdB :|
+| GBd g3 | gba g3 | GBd e2d | e2d edB |
+GBd g3 | gba g3 | a2a a2d | e2d edB :|
+
+
+Tune 1634	Setting 20585
+
+X: 5
+T: The Lark On The Strand
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:ABA AGA | BGE GAB | ABA GBd | edg edB |
+ABA AGA | BGE G2D | GBA G2B | dBG BdB :|
+| GBd g2d | gba gdB | GBd g2d | edg edB |
+GBd g2d | gba gab | aba age | edg edB :|
+
+

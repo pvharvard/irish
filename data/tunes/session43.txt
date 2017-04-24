@@ -1,0 +1,118 @@
+Tune 43	Setting 24277
+
+X: 8
+T: The Geese In The Bog
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+B|:cEE GEE|cEE GAB|cEE GED|EAA A2B|
+cEE GEE|cEE GAB|cBA GED|EAA A2B:|
+|:cde ged|eaa ged|cde ged|eaa a2B|
+cde ged|eaa ged|cBA GED|EAA A2B:|
+
+
+Tune 43	Setting 12465
+
+X: 6
+T: The Geese In The Bog
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+c~E3 G~E3|c~E3 G2AB|c~E3 GEED|EAAG A2AB|c~E3 G~E3|c~E3 EGAB|c2BA GEED|EAAG A3B:||c2de geed|eaaf g2ed|c2de geed|eaag ~a3B|c2de geed|eaaf gfed|c2BA GEED|EAAG A3B:||
+
+
+Tune 43	Setting 12463
+
+X: 4
+T: The Geese In The Bog
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|:cEE GEE|cEE GEE|cEE GED| EAA A2B|cEE GEE|cEE GEE|cBA GED| EAA A2B:|cde ged| eaa ged|cde ged| eaa a2B|cde ged| eaa ged| cBA GED| EAA A2B:|
+
+
+Tune 43	Setting 12461
+
+X: 2
+T: The Geese In The Bog
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+B|cEE GEE|cEE GAB|cEE GED|EAA A2B|cEE GEE|cEE GAB|cBA GED|EAA A2:|:B|cde ged|eaf ged|cde ged|eag ~a3|cde ged|eaf ged|cBA GED|EAA A2:|
+
+
+Tune 43	Setting 43
+
+X: 1
+T: The Geese In The Bog
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+cEE GEE|CEE GEE|cEE GED| EAA A2B|
+cEE GEE|CEE GEE|cBA GED| EAA A2B:|
+cee gee| aee gee|cee gee| gaa a2e|
+cee gee| aee ged| cBA GED| EAA A2B:|
+
+
+Tune 43	Setting 12462
+
+X: 3
+T: The Geese In The Bog
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+cde ged eaa ged | cde ged | eaa ~a3 |
+
+
+Tune 43	Setting 27800
+
+X: 9
+T: The Geese In The Bog
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+B|:cEE GEE|cEE GAB|cEE GED|EAA A2B|
+cEE GEE|cEE GAB|cBA GED|EAA A2B:||
+|:cde ged|eaa ged|cde ged|eag a3|
+cde ged|eaa ged|cBA GED|EAA A2:||
+
+
+Tune 43	Setting 12466
+
+X: 7
+T: The Geese In The Bog
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|:g|gBB dBB|gBB def|gBB d A2|Bee e2 f|
+|gBB dBB|gBB def|gfedA2|Bee e2:|
+|:d|e2 a egg|e2 a ged|e2 a egg|eaa a2 d|
+|e2 a egg|e2 a ged|gfe d A2|Bee e2:|
+|:g|gBB BBB|dBB BBB|gBB d A2|Bee e2 f|
+|gBB BBB|dBB BBB|gfe d A2|Bee e2:|
+|:d|eaa egg|eaa ged|eaa egg|eaa a2 d|
+|eaa egg|eaa ged|gfe d A2|Bee e2:|
+
+
+Tune 43	Setting 12464
+
+X: 5
+T: The Geese In The Bog
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+dFF AFF|DFF AFF|dFF AFE| FBB B2c|
+dFF AFF|DFF AFF|dcB AFE| FBB B2A:|
+dff aff| bff aff|dff aff| abb b2f|
+dff aff| bff afe| dcB AFE| FBB B2c:|
+
+

@@ -1,0 +1,39 @@
+Tune 160	Setting 25302
+
+X: 3
+T: Gallagher's Frolics
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+D|:E3 GFE|BAB dBA|BdB BAB|GB/A/G AFD|
+|E3 GFE| BAB dBA|BAG FG/A/F|1 GED E2 D:|2 GEE E2 B||
+|:e2f gfe|g2a bge|dB/c/d fed|fad fed|
+|e2f gfe|dg/f/e dBA|BAG FG/A/F|1 GED E2B:|2 GED E2 D||
+
+
+Tune 160	Setting 160
+
+X: 1
+T: Gallagher's Frolics
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+D|:~E3 GFE|~B3 dBA|BdB BAB|GBG AFD|
+|~E3 GFE| BAB dBA|BAG FAF|1 GEE E2 D:|2 GEE E2 e|
+|:e2 g gfe|g2 b bge|dcd fed|fad fed|
+|e2 f gfe|dfe dBA|BAG FAF|1 GEE E2 e:|2 GEE E2 D|
+
+
+Tune 160	Setting 12784
+
+X: 2
+T: Gallagher's Frolics
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+A^GA cBA | e^de ged | e/f/ge edG | Bec dBG |A^GA cBA | e^de ged | edc BAB | cA^G A2 :|A2 B cBA | c2 d ecA | G2 B dBG | dBG BA^G |A2 B cBA | GBA G2 D | EDC B,^A,B, | CA,^G, A,2 :|
+
+

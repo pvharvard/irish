@@ -1,0 +1,76 @@
+Tune 110	Setting 110
+
+X: 1
+T: The Toormore
+R: slide
+M: 12/8
+L: 1/8
+K: Bmin
+|:F2B BAB d2e faf|e2e efe c2e a3|F2B BAB d2e faf|e2d B2A B3 B3:||:f3 e3 d3 c3|BAB edB A2F EDE|F2B BAB d2e faf|e2d B2A B3 B3:|
+
+
+Tune 110	Setting 12691
+
+X: 2
+T: The Toormore
+R: slide
+M: 12/8
+L: 1/8
+K: Bmin
+F2B BAB|d2e f2d|e2e efe|c2e a3|F2B BAB|d2e f2d|e2d B2A|1 B3 BAG:|2 B3 d2e||fgf efe|ded cdc|BAB edB|AFE F2E|F2B BAB|d2e f2d|e2d B2A|1 B3 d2e:|2 B3 BAG||
+
+
+Tune 110	Setting 12692
+
+X: 3
+T: The Toormore
+R: slide
+M: 12/8
+L: 1/8
+K: Ador
+E>A (3AAA c>de>c |1 d>cA>G A2 A>G :|2 d>cA>G A>Bc>d :||: (3ege d>e c>eB>c | (3AAA d>c A>GE>c |E>A (3AAA c>de>c |1 d>cA>G A>Bc>d :|2 d>cA>G A2 A>G ||E>A (3AAA c>de>c |1 d>cA>G A3G:|2 d>cA>G A3 d :||:(3ege d>B c>AB>c | (3AAA G>A A>GE>A |E>A (3AAA c>de>c |1 d>cA>G A3 d :|2 d>cA>G A3 G ||E2 A AAA c2 d e2 c |1 d2 c A2 G A3 A2 G :|2 d2 c A2 G A2 B c2 d |||: ege d2 e c2 e B2 c | AAA d2c A2G E2c|E2 A AAA c2 d e2 c |1 d2 c A2 G A2 B c2 d :|2 d2 c A2 G A3 A2 G ||
+
+
+Tune 110	Setting 12693
+
+X: 4
+T: The Toormore
+R: slide
+M: 12/8
+L: 1/8
+K: Amin
+E2 A A^GA c2 d e2 ^c | d2 c A2 ^G A3 A2 ||
+
+
+Tune 110	Setting 26399
+
+X: 5
+T: The Toormore
+R: slide
+M: 12/8
+L: 1/8
+K: Bmin
+F2B BAB|d2e f2d|e3 efe|c2e A3|
+F2B BAB|d2e f2d|e2d B2A|1 B3 BAG:|2 B3 d2e||
+fc/A/f ec/A/e|dF/G/d cF/G/c|Bc/A/B edB|AFE F2E|
+F2B BAB|d2e f2d|e2d B2A|1 B3 d2e:|2 B3 BAG||
+
+
+Tune 110	Setting 28621
+
+X: 6
+T: The Toormore
+R: slide
+M: 12/8
+L: 1/8
+K: Bmin
+K: Am
+|: E2 A AGA c2 d e3 | d3 d^cd B2 d g3 |
+E2 A AGA c2 d e2 e |1 d2 c A2 G A3 A3:|2 d2 c A2 G A3 c2 d |
+|: efe ded cdc BcB | ABA cBA G2 E E2 D |
+E2 A AGA c2 d e2 e |1 d2 c A2 G A3 c2 d:|2 d2 c A2 G A3 A3|
+"variation of 2nd part"
+|: e2e ded c2c BcB | ABA cBA G2 E E2 D |
+E2 A AGA c2 d e2 e |1 d2 c A2 G A3 c2 d:|2 d2 c A2 G A3 A3|
+
+

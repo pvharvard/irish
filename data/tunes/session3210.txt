@@ -1,0 +1,39 @@
+Tune 3210	Setting 29072
+
+X: 3
+T: Return To Camden Town
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+E2 DE CA, ~A,2 | EDCD EGAB | cBcd edeg | aged cAAG |
+E2 DE CA, ~A,2 | EDCD EGAB | cBcd edeg | aged cAAB |
+c2 gc acgc | cdeg aged | cBcd edeg | aged cAAB |
+c2 gc acgc | cdeg aged | cBcd edeg | aged cAAG |
+
+
+Tune 3210	Setting 3210
+
+X: 1
+T: Return To Camden Town
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+E2 DE CA, A,2 | EDCD EGAB | cBcd edeg | aged cABG |
+E2 DE CA, A,2 | EDCD EGAB | cBcd edeg | aged cAAB |
+c2 gc acgc | c2 gc BAGB | cBcd edeg | aged cAAB |
+c2 gc acgc | c2 gc BAGB | AGAB cdea | gedB cABG |
+
+
+Tune 3210	Setting 16282
+
+X: 2
+T: Return To Camden Town
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+E2 DE CA, A,2 | EDCD EGAB | cBcd edeg | aged cABG |.
+
+

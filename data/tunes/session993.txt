@@ -1,0 +1,64 @@
+Tune 993	Setting 29149
+
+X: 5
+T: Maire Rua
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+S: O'Neil's Music of Ireland, no.1169
+D|DGG GAG FGA|BGB cAB c2c|DGG GAG FGA|BGB cAF G2 (G/F/)|DGG GAG FGA|
+BGB cAB c2 (B/c/)|ded cAG FGA|BGB cAF G2||(B/c/)|ded cAG FGA|ded cAB c2 (B/c/)|
+ded cAG FGA|BGB cAF G2 (B/c/)|ded cAG FGA|ded cAB c2 (d/e/)|fed cAG FGA|BGB cAF G2|]
+
+
+Tune 993	Setting 27018
+
+X: 4
+T: Maire Rua
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|: DGG GAG FGA | BF/G/B GAB c2A | DGG GAG FGA | BF/G/B cAF G3 |
+DGG GAG FGA | BFGB GAB c3 | DGG GAG FGA | BF/G/B cAF GBc ||
+|:ddd cAG FED | Add cAB c3 | ded cAG FGA | BF/G/B cAF G2B |
+ded cAG FED | dF/G/d cAB c3 | ded cAG FGA | B/c/dB cAF G3 ||
+
+
+Tune 993	Setting 14199
+
+X: 2
+T: Maire Rua
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+D2G GAG FGA|B3 GAB c[Bd][Ae]|D2G GAG FGA|1BdB cAF GEG:|2BdB cAF Gdc||~d3 cAG FED|ded cAB c3|~d3 cAG FGA|1BdB cAF Gde:|2BdB cAF GEG||
+
+
+Tune 993	Setting 993
+
+X: 1
+T: Maire Rua
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|:DGG GAG FGA|BBB GAB ~c3|DGG GAG FGA|BAB cAF G2 E:|
+|:ded cAG FED|ded cAB ~c3|ded cAG FGA|BAB cAF G2 E:|
+
+
+Tune 993	Setting 20753
+
+X: 3
+T: Maire Rua
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|: DGG GAG FGA | BAB GAB c3 | DGG GAG FGA |1 BdB cAF G3 :|2 B/c/dB cAF GBc ||
+d3 cAG FED | Add cAB c3 | ded cAG FED | B/c/dB cAF GBc |
+d3 cAG FED | Add cAB c3 | ded cAG FED |1 BdB cAG FED :|2 B/c/dB cAF G3 ||
+
+

@@ -1,0 +1,44 @@
+Tune 2646	Setting 2646
+
+X: 1
+T: The Stolen Purse
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+edB AGA|AGF G2B|dBA ABd|e2g edB|
+~A3 AGA|AGF G2A|GED G2A|Bdd edB|
+~A3 AGA|AGF G2B|dBA ABd|e2g edB|
+~A3 AGA|BGF G2A|GED G2A|Bdd edB||
+def g2b|agf g2e|def g2a|bge edB|
+def g2b|agf g2a|bgg agf|e2d efg:|
+
+
+Tune 2646	Setting 29518
+
+X: 3
+T: The Stolen Purse
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+edB AGA | AGF GBd | edB ABd | e/g/e d efg |
+edB AGA | AGF G2A | GED G2A |1 Bdd edg :|2 Bdd edB |]
+def ~g3 | agf ~g2e | def gfg | age edB |
+def ~g3 | agf ~g2a | bag agf | e/g/e d efg :|
+
+
+Tune 2646	Setting 22197
+
+X: 2
+T: The Stolen Purse
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+edB AGA|AGF GBd|edB ABd|e2d e2g|
+edB AGA|AGF GBA|GED G2A|B2d edB|]
+def g2g|agf ~g3|def g2g|age edB|
+def ~g3|agf g2a|bag agf|e2d efg|]
+
+

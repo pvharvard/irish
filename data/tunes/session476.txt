@@ -1,0 +1,76 @@
+Tune 476	Setting 476
+
+X: 1
+T: Willie Coleman's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+B2G AGE|GED G2d|edB dgb|age dBA|
+B2G AGE|GED G2d|edB dBA|BGG G3:|
+~g3 edB|dgb age|~g3 edB|GBd e3|
+~g3 edB|dgb age|dBd gdB|AGF G3:|
+
+
+Tune 476	Setting 23887
+
+X: 6
+T: Willie Coleman's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+B3 AGE|GED GBd|edB dgb|age dBA|B3 AGE|GED GBd|edB dBA|BGG G3:|
+|:g3 edB|dgb age|g3 edB|GBd e2d|g3 edB|dgb age|d3 gdB|AGE G3:|
+
+
+Tune 476	Setting 11345
+
+X: 5
+T: Willie Coleman's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|B2G AGE|GED GBd|edB dgb|age dBA|
+B2G AGE|GED GBd|edg edB|AGF G3:|
+|~g3 edB|dgb age|~g3 edB|G(B/c/d) e2d|
+~g3 edB|dgb age|d(B/c/d) gdB|AGF G3:|
+
+
+Tune 476	Setting 13366
+
+X: 3
+T: Willie Coleman's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|~g3 edB|dgb age|~b3 age|dBd e2d||~g3 edB|dgb age|dBd gdB|AGF G3|
+
+
+Tune 476	Setting 13367
+
+X: 4
+T: Willie Coleman's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: A |B2 G AGE | GED GBd | edB dgb | age dBA |
+B2 G AGE | GED GBd | edB dBA | BGF G2 :|
+|: d |gfg edB | dgb ag| gfg edB | GBd e2 f |
+gfg edB | dgb age | d^cd gdB | AGF G2 :|
+
+
+Tune 476	Setting 13365
+
+X: 2
+T: Willie Coleman's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+gGg edB|dgb age|fgg fdA|BGG Bdf|egg ed^c|dgb age|~d3 gdB|AGF G2
+
+

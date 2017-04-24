@@ -1,0 +1,83 @@
+Tune 294	Setting 29988
+
+X: 7
+T: The Humours Of Kinvara
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+dc|:BE ~E2 BEdE|BE ~E2 BcdB|cA ~A2 cAeA|1(3Bcd efe2dc:|2(3Bcd efe2de||
+|:~f3e dcBA|effe d2de|~f3e fgaf|1ecAc ~e2de:|2ecAc e2dc|B4||
+
+
+Tune 294	Setting 13048
+
+X: 4
+T: The Humours Of Kinvara
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:BE (3EEE BEdE|BE (3EEE BcdB|cA (3AAA cdec|1(3Bcd AGFD FA:|2(3Bcd ef ~e2 de||
+|:~f3e dcec|~f3e d4|~f3e f^gaf|ecAc ~e2de:|
+
+
+Tune 294	Setting 28290
+
+X: 6
+T: The Humours Of Kinvara
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+AD~D2 ADBD | AD~D2 ADcA | BG~G2 BGdG |1 Bdde d2 cB :|2Bdde d2cA||
+Geed cBAG | ceed ~c3d | ~e3d efge |1 dBGB d2 cA :|2 dBGB d2 cB ||
+
+
+Tune 294	Setting 15531
+
+X: 3
+T: The Humours Of Kinvara
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:BE (3EEE BEdE|BE (3EEE BcdB|cA (3AAA cdec|1(3Bcd AGFD FA:|2(3Bcd ef ~e2 de|:~f3e dcec|~f3e d4|~f3e f^gaf|ecAc ~e2de:|
+
+
+Tune 294	Setting 22669
+
+X: 5
+T: The Humours Of Kinvara
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+cA|:BE (3EEE BEdE|BE (3EEE BEdE|cA (3AAA AcAe|1ceef e2cA:|2ceef ~e2 cA||
+|:Affe dcBA|~f3e d3e|~f3e fgaf|1ecAc ~e2cA:|2ecAc ~e2||
+
+
+Tune 294	Setting 294
+
+X: 1
+T: The Humours Of Kinvara
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+c|:BE (3EEE BEdc|BE (3EEE BcdB|cA (3AAA cdeA|(3Bcd ef e2de:|
+|:fffe dcBA|fffe d4|fffe fgaf|ecAc e2de:|
+
+
+Tune 294	Setting 2150
+
+X: 2
+T: The Humours Of Kinvara
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dc|:BE (3EEE BEcE|BE (3EEE BcdB|cA (3AAA eAcA|1ceef e2dc:|2ceef e2de||
+|:f2 fe dcBA|effe d2 de|f2 fe fgaf|1ecAc e2de:|2ecAc e2 dc||
+
+

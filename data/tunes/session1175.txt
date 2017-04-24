@@ -1,0 +1,91 @@
+Tune 1175	Setting 26941
+
+X: 8
+T: Donald Blue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+| dBAF A3B | dBAF E2D2 | dBAF A2FA | BcBB AFA :|
+| ABde f3d | g3e fedB | ABde fded | B2dB BAFA :|
+
+
+Tune 1175	Setting 14442
+
+X: 3
+T: Donald Blue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+| dBAF A3B | dBAF E2D2 | dBAF A2FA | BcBB AFA :|| Abde f3d | g3e fedB | Abde fded | B2dB BAFA :|
+
+
+Tune 1175	Setting 14443
+
+X: 4
+T: Donald Blue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:dBAF A2FA|dBAF EFD2|dBAF A2FA|1 B2BA B2AB:|2 B2BA B2dB|||:ABde fddf|gefd edBd|ABde fded|1 B2BA B2dB:|2 B2BA B2AB||
+
+
+Tune 1175	Setting 14441
+
+X: 2
+T: Donald Blue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:dBAF A2FA|dBAF EFDd|dBAF A2FA|1 ~B3A BABc:|2 ~B3A BAdB|||:ABde ~f3a|g2fg edBd|ABde fedA|1 ~B3A BAFB:|2 ~B3A BABc||
+
+
+Tune 1175	Setting 1175
+
+X: 1
+T: Donald Blue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:dBAF AFAB|dBAF E2D2|dBAF AFAd|BB2A B2e2:|
+|:ABde fafd|fafd edB2|ABde fafd|BB2A B2d2:|
+
+
+Tune 1175	Setting 23886
+
+X: 7
+T: Donald Blue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dBAF AFAB|dBAF E2 D2|dBAF AFA2|BABc B2 A2:|
+|:ABde fafd|fa af ed B2|ABde fafd|BABc B2 A2:|
+
+
+Tune 1175	Setting 14445
+
+X: 6
+T: Donald Blue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:dBAF A2 FA|dBAF E2 DF|dBAF A2 FA|ABBA B2 AB|dBAF A2 FA|dBAF E2 DF|dBAF A2 FA|ABBA B2 dB|||:ABde fa a2|g2 fg ed (3Bcd|ABde f2 ed|ABBA B2 dB|ABde fa a2|g2 fg ed (3Bcd|ABde f2 ed|ABBA B2 AB||
+
+
+Tune 1175	Setting 14444
+
+X: 5
+T: Donald Blue
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:dBAF A2 FA|dBAF E2 DF|dBAF A2 FA|ABBA B2 AB|dBAF A2 FA|dBAF E2 DF|dBAF A2 FA|ABBA B2 dB|||:ABde fa a2|g2 fg ed (3Bcd|Abce f2 ed|ABBA B2 dB|ABde fa a2|g2 fg ed (3Bcd|Abce f2 ed|ABBA B2 AB||
+
+

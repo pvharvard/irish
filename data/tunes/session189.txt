@@ -1,0 +1,85 @@
+Tune 189	Setting 24235
+
+X: 7
+T: The Reel With The Birl
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+~E2BE dEBE|~E2BE AGFD|~E2BE dEBd|efdB AFDF|
+~E2BE dEBE|~E2BE AGFA|GBEF GABd |eddB A3d||
+BABd e3g|fddc d2ef|g2gf gfeg|fa~a2 afde|
+fb~b2 faaf|gefd edBA|GBEF GABd|eddB AGFD||
+
+
+Tune 189	Setting 12840
+
+X: 5
+T: The Reel With The Birl
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+E2BE dEBE | E3B AFDF | E2BE dEBE |1 dcdB AFDF :|2 dcdB A4 ||BABd e2de | fddc d2ef | g4 g4 | faab afed | dbb2 bafe | faab afed | B3B BAFA | dcdB AFDF ||
+
+
+Tune 189	Setting 12839
+
+X: 4
+T: The Reel With The Birl
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+E2BE DEBE|E2BE AFDF|E2BE dEBE|eBdB AFDF| E2BE DEBE|E2BE AFDF|GBAF G3B|1dedB AFDF:|2d3B A4||BA(3Bcd e4|fdd2 ed(3Bcd |g2gf g2eg|faab afef|g2bg faaf|edfe edBA|GBAF GABc|1dedB A3B:|2d3B AFDF||
+
+
+Tune 189	Setting 12838
+
+X: 3
+T: The Reel With The Birl
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+~E2BE dEBE|~E2BE AGFD|~E2BE dEBc|1 ~d3B AGFD:|2 ~d3B A2FA||B3d e3g|fddc d2ef|g2gf gfeg|fa~a2 afed|fb~b2 bafe|fa~a2 afed|B2BA BAFA|~d3B AGFD||
+
+
+Tune 189	Setting 189
+
+X: 1
+T: The Reel With The Birl
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:E2 BE dEBE|(3EEE BE AGFD|(3EEE BE dEB2|1 dcdB AGFD:|2 dcdB A4||
+B3 d e3 g|f~d3 d^def|g4 g3 g|fa (3aaa afe2|
+b3 b2 afe|a3 a2 fed|B3 B2 AFA|dcdB AGFD|
+
+
+Tune 189	Setting 12837
+
+X: 2
+T: The Reel With The Birl
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+E2 BE dEBE|E2 BE AGFD|E2 BE dE B2|1 d2 dB AGFD:|2 d2 dB A4||B3 d e3 g|fd d2 d2 ef|g4 g3 e|fa a2 afed| f3 b bafe|fa a2 afed|B3 B BAFA|d2 dB AGFD||
+
+
+Tune 189	Setting 23024
+
+X: 6
+T: The Reel With The Birl
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+~E2BE dEBE|~E2BE AFDE|~E2BE dEBd|efdB AFDE|
+~E2BE dEBE|~E2BE AFDE|~E2BE ~E2BE|~E2dB (3.A.c.A FA||
+BA (3.B.^c.d e.A.Ag|fdd^c dfaf|gfef ~g3e|f~a3 afdf|
+g2be f2af|(3.g.f.e fd eBBA|GBB2 "*"c3A|B2dB AFDE ||
+
+

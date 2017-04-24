@@ -1,0 +1,72 @@
+Tune 2180	Setting 25884
+
+X: 4
+T: The Drunken Gauger
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:D|GAB c2A|BAG AGE|GB/c/d g2e|dBe dBG|
+c2A Bc/d/B|AGA BGE|DE/F/G AGA|BGF G2:|
+|:D|GB/c/d g2e|dBe dBG|Ace a3|agb age|
+dB/c/d g2e|dBe dBG|c2A Bc/d/B|AGA BGE|
+GAB c2A|BAG AGE|GB/c/d g2e|dBe dBG|
+c2A B/c/dB|AGA BGE|DE/F/G AGA|BGF G2:|
+
+
+Tune 2180	Setting 28861
+
+X: 5
+T: The Drunken Gauger
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|D|GAB cBA|BAG AGE|GBd g>ze|d(3Bcd edB|
+cec (3BcdB|Az A BGE|DE/F/G AGA|BGG G2|
+|D|GAB !trill!czA|BAG AGE|GBd g>ze|d(3Bcd edB|
+cec (3BcdB|~A3 BGE|D>zG AGA|BGG G2|
+|:D|GBd Jg>z e|dBe dBG|Ace ~a3|agb age|
+dBd Jg>z e|dBe dBG|czA (3BcdB|AGA BGE|
+DE/F/G/A/B/ ~c2A|BAG AGE|GBd g2e|dBe dBG|
+!trill!c3 (3BcdB|AGA BGE|DE/F/G AGA|BGG G2:|
+
+
+Tune 2180	Setting 15551
+
+X: 3
+T: The Drunken Gauger
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+BA|:GED GAB GBA G2G G2A|Bcd efg fed e2B d2A||
+
+
+Tune 2180	Setting 2180
+
+X: 1
+T: The Drunken Gauger
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:D|GAB c2A|BAG AGE|GBd g2e|dBe dBG|
+c2A BdB|AGA BGE|DE/F/G AGA|BGG G2:|
+|:D|GBd g2e|dBe dBG|Ace a2a|agb age|
+dBd g2e|dBe dBG|c2A BdB|AGA BGE|
+GAB c2A|BAG AGE|GBd g2e|dBe dBG|
+c2A BdB|AGA AGE|DE/F/G AGA|BGG G2:|
+
+
+Tune 2180	Setting 15550
+
+X: 2
+T: The Drunken Gauger
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|DEG ~A3|AGF G|
+
+

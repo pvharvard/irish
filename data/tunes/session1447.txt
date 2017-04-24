@@ -1,0 +1,103 @@
+Tune 1447	Setting 14834
+
+X: 3
+T: Whelan's
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|: E2 B BAF | FEB AFB | E2 B BAB | dAF FED |E2 B BAF | FEB AFA | BCB BAB | dAF FED :||: E2 e ede | fed e2 d | BAB g2 E | fdB AFA |B2 e ede | fed e2 f | gbg faf |[1 edB AFA :|[2 edB AFB |]
+
+
+Tune 1447	Setting 1447
+
+X: 1
+T: Whelan's
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|:~E3 BAF|FEB AFD|~E3 BAF|dAF FED|
+~E3 BAF|FEB AFA|B/c/dB BAF|dAF FED:|
+|:BAB ~e3|fed e2d|BAB g2e|fdB AFA|
+~B3 ede|fed e2 f|gbg faf|edB AFA:|
+
+
+Tune 1447	Setting 21476
+
+X: 6
+T: Whelan's
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+~e2e BAF|FEB AFD|~e2e BAF|dAF FED|
+~E2E BAF|FEB AFA|BdB BAF|1dAF FED:|2dAF FEd||
+BAB ~e2e|fed ~e2d|BAB ~g2e|fdB AFA|
+BAB ~e2e|fed ~e2f|gbg eff|1edB AFA:|2edB AFD||
+
+
+Tune 1447	Setting 14836
+
+X: 5
+T: Whelan's
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|: E3 B^AB | EBG AFD | E^DE B2 c | dcB AFD |E3 B3 | GBG A3 | B/c/dB BAF | dAF FED :||: B^AB e3 | fed e3 | B^AB g2 e | fdB AF/G/A |B3 e3 | fed e2 f | g2 b f/g/af |[1 edB AF/G/A :|[2 edB AFD |]
+
+
+Tune 1447	Setting 14833
+
+X: 2
+T: Whelan's
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+E2B BAF|FEB AFB|E2B BAB|dAF FED|
+E2B BAF|FEB AFA|BCB BAB|dAF FED:|
+E2e ede|fed e2d|BAB g2E|fdB AFA|
+B2e ede|fed e2f|gbg faf|1 edB AFA:|2 edB AFB||
+
+
+Tune 1447	Setting 14835
+
+X: 4
+T: Whelan's
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|: ~E3 BAF | FEB AFD | ~E3 BAF | dAF FED |~E3 BAF | FEB AFA | BdB BAF | dAF FED :||: B3 ~e3 | fed ~e3 | BAB g3 | fdB AFA |B3 ~e3 | fed e2 f | gbg faf | edB AFD :|
+
+
+Tune 1447	Setting 25987
+
+X: 8
+T: Whelan's
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|:E3 BAF|FEB AFD|E3 BAF|dAF FED|
+E3 BAF|FEB AFA|B/c/dB BAF|dAF FED:|
+|:B3 e3|fed e3|BAB g2e|fdB AFA|
+B3 e3|fed e2 f|g3 f3|edB AFA:|
+
+
+Tune 1447	Setting 24372
+
+X: 7
+T: Whelan's
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|: eBG BAF | FEB AFD | E2B BAF | d2F FED |
+eBG BAF | FEB AFA | B/c/dB BAF | dAF FGA :|
+|: BAB e2e | fed e2d | BAB g2e | fdB AGA |
+BAB ede | fed e2 f | gbg faf |[1 edB AGA :|[2 edB AFD ||
+
+

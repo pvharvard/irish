@@ -1,0 +1,99 @@
+Tune 463	Setting 26257
+
+X: 6
+T: Paddy Fahey's
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:E2BE GFGA|Beed e3f|gfeg f2dB|edBA GEDE|
+EEDE GFGA|Beed e3f|g2ag fedB|edBA GEE2:||
+|:e2fe befe|d2Ad FdAd|e2fe befe|dcde fedB|
+B2^AB BcdB|edBA GEDF|E3F GFGA|1 Beed e2ef:|2 BeGE FEDF||
+
+
+Tune 463	Setting 13346
+
+X: 2
+T: Paddy Fahey's
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+D2A,D FEFG|Add^c d2de|fedf edcA|dcAG FDEC|DAAG FEFG|Add^c d2de|fedf edcA|dcAG FDD2:| |:Ad ~d2 ^fded|c2 Gc EcGc|Ad ~d2 ^fded|cBcd ed ~d2|a2 ^ga ABcA|dcAG FD ~D2|D2 A,D FEFG|Ad^ce d4:|
+
+
+Tune 463	Setting 463
+
+X: 1
+T: Paddy Fahey's
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+|:D2A,D FEFG|Addc d2de|fedf edcA|dcAG FDCD|
+D2A,D FEFG|Addc d2de|f2gf edcA|dcAG FDD2:|
+|:d2 e daded|c2Gc EcGc|d2 e daded|cBcd edcA|
+a2^ga ABcA|dcAG FDCE|D2DE FEFG|Addc d2de:|
+
+
+Tune 463	Setting 13347
+
+X: 3
+T: Paddy Fahey's
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+|:Ad ~d2 ad_Bd|~c3G EDG_B|Ad ~d2 ad_Bd|~c3d edcA
+
+
+Tune 463	Setting 28639
+
+X: 7
+T: Paddy Fahey's
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+|:D^CDE F3G|AD~ED d3e|fedf eA~BA|d2AG FDEC|
+DA, ~A,2 DEFG|AD ~D2 d^cde|fedf eA~BA|1d2AG FDCA,:|2d2AG FDD2|
+|:Ad ~d2 fded|cBcG EFGc|Ad ~d2 fded|cBcd edd2|
+a2^ga AB~BA|dcAd cAGE|DA,~A,2DEFG|1AD~D2d3c:|2AdcA d4|]
+
+
+Tune 463	Setting 13348
+
+X: 4
+T: Paddy Fahey's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+BGBd c3 d|BGBd cAFA|BGBd c3 d|fgaf gedc|BGBd c3 d|BGBd cAF2|fgaf gdeg|fdfa gdgb|g3 a bgag|fddf ecce|g3 a bgag|fdde =f3 a|g3 a bgag|fddf ecce|fddg e2 ag|fdfa gedc|
+
+
+Tune 463	Setting 28897
+
+X: 8
+T: Paddy Fahey's
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+D2 A,D FEFG | Ad^cA ~d3 e | ~f2 df edcA | dcAG FDCE | D2 A,D FEFG | Ad^cA d3 e | f/2g/2agf edcA |1 dcAG FDCE :|2 dcAG FDdc |]
+Ad~d2 adfd|~c3G EFGc|Ad~d2 adfd|~c3d edcA|~a2^ga ABcA|dcAG FDCE|~D2 A,D FEFG |Ad^cA d3=c|
+Ad~d2 adfd|c2Gc EcGc|Ad~d2 Adfd|~c3d edcA|~a2^ga ABcA|dcAG FDCE|~D2 A,D FEFG |Ad^cA d3E||
+
+
+Tune 463	Setting 13349
+
+X: 5
+T: Paddy Fahey's
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+E2BE GFGA|Beed e3f|gfeg f2dB|edBA GEDE|EEDE GFGA|Beed e2ef|g2ag fedB|edBA GEE2:||e2fe befe|d2Ad FdAd|e2fe befe|dcde fedB|b2^ab BcdB|edBA GEDF|E2EF GFGA|1 Beed e2ef:|2 BeGE FEDF||
+
+

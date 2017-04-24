@@ -1,0 +1,53 @@
+Tune 1340	Setting 24781
+
+X: 3
+T: The Boys Of Ballisodare
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+D2G G2A B2d|ege d2e g3|D2G G2B d2B|AGA B2G E2G|
+D2G G2A B2d|ege d2e g2a|b2a g2e d2B|AGA B2G E2G:|
+|:B2d d2B d2B|dBd e2f g3|B2d d2B d2B|AGA B2G E2G |
+B2d d2B d2B|dBd e2f g2a|b2a g2e d2B|AGA B2G E2G:|]
+
+
+Tune 1340	Setting 26011
+
+X: 4
+T: The Boys Of Ballisodare
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|:D2G G2A B2d|ege d2e g3|D2G G2B d2B|AGA B2G E2G|
+D2G G2A B2d|ege d2e g2a|b2a g2e d2B|AGA B2G E2G:|
+|:B2d d2B d2B|d3 def g3|B2d d2B d2B|AGA B2G E2G |
+B2d d2B d2B|d3 def g2a |b2a g2e d2B|AGA B2G E2G:|
+
+
+Tune 1340	Setting 1340
+
+X: 1
+T: The Boys Of Ballisodare
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+D2 G G2 A B2 d | ege d2 e g3 | D2 G G2 B d2 B | AGA B2 G E2 G |
+D2 G G2 A B2 d | ege d2 e g2 a | b2 a g2 e d2 B | AGA B2 G E2 G:||
+B2 d d2 B d2 B | dBd e2 f g3 | B2 d d2 B d2 B | AGA B2 G E2 G |
+B2 d d2 B d2 B | dBd e2 f g2 a | b2 a g2 e d2 B | AGA B2 G E2 G:||
+
+
+Tune 1340	Setting 14690
+
+X: 2
+T: The Boys Of Ballisodare
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+"G" D2 G G2 A B2 d | "C" ege d2 e g3 | "G" D2 G G2 B d2 B | "Am"AGA B2 G "D"E2 G |"G" D2 G G2 A B2 d | "C" ege d2 e "D"g2 a | "Em"b2 a g2 e d2 B | "Am"AGA B2 G E2 G :||"C" B2 d d2 B d2 B | "D" dBd e2 f "G"g3 | "C" B2 d d2 B d2 B | "Am"AGA B2 G E2 G |"Am"B2 d d2 B d2 B | "Bm"dBd e2 f g2 a | "C" b2 a g2 e d2 B | "D" AGA B2 G E2 G :||
+
+

@@ -1,0 +1,68 @@
+Tune 4740	Setting 27832
+
+X: 3
+T: The Golden Stud
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:E3G F3A |G3B AGFA |B2 GB AGFA |GEFD E3G |
+E3G F3A |G3B AGFA |B2 GB AGFA |GEFD E3B :||
+|:c2 AB cBAc |B2 GA BAGB |A2 FG AGFA |GEFD E3B |
+c2 AB cBAc |B2 GA BAGB |A2 FG AGFA |GEFD E4:|
+
+
+Tune 4740	Setting 28366
+
+X: 5
+T: The Golden Stud
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|:B3d c3e |d3f edce |f2 df edce |dBcA B3d |
+B3d c3e |d3f edce |f2 df edce |dBcA B3f :||
+|:g2 ef gfeg |f2 de fedf |e2 cd edce |dBcA B3f |
+g2 ef gfeg |f2 de fedf |e2 cd edce |dBcA B4:|
+
+
+Tune 4740	Setting 4740
+
+X: 1
+T: The Golden Stud
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:E2 GE F2 FA |G2 GB AB cA |B2 GB AG FA |GE FD ED B,D |
+E2 GE F2 FA |G2 GB AB cA |(3BcB GB AG FA |GE FD E4 :|
+|:c2 AB cB Ac |B2 Bc BA GB |(3ABA FG AG FA |GE FD E2 AB |
+c2 AB cB Ac |(3BcB dB BA GB |(3ABA FG AG FA |GE FD E4:|
+
+
+Tune 4740	Setting 27428
+
+X: 2
+T: The Golden Stud
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:EFGE FGAF|GABG ABcA |BAGB AGFA |GEFD E2E2 :|
+|:c2 AB cBAc |B2 AB BAGB |A2 FG AGFA |GE FD E2 E2 :|
+
+
+Tune 4740	Setting 28365
+
+X: 4
+T: The Golden Stud
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+|:A3c B3d |c3e dcBd |e2 ce dcBd |cABG A3c |
+A3c B3d |c3e dcBd |e2 ce dcBd |cABG A3e :||
+|:f2 de fedf |e2 cd edce |d2 Bc dcBd |cABG A3e |
+f2 de fedf |e2 cd edce |d2 Bc dcBd |cABG A4:|
+
+

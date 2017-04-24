@@ -1,0 +1,28 @@
+Tune 1425	Setting 1425
+
+X: 1
+T: The Sword In The Hand
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+F|G2BG FGAF|EBBA BGEF|~G2BG FGAd|(3Bcd AG FDDF|
+~G3B ~F3A|EBBA BGEF|GABG FGAd|(3Bcd AG FDDg||
+fdec dBAF|EBBA BGEg|fdec dBAF|GAAG FDDg|
+fdec dBAF|EBBA BGEg|fdec dBAF|GA (3BAG FDD||
+
+
+Tune 1425	Setting 24744
+
+X: 2
+T: The Sword In The Hand
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|G2BG FAAF|EBBA BGEF|G2BG FAAB|dBAG FDDF|
+G2 BG FAAF|EBBA BGEF|GABG FAAB|dBAG FDDg||
+|f2 ec dBAF|EBBA BGEg|f2 ec dBAF|GBAG FDDg|
+f2 ec dBAF|EBBA BGEg|f2 ec dBAF|GBAG FDDF||
+
+

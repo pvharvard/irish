@@ -1,0 +1,57 @@
+Tune 1750	Setting 15191
+
+X: 4
+T: The Lilies In The Field
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+Addc A3B | c3d eddc | Addc A2B/c/d | cAGE EDD2 |Addc ~A3B | cAB/c/d eddc | Addc A2B/c/d | cAGE EDD2 || d2fd Adfd |cdef g2fe | d2fd Adfd | eaag edd2 | d2fd Adfd |B/c/d ef g2fg|afge d2B/c/d|eaag eddc|
+
+
+Tune 1750	Setting 15192
+
+X: 5
+T: The Lilies In The Field
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+Addc A2 AB|~c3d efdB|Addc AFBd|cAGE FDDB|Addc A2 AB|~c3d efdB|AFdB AFBd|cAGE FDFA||d2 fd Adfd|B/c/d ef gafe|defd Adfd|ceag fdec|dafd Adfd|B/c/d ef (3gag fg|af g/f/e fdcd|eaag fedB||
+
+
+Tune 1750	Setting 15190
+
+X: 3
+T: The Lilies In The Field
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+Addc A2AB|BAcd efdB|AFdB A2Bd|cAGE FDD2|Addc A2AB|BAcd efdB|AFDB A2Bd|cAGE FDD2||d2fd Adfd|B/c/d ef gece|d2fd Adfd|eaag fdd2|dgfd Adfd|B/c/d ef g2fg|afge d2cd|eaag fdd2||
+
+
+Tune 1750	Setting 1750
+
+X: 1
+T: The Lilies In The Field
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: d2 dc A2 AB | cBcd e2 dc | Addc A2 Bd | cAGE ED D2 :|
+| d2 fd Adfd | cdef gece | d2 fd Adfd | eaag edcA
+| d2 fd Adfd | cdef g2 fg | afge d2 cd | eaag edcA |
+
+
+Tune 1750	Setting 15189
+
+X: 2
+T: The Lilies In The Field
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+Addc A2AB | cBcd edcd | Addc A2AB | BAGE EDD2 :|d2fd Adfd | cdef gece | d2fd Adfd | ceag eddc | d2fd Adfd |cdef g2fg | af~f2 geed | eaag eddc ||Addc A2AB | cBcd ecdc | Addc A2AB | BAGE EDD2 :|d2fd Adfd | cdef gece | d2fd Adfd | ceag eddc | d2fd Adfd |cdef g2fg | afge fdcd | eaag eddc ||
+
+

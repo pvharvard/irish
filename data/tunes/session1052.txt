@@ -1,0 +1,67 @@
+Tune 1052	Setting 24914
+
+X: 5
+T: Cooley's
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3def|gG G2 EGDG|BGDG GB dg|e2 ce d2 Bd|(3cBA BGA2 (3def|
+gG G2 EGDG|BGDG GB dg|ecAG FAdc|BGAFG2:|
+|:GA|B3d ed (3Bcd|g2 bg (3efg dB|c2 ge dGBd|cBAG A2 dc|
+BGDc BDGF|E2cE D2Bd|g3e dBcA|BGAFG2:||
+
+
+Tune 1052	Setting 14279
+
+X: 2
+T: Cooley's
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3def|gG G2 EGDC|B,G, B,D GB dg|e2 ce d2 Bd|(3cBA BGA2 (3def|gG G2 EGDC|B,G, B,D GB dg|ecAG FAdc|B2 GF G2:||:GA|BGBd edBd|g2 bg egdB|c2 ge dGBd|cBA^G A2 dc|BGDC B,DG=F|E2CE DGBd|gfge dBcA|B2 GFG2:||
+
+
+Tune 1052	Setting 23926
+
+X: 4
+T: Cooley's
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+(3def|gG {A}(3GFG (3EFG DC|B,G, B,D GB dB|(3cdc Ac (3BcB GB|cB AG A2 (3def|
+gG {A}(3GFG (3EFG DC|B,G, B,D GB dB|cB AG Fe dc|{Bc}B2 G2 G2:|
+|:(3ddc|BG Bd ed Bd|g2 {a}(3gfg eg dB|dg {a}(3gfg dB GB|cB AG Fe dc|
+F#D{E}(3DCD {C}(3BAB cB|{C}(3BAB cB AD F#d|gage dc F#E|{F#c}F#2 D2:||
+
+
+Tune 1052	Setting 1052
+
+X: 1
+T: Cooley's
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3def|gG {A}(3GFG (3EFG DC|B,G, B,D GB dB|(3cdc Ac (3BcB GB|cB AG A2 (3def|
+gG {A}(3GFG (3EFG DC|B,G, B,D GB dB|cB AG Fe dc|{Bc}B2 G2 G2:|
+|:(3ddc|BG Bd ed Bd|g2 {a}(3gfg eg dB|dg {a}(3gfg dB GB|cB AG Fe dc|
+BG {A}(3GFG {F}(3EDE cE|{F}(3EDE cE DG Bd|ga ge dc BA|{Bc}B2 G2 G2:||
+
+
+Tune 1052	Setting 22759
+
+X: 3
+T: Cooley's
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+ef|gG ~G2 (3EFG DC|(3B,A,G, B,D GB dg|(3ege ce d2 Bd|(3cBA (3BAG Ad^cd|
+BG ~G2 (3EFG CG|~E2 CE DGBd|~g3e (3dcB cA|B2 GF G2:|
+|:dc|BGFG edBd|gabg egdB|c2 ge dBGB|(3cBA (3BAG Ad^cd|
+BG ~G2 (3EFG CG|~E2 CE DGBd|~g3e (3dcB cA|B2 GF G2:||
+
+

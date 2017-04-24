@@ -1,0 +1,25 @@
+Tune 839	Setting 839
+
+X: 1
+T: The Old Flail
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+DEG GAB|Bdg gab|age ege|dBG AGE|
+DEG GAB|Bdg gab|age ege|dBG A3:|
+~a3 aga|ega ega|deg ged|ged BAG|
+DEG GAB|Bdg gab|age ege|dBG A3:|
+
+
+Tune 839	Setting 14000
+
+X: 2
+T: The Old Flail
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+DEG GAB|deg gab|age ege|dBG AGE|DEG GAB|deg gab|age ege|dBG A3:|ega aga|ega ega|deg ged|ged BAG|DEG GAB|d2g gab|age ege|dBG A3:|
+
+

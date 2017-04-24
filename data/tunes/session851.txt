@@ -1,0 +1,78 @@
+Tune 851	Setting 14019
+
+X: 3
+T: Return From Fingal
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Edor
+BG/F/ E/F/G/A/ | BG/F/ E2 | A/G/F/A/ dA | BA B/c/d/e/ |BG/F/ E/F/G/A/ | BG/F/ E2 | A/G/F/A/ dA | FE E2 ||fe ed/c/ | BA dA | BA dA | BA B/c/d/e/ |fe ed/c/ | BA d2 | A/G/F/A/ dG | FE E2 |]B2 GF EFGA | B2 GF E4 | AGFA d2 A2 | B2 A2 Bcde |B2 GF EFGA | B2 GF E4 | AGFA d2 A2 |F2 E2 E4 ||f2 e2 e2 dc | B2 A2 d2 A2 |B2 A2 d2 A2 | B2 A2 Bcde |f2 e2 e2 dc | B2 A2 d4 | AGFA d2 G2 | F2 E2 E4 |]
+
+
+Tune 851	Setting 26692
+
+X: 5
+T: Return From Fingal
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Ador
+|:e2 cB ABcd|e2cB A2 d2|dcBd g2d2|e2d2 efg2|
+e2 cB ABcd|e2cB A2 d2|dcBd g2dc|B2A2 A4:|
+|:b2a2 a2gf|e2 de g2d2|e2d2 g2d2|e2d2 efga|
+b2a2 a2gf|e2 de g2d2|dcBd g2dc|B2A2 A4:|
+
+
+Tune 851	Setting 26693
+
+X: 6
+T: Return From Fingal
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Edor
+|:B2 GF EFGA|B2GF E2 A2|AGFA d2A2|B2A2 Bcd2|
+B2 GF EFGA|B2GF E2 A2|AGFA d2AG|F2E2 E4:|
+|:f2e2 e2dc|B2 AB d2A2|B2A2 d2A2|B2A2 Bcde|
+f2e2 e2dc|B2 AB d2A2|AGFA d2AG|F2E2 E4:|
+
+
+Tune 851	Setting 24114
+
+X: 4
+T: Return From Fingal
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Edor
+B/A/G/F/ E/F/G/A/|B/A/G/F/ EE|A/G/F/A/ dA|BA B/c/d|
+B/A/G/F/ E/F/G/A/|B/A/G/F/ EE|A/G/F/A/ dA|FE E2:|
+!|:fe ed/c/|BA d>A|BA dA|BA B/c/d/e/|
+fe ed/c/|BA d>A|B/A/F/A/ dA|FE E2:|
+
+
+Tune 851	Setting 14018
+
+X: 2
+T: Return From Fingal
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Emin
+|: {ABc}BAGF EFGA | {c}BAGF E4 | AGFA d2 A2 | {Bc}B2 A2 B^c d2 | {Bc}BAGF EFGA | {Bc}BAGF E4 | AGFA d2{ed} A2 | F2 E2 {F}E4 :|f2{gf} e2 e2 d^c | B2{^cB} A2 d3 A | B2{^cB} A2 d2 A2 | B2{^cB} A2 B^cde |f2{gf} e2 e2 d^c | B2{^cB} A2 d3 B | AGFA d2{ed} A2 |[1 F2{GF} E2 E2 g2 :|[2 F2{GF} E2 E4 |]
+
+
+Tune 851	Setting 851
+
+X: 1
+T: Return From Fingal
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Edor
+|:B2GF EFGA|B2GF E4|AGFA d2A2|B2A2 Bcd2|
+B2GF EFGA|B2GF E4|AGFA d2AG|F2E2 E4:|
+|:f2e2 e2dc|B2A2 d2A2|B2A2 d2A2|B2A2 Bcde|
+f2e2 e2dc|B2A2 d2A2|AGFA d2AG|F2E2 E4:|
+
+

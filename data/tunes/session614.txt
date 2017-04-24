@@ -1,0 +1,51 @@
+Tune 614	Setting 13630
+
+X: 2
+T: The Connemara Stockings
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: d2 cd BAFE | DE{FG}FD {EF}EDB,A, | DEFA {c}BAed |1 cABc dABc :|2 cABc d2 Bc |{d}cBFB dBfB | cAEA cAec | dBFB {d}cBfB | dcAc ~B3 c |d2 {g}fe fded | caec ABcA | ~d3 A ~c3 A | ~B3 c dAFA |]
+
+
+Tune 614	Setting 614
+
+X: 1
+T: The Connemara Stockings
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+g2fg edBA|GABG AGED|GABd eaag|1 fdef gbaf:|2 fdef gdef||
+gbef gbe2|fade fad2|gbef gfed|Bded Bded|
+ebba b2ag|faab ~a3f|gbag fagf|edef gdef||
+
+
+Tune 614	Setting 21187
+
+X: 3
+T: The Connemara Stockings
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:g2fg edBA|GABG AGEF|G2Bd eaag|1 fdef gaba:|2 fdef ~g3f||
+gbef gbeg|fade fadf|gbef gbeg|fedf e2ed|
+ebba b2ag|faab afdf|gabg f2af|edef gfef||
+
+
+Tune 614	Setting 27964
+
+X: 4
+T: The Connemara Stockings
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+(3def|g2 fd edBA|GABG AGEF|GFGA BABd|(3efg af gfed|
+g2 fd edBA|GABG AGEF|GFGA BABd|(3efg af g2 ef||
+(3gab eg b2 ag|(3fga df a2 gf|(3gab eg b2 ag|(3fga df e2 ef|
+g b2 b b2 ag|f a2 a a2 gf|(3gag bg (3fgf af|edef gbaf||
+
+

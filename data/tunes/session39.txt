@@ -1,0 +1,89 @@
+Tune 39	Setting 12453
+
+X: 3
+T: The Kerry
+R: polka
+M: 2/4
+L: 1/8
+K: Gmaj
+|: BD ED | BD ED | G2 AB | AG ED |
+BD ED | BD ED | G2 AB | AG G2 :|
+|: Bd BA/A/ | AG ED | G2 AB | AG ED |
+Bd BA/A/ | AG ED | G2 AB | AG G2 :|
+
+
+Tune 39	Setting 28899
+
+X: 6
+T: The Kerry
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|:fA BA|fA BA|d2 ef|ed BA|fA BA| fA BA|d d/d/ ef| ed d2:|
+|:~f3 d| ed BA|d d/d/ ef| ed BA|~f3 d| ed BA|d d/d/ ef |ed d2:|
+|:~A3B | ~d3e | f>a fd | e/f/e/d/ Bd | ~A3B | ~d3e | fa fe | d>c d>B :|
+
+
+Tune 39	Setting 12452
+
+X: 2
+T: The Kerry
+R: polka
+M: 2/4
+L: 1/8
+K: Gmaj
+|:BD ED|BD ED|G2 A>B|AG ED|BD ED|BD ED|G2 A>B|AG G2:||:Bd B>G|AG ED|G2 A>B|AG ED|Bd B>G|AG ED|G2 A>B|AG G2:|
+
+
+Tune 39	Setting 29902
+
+X: 7
+T: The Kerry
+R: polka
+M: 2/4
+L: 1/8
+K: Ador
+BD ED  | BD ED| G2 A2 | B/A/G ED| BD ED | BD ED| G2 A2 | BA GG :|
+Bd BA | AG ED| G2 A2 | B/A/G ED| Bd BA | AG ED| G2 A2 | BA GG :|
+
+
+Tune 39	Setting 39
+
+X: 1
+T: The Kerry
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|:fA BA|fA BA|d2 e>f|ed BA|fA BA| fA BA|d2 e>f| ed d2:||:fa f>e| ed BA|d2 e>f| ed BA|fa f>e| ed BA|d2 e>f |ed d2:|
+
+
+Tune 39	Setting 25367
+
+X: 5
+T: The Kerry
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|: e/ |fA eA/e/ | fA eA | dc/d/ ef | e/f/e/d/ BA |
+fA eA/e/ | fA eA | dc/d/ e/d/e/f/ | ed d3/ :|
+|: e/ |fa fe | f/e/d BA | d/d/c/d/ ed/e/ | fa ba |
+f>a fe | f/e/d BA | dc/d/ e/d/e/f/ | ed d3/ :|
+
+
+Tune 39	Setting 12454
+
+X: 4
+T: The Kerry
+R: polka
+M: 2/4
+L: 1/8
+K: Gmaj
+|: G>A |BD ED | BD E/F/E/D/ | G2 A>B | AG ED |
+BD ED | B/c/B/D/ ED/E/ | G2 A>B | AG :|
+|: G>A |Bd Bd/B/ | AG ED | G2 A>B | AG EG/A/ |
+Bd Bc/B/ | AG E2 | GD/G/ AB | AG :|
+
+

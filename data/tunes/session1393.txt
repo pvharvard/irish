@@ -1,0 +1,25 @@
+Tune 1393	Setting 24791
+
+X: 2
+T: The Night We Had The Goats
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+dG G/G/G dBBd|efge dBBe|dG G/G/G dBBd|egdB A/A/A A2:|
+e|d<BgB dBBA|dega bage|d<BgB dBBd|egdB A/A/A A2e|
+d<BgB dBBA|dega bage|(b/a/g/f/) ge dBBd|egdB A/A/A A2|]
+
+
+Tune 1393	Setting 1393
+
+X: 1
+T: The Night We Had The Goats
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:dGG2 BGBd|e2eg dBAB|dGG2 BGBd|1 egdB BAA2:|2 egdB A2Bd||
+|:e2eg dBBd|e2eg deg2|afge dBBd|1 egdB A2Bd:|2 egdB BAA2||
+
+

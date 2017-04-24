@@ -1,0 +1,28 @@
+Tune 3161	Setting 3161
+
+X: 1
+T: The First Pint
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: dAB d2A | Bdf efd | ~B3 ede | faa g2f |
+dAB d2A | Bdf efd | ~B3 edB | AFE DFA :|
+|: ~B3 BAF | ABc d2B | ~A3 AFE | EFA DFA |
+~B3 BAF | ABc d2c | ~d3 dBA | abg edc :|
+
+
+Tune 3161	Setting 24466
+
+X: 2
+T: The First Pint
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:dAB d2 A | Bdf e2 d | B2 e ede | faa g2 f|
+dAB d2 A | Bdf e2 d | B2 e edB |1 AFE D3 :|2 AFE DFA|]
+|: B2 B BAF | ABc d2 B | A2 A AFE | EFA DFA |
+B2 B BAF | ABc d2 c | ded dBA |1 abg fed :|2 abg f2 e|]
+
+

@@ -1,0 +1,41 @@
+Tune 887	Setting 887
+
+X: 1
+T: The New Copperplate
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G2dG BGdG|~G2dc BGGB|A2eA cAeA|
+~A2ed cAFA|G2dG BGdG|~G2dc BGG2|
+ABcd efge|1 aged cAFA:|2 aged ^cdef||
+|:g2 gf g2ef|gedc BGGB|Aaag agea|
+aged ^cdef|g2 gf g2ef|gedc BGGB|
+ABcd efge|1 aged ^cdef:|2 aged cAFA||
+
+
+Tune 887	Setting 29979
+
+X: 3
+T: The New Copperplate
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2dG BGdG|G2dc BGG2|A2eA cAeA|A2ed cAFA|
+G2dG BGdG|G2dc BGG2|ABcd efge|1 aged cAFA:|2 aged (3B^cd ef||
+|:g3f g2ef|gedc BGG2|eaag agea|aged (3B^cd ef|
+g3f g2ef|gedc BGG2|ABcd efge|1 aged (3B^cd ef:|2 aged cAFA||
+
+
+Tune 887	Setting 14073
+
+X: 2
+T: The New Copperplate
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+~c3B c2AB|cAGF ECCE|Dddc dcAc|dcAG FDDB|~c3B c2AB|cAGF ECCE|DEFG ABcA|1 dcAG FDDB:|2 dcAG FDDf|||:ecgc acgc|ecgc ecce|fdad bdad|fdad fddf|ecgc acgc|ecgc eccg|afge fde^c|1 dcAG FDDf:|2 dcAG FDDB||
+
+

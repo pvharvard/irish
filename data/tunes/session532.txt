@@ -1,0 +1,116 @@
+Tune 532	Setting 532
+
+X: 1
+T: Paddy Fahey's
+R: jig
+M: 6/8
+L: 1/8
+K: Gdor
+F|:DGA ~B3|cBc d2 g|gdB Bcd|cAG FDC|
+|DGA B2 d| cBc d2 g|gdB Bcd|1 cAF G2 F:|2 cAF GBd||
+|:g2 d fga|gfd Bcd|cAc fef|agf def|
+|g2 a bag|fdg fdc|ABG Adc|1 AGF GBd:|2 AGF G2 F||
+
+
+Tune 532	Setting 13467
+
+X: 3
+T: Paddy Fahey's
+R: jig
+M: 6/8
+L: 1/8
+K: Gdor
+DGA ~B3 | cBc d2g | ^fdg gfd | cAG ~F3 |
+
+
+Tune 532	Setting 13470
+
+X: 6
+T: Paddy Fahey's
+R: jig
+M: 6/8
+L: 1/8
+K: Gdor
+F| DGA B2 c|cBc d2g|gfd Bcd|cAG FDC|DGA B2 c|cBc d2 g|gfd Bcd|1cAF G2 D:||2cAF GBd|:g3 fga|gfd Bcd|c2 A f3|agf def|g2 a bag|fdg fdc|B2G Adc|1 AGF GBd :|2AGF G2D ||
+
+
+Tune 532	Setting 13468
+
+X: 4
+T: Paddy Fahey's
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+EAB cBc | d^cd e2 a | aec cde | dBA GF^E |EAB c2 e | d^cd e2 a | aec cde | dB^G A2 :|a2 e ^gab | aed cBA | BGB gfg | bag ef^g |a2 b cba | gea g3 | Bcd ged | BA^G A2 :|
+
+
+Tune 532	Setting 25097
+
+X: 10
+T: Paddy Fahey's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:DGA B3|cBc d2g|gfd Bcd|cAG AGF|
+DGA B3|cBc d2g|gfd Bcd|1 cAF G2F:|2 cAF GBd||
+|:g2d fga|gfd Bcd|cAA f3|agf def|
+g2a bag|fdg fdc|B2G AGF|1 DGF GBd:|2 DGF G2F||
+
+
+Tune 532	Setting 13472
+
+X: 8
+T: Paddy Fahey's
+R: jig
+M: 6/8
+L: 1/8
+K: Gdor
+|: DGA ~B3 | cBc d2 g | gfd Bcd | cAG AGF |DGA ~B3 | cBc d2 g | gfd Bcd |[1 cAF G2 F :|[2 cAF GBd |||: ~g2 d fga | gfd Bcd | cAA ~f3 | agf def | ~g2 a bag | fdg fdc | B2 G AGF |[1 DGF GBd :|[2 DGF G2 F |]
+
+
+Tune 532	Setting 13469
+
+X: 5
+T: Paddy Fahey's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+DGA _~B3|c=Bc d2g|gfd Bcd|cAG FGA|DGA _~B3|c=Bc d2g|gfd Bcd|1 cAF G2F:|2 cAF GBd|||:g2d fga|gfd Bcd|cAA ~=f3|ag^f def|g2a bag|fdg fdc|B2G AGF|1 DGF GBd:|2 DGF G2F||
+
+
+Tune 532	Setting 13473
+
+X: 9
+T: Paddy Fahey's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+DGA ~_B3|c=Bc d2g|gfd Bcd|cAG FGA|DGA ~_B3|c=Bc d2g|gfd Bcd|1 cAF G2F:|2 cAF GBd|||:g2d fga|gfd Bcd|cAA ~=f3|ag^f def|g2a bag|fdg fdc|B2G AGF|1 DGF GBd:|2 DGF G2F||
+
+
+Tune 532	Setting 13466
+
+X: 2
+T: Paddy Fahey's
+R: jig
+M: 6/8
+L: 1/8
+K: Gdor
+|DGA BGG|cGG dGG|gdB Bcd||DGA BAG|cBA dfa|gfd Bcd|
+
+
+Tune 532	Setting 13471
+
+X: 7
+T: Paddy Fahey's
+R: jig
+M: 6/8
+L: 1/8
+K: Gdor
+DGA ~B3|~c3 d2 g|^fdg gfd|cAG ~F3||DGA BAG|c=Bc d2 g|^fdg gfd|1 cA^F G2 ^F:|2 cA^F G=Bd|||:~g2 d ^fga|g^fd ~c3|A_BA ~f3|ag^f de^f||g2 a =bag|^fdg fdc|=B2 G Adc|1 AG^F G=Bd:|2 AG^F G2 ^F||
+
+

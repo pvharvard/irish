@@ -1,0 +1,39 @@
+Tune 347	Setting 25462
+
+X: 3
+T: Martin Wynne's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:AF F2 GE E2|F2 AF EFDB|ABde f3B|ABde fe e2|
+AF F2 GE E2|F2 AF EFDB|ABde f3B|ABde fd d2||
+|:faaf gfeg|fedf edBc|dBAF DEFB|ABde fe e2|
+faaf gfeg|fedf edBc|dBAF DEFB|ABde fd d2||
+
+
+Tune 347	Setting 13150
+
+X: 2
+T: Martin Wynne's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+AF~F2 GE~E2|F2AF EFDB,|A,B,DE ~F3B|ABde fedB|AF~F2 GE~E2|F2AF EFDB,|A,B,DE ~F3B|1 ABde fddB:|2 ABde fdd2||f2af gfeg|fedf edBc|dBAF DEFB|ABde fe~e2|f2af gfeg|fedf edBc|dBAF D3B|1 ABde fdd2:|2 ABde fddB|
+
+
+Tune 347	Setting 347
+
+X: 1
+T: Martin Wynne's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dB|:AF {G}(3FEF GE {F}(3EDE|F2 AF EFDB,|A,B,DE FEFG|ABde {g}fedB|
+AF {G}(3FEF GE {F}(3EDE|F2 AF EFDB,|A,B,DE FEFG|ABde fdd2:|
+|:dfaf gbeg|fgdf edBd|(3dcB AF DEFA|ABde fe e2|
+dfaf (3gfg ag|fgdf edBd|(3dcB AF DEFA|ABde fd d2:|
+
+

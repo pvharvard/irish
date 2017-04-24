@@ -1,0 +1,114 @@
+Tune 883	Setting 24554
+
+X: 7
+T: The Laurel Tree
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+eA~A2 egdc|BG~G2 B"*"cdg|eA~A2 e"*"gdc|BAGB A2 (3Bcd|
+eA~A2 e"*"gdc|BAGA Bcd"*"g|~e2ef g"*"baf|gedB A2 (3Bcd:|
+e"*"aag egdc|BG~G2 Bcd"*"g|eaag egdc|BAGB A2 (3Bcd|
+e"*"aag egdc|BG~G2 Bcdg|~e2ef g"*"baf|gedB A2 (3Bcd|
+e"*"aag egdc|BG~G2 Bcdg|eaag ~a2ga|bagb a2ag|
+eaag egdc|BG~G2 Bcdg|edef g"*"baf|gedB A2 (3Bcd||
+
+
+Tune 883	Setting 25366
+
+X: 8
+T: The Laurel Tree
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:eA A2 e2dc|BAGA BA (3Bcd|eA A2 e2dc|BAGA BA A2|
+eA A2 e2dc|BAGA BA (3Bcd|e3f gaaf|gedB BA (3Bcd:|
+|:eaag egdc|BAGA BA (3Bcd|eaag egdc|BAGA BA A2|
+eaag egdc|BAGA Bd d2|e3f gaaf|gedB BA (3Bcd|
+eaag egdc|BAGA Bcdg|eaag a2ga|bagb a3g|
+eaag egdc|BAGA Bd d2|e3f gaaf|gedB A2 (3Bcd||
+
+
+Tune 883	Setting 27987
+
+X: 9
+T: The Laurel Tree
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:BE E2 B2AG|FEDE FE (3FGA|BE E2 B2AG|FEDE FE E2|
+BE E2 B2AG|FEDE FE (3FGA|B3c deec|dBAF FE (3FGA:|
+|:Beed BdAG|FEDE FE (3FGA|Beed BdAG|FEDE FE E2|
+Beed BdAG|FEDE FA A2|B3c deec|dBAF FE (3FGA|
+Beed BdAG|FEDE FGAd|Beed e2de|fedf e3d|
+Beed BdAG|FEDE FA A2|B3c deec|dBAF E2 (3FGA||
+
+
+Tune 883	Setting 14066
+
+X: 3
+T: The Laurel Tree
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|: g | eA A/A/A e2 dc | BG G/G/G BEEa | eA A/A/A e2 dc | BGAG gee :| ~
+
+
+Tune 883	Setting 14069
+
+X: 6
+T: The Laurel Tree
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+eA ~A2 e2dc|BGGA Bcdg|eA ~A2 e2dc|BAGA BAA2|eA ~A2 e2dc|BGGA Bcdg|~e3f ~g3a|gedB BAA2:|eaag egdc|BGGA Bcdg|eaag egdc|BAGA BAA2|eaag egdc|BGGA Bcdg|~e3f ~g3a|gedB BAA2|eaag egdc|BGGA Bcdg|eaag a2 ga|bagb a2ag|eaag egdc|BGGA Bcdg|~e3f ~g3a|gedB BAA2||
+
+
+Tune 883	Setting 883
+
+X: 1
+T: The Laurel Tree
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+eA~A2 e2dc|BAGA Bcdg|eA~A2 e2dc|BAGA BA~A2|eA~A2 e2dc|BAGA Bcd2|~e3f gaaf|gedB A2 (3Bcd:|eaag egdc|BAGA Bcdg|eaag egdc|BAGA BA~A2|eaag egdc|BAGA Bcd2|~e3f gaaf|gedB A2 (3Bcd|eaag egdc|BAGA Bcdg|eaag a2ga|bagb ~a3g|eaag egdc|BAGA Bcd2|~e3f gaaf|gedB A2 (3Bcd||
+
+
+Tune 883	Setting 14068
+
+X: 5
+T: The Laurel Tree
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+eA A/A/A e2 dc|BAGA Bcdg|eA A/A/A (3ege dc|BAGB ABcd|eA A/A/A e2 dc|BAGA Bcdg|edef gbaf gedB ABcd:||eaag egdc|BAGA Bcdg|eaab (3aba ga|bagb abag|eaag egdc|BAGA Bcdg|edef gbaf|gedB ABcd:||
+
+
+Tune 883	Setting 14067
+
+X: 4
+T: The Laurel Tree
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+eA ~A2 e2ed|BG~G2 Bcdg|eA ~A2 e2dc|BGdG BAA2|eA ~A2 e2dc|BG~G2 BcdB|e3f gbag|gedB BAA2:|eaag e2dc|BG~G2 Bcdf|ea~a2 a2ga|bagb a3g|eaag e2dc|BG~G2 BcdB|e3f gbag|gedB BAA2:|
+
+
+Tune 883	Setting 14065
+
+X: 2
+T: The Laurel Tree
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|: eaag egdc|BAGA Bcdg|eaag egdc|BAGA A2 (3Bcd|eaag egdc|BAGA Bcd2|~e3f gaaf|gedB A2 (3Bcd :|||:eaag egdc|BAGA Bcdg|eaag a2ga|bagb ~a3g|eaag egdc|BAGA Bcd2|~e3f gaaf|gedB A2 (3Bcd :||
+
+

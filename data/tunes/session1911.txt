@@ -1,0 +1,25 @@
+Tune 1911	Setting 1911
+
+X: 1
+T: The Cobbler
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+DFA B2A|def gfe|fdf ecA|BGB AFE|
+DFA B2A|def gfe|fdf ecA|1 Adc dAF:|2 Adc d2e||
+|:fad fad|faa agf|eg=c eg=c|efg gfe|
+fef gfg|agf efg|fed =cAG|1 Adc d2e:|2 Adc dAF||
+
+
+Tune 1911	Setting 15332
+
+X: 2
+T: The Cobbler
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:"D"DFA B2A|def geg|fdf ecA|"G"BdB "A"AFE|"D"DFA B2A|def geg|fdf ecA |1 "G"B2c "D"d3 :|2 "G"B2c "D"d2e|||:"D"fad fad|faa agf|"C"eg=c egc|egg gfe|"D"fef "G"~g3|"D"agf efg|fed BAG |1 Adc d2e :|2 Adc d3||
+
+

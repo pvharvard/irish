@@ -1,0 +1,84 @@
+Tune 1112	Setting 14361
+
+X: 2
+T: The Ivy Leaf
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+A2 ed cdec|Acec dBGB|A2 ed cdec|B~E3 GABd|A2 ed cdec|Acec dBGB|A2 ed cdec|B~E3 GABd||e~a3 edBd|e~g3 dBGB|e~a3 edBA|B~E3 GABd|e~a3 edBd|e~g3 dBGB|A2 AB =cBcd|e/f/g fa gedB||
+
+
+Tune 1112	Setting 22922
+
+X: 6
+T: The Ivy Leaf
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:A3e cAec | AecA (3Bcd BG | A3e cAed | BE E2 GABG |
+A3e ce e2 |Ae e2 (3Bcd BG | A3e cAed | BE E2 GA (3Bcd ||
+|:e3f ed (3Bcd |edge dG (3Bcd |eaag ed (3Bcd | BGEF GA (3Bcd |
+e3f ed (3Bcd |edge dGBG |A3B =cBcd |edfd gedB ||
+|:A3e cAed|gedg (3Bcd BG|A3e cAed|BE E2 GABG|
+Ae e2 ce e2|ge e2 (3Bcd BG|A3B =c3d|BE E2 GA (3Bcd||
+e3f ed (3Bcd|edge dG (3Bcd|eaag ed (3Bcd|edge dG (3Bcd|
+e3a geag|eage dG (3Bcd|A3B =c3d|edgd aged||
+
+
+Tune 1112	Setting 22767
+
+X: 5
+T: The Ivy Leaf
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+AEAe cAec|Aece dBGz|AEAe cAec|AGEF GzBG|
+Ae~e2 ce~e2|Aece dBGB|AEAe cAec|AGEF GzBd||
+eaag eABd|eg~g2 dz (3Bcd|eaag edcA|GBEF GzBd|
+eaag eABd|eg~g2 egdB|AGAB =cBcd|ez~f2 gedB||
+A2~A2 (3Bcd ec|Aece dBGz|AEAe cAec|AGEF GzBG|
+Ae~e2 ce~e2|Aece dBGz|AEAe cAec|AGEF GzBd||
+eaag eABd|eg~g2 dG (3Bcd|ezag edcA|GBEF GABd|
+ezag eafa|~g3e dBGB|AGAB ~=c3d|ezfa gedB||
+
+
+Tune 1112	Setting 1112
+
+X: 1
+T: The Ivy Leaf
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A3A cdeA | AceA dBGB | A2ed cdec | AE~E2 GEDG |
+A2ed cdec |(3.A.B.A ec dBGB | A2ed cdec | AE~E2 GEDG |
+|: ea{b}ag eA (3.B.c.d |efge d3f | ea{b}ag edcd |
+AE~E2 GED2 |ea{b}ag eA (3.B.c.d | efge d3c |
+[1 A3B +E3c3+d | (3.e.f.g fa gedB :|2 AEAc {d}cBcd| (3.e.f.g fa gedB ||
+
+
+Tune 1112	Setting 14363
+
+X: 4
+T: The Ivy Leaf
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+|: ~A2 eA cAec | Acec dBGB | ~A2 eA cAec | d2 BG EFGE |~A2 eA cAec | Acec dBGB | Aced cBcA | BEED EFGE :||: eaag edcd | effe BA G2 | eaag edcA | BEED EFGE |eaag edcd | effe BAGB | ~A3 B =cBcd | egfa gedB :||: Aced cAec | Acec dBGB | Aced cAed | BEEF GABG :|ea a2 caea | Bg g2 dgBg | ea a2 caec | BEEF GABG |ea a2 caea | Bg g2 dgBg | afge fdec | BEEF GABG |]
+
+
+Tune 1112	Setting 14362
+
+X: 3
+T: The Ivy Leaf
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+~A2 Ae cA ec | Ae ce dB GB | A2 Ae cA ec | AG EF GE D2 |Ae ~e2 ce ~e2 | ae ~e2 dB GB | A2 Ae cA ec| AG EF GA B1/2c1/2d|e2 ag eg fa | ~g2 ge dG B1/2c1/2d | e2 ag ed _cA | BG EF GA B1/2c1/2d |e2 ag eg fa | ~g2 ge dB GB | A2 AB _cB cd | e2 fa ge dB |
+
+

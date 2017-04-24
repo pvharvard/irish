@@ -1,0 +1,38 @@
+Tune 2923	Setting 2923
+
+X: 1
+T: The Battle Of The Somme
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmaj
+A|:faf d3 dcd|edG B3A3|BGB A3f3|
+faf e3A3|faf d3 dcd|edG B3A3|
+BGB A3f3|1efe d3 d2A:|2efe d3d3||
+|:dcd e3A3|efg faf d2d|fef g3A3|
+faf e3 A3|faf d3 dcd|edG B3A3|
+BGB A3f3|1efe d3 d3:|2efe d3d2A||
+
+
+Tune 2923	Setting 16103
+
+X: 2
+T: The Battle Of The Somme
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmaj
+f<af d3 d2 c | e>dG B3 A2 d | B<GB A3 d2 A | f<af e3- e2 A | faf d3 d>cd | e>dG B3 A2 A | B<GB A3 f2 A | e>fe d3- d2 :|d>cd e3 A2 e | e>fg f<af d3 | f>ef g3 A2 g | f<af e3- e3 |f<af d3- dcd | e>dG B3 A2 B | B<GB A3 f3 | e>fe d3- d2 :|
+
+
+Tune 2923	Setting 16104
+
+X: 3
+T: The Battle Of The Somme
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmaj
+f>ef a3 f2 d | d>cB B3 A2 d | d>cd f3 A2 f | f<af e3- e2 f |f>ef a3 f2 d | d>cB B3 A2 d | d>cd f3 A2 e | e<dc d3- d2 :|d>cd e2 A e2 c | efg f<af d2 A |d>cd e2 A e2 c | f<af e3- e2 f |f>ef a3 f2 d | d>cB B3 A2 d | d>cd f3 A2 e | e<dc d3- d2 :|
+
+

@@ -1,0 +1,56 @@
+Tune 1569	Setting 27792
+
+X: 3
+T: The Tongs By The Fire
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:GBd cAF|Gge dBG|cec BdB|ABG FED|
+GBd cAF|Gge dBG|cec Bdg|1fef g3:|2fef g2d||
+|:gdB gdB|gfa gdB|g3 eag|fdd def|
+gc/a/g fc/a/f|ec/a/e def|gdB AGA|1BGG GBd:|2BGG G2D||
+
+
+Tune 1569	Setting 1569
+
+X: 1
+T: The Tongs By The Fire
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:GBd cAF|Gge dBG|cec BdB|ABG FED|
+GBd cAF|Gge dBG|cec Bag|1fef gdB:|2fef g2d||
+|:gdB gdB|gfa gdB|gfg eag|fef def|
+gag fgf|efe def|gdB AGA|1BGF GBd:|2BGF G2D||
+
+
+Tune 1569	Setting 14977
+
+X: 2
+T: The Tongs By The Fire
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: E/F/ || GBd cAF | dge dBG | cec BdB | ABG FED |
+GBd cAF | Gge dBG | cec Bag | fef g2 :|
+|: f || gdB gdB | gfa gdB | gfg eag | fd^c def |
+gbg faf | e/f/ge def | gdB AGA | BGF G2 :|
+
+
+Tune 1569	Setting 29403
+
+X: 4
+T: The Tongs By The Fire
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+!upbow!D|GBd cAF|.G(ge) dBG|(c>e).c BdB|ABG F>ED|
+GBd cAF|Gge dBd|cec Bag|{g}fef g2:|
+|:!upbow!d|gdB gdB|gfa gdB|({a}g)fg eag|fdd def|
+gbg faf|ege def|gdB ({B}A)GA|BGG G2:|]
+
+

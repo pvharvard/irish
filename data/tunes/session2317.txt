@@ -1,0 +1,47 @@
+Tune 2317	Setting 2317
+
+X: 1
+T: Liberty
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:ag|f2A2 f2A2|fgfe d2ef|g2B2 g2B2|gagf e2ag|
+f2A2 f2A2|fgfe d2ef|g2e2 cBA2|[d4F4] [d2F2]:|
+|:B2|ABAG F2A2|d2e2 f3f|g2e2 cBA2|dcde f2d2|
+ABAG F2A2|dcde f3f|g2e2 cBA2|d4 d2:|
+
+
+Tune 2317	Setting 15684
+
+X: 3
+T: Liberty
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+f2A2 f2A2|fgfe d2ef|g2B2 g2B2|gagf efge|f2A2 f2A2|fgfe d2ef|gfed cABc|1 dBAF D2de:|2 dBAF D2FG|||:A2AB AGFE|DFAd f2d2|A2AB AFED|A,2C2 E2G2|A2AB AGFE|DFAd fdef|gfed cABc|1 dBAF D2FG:|2 dBAF D2de||
+
+
+Tune 2317	Setting 15683
+
+X: 2
+T: Liberty
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+"D" f2 A2 f2 A2 | fgfe d2 ef | "G" g2 B2 g2 B2 | gagf e2 de |"D" f2 A2 f2 A2 | fgfe d2 ef | "G" gfed "A" cABc | "D" d2 f2 d4 :||: "D" A2 AB AGFE | DFAd f2 d2 | A2 AB AG F2 | "A" E3 F E2 FG |"D" A2 AB AGFE | DFAd f2 ef | "G" gfed "A" cABc | "D" d2 f2 d4 :|
+
+
+Tune 2317	Setting 15685
+
+X: 4
+T: Liberty
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+||: f2A2 f2A2 | fgfe dd^ef | g2B2 g2B2 | gagf ecde | f2A2 f2A2 | fafe d2cd | efed cABc | 1 dfec d2de :|| 2 dfec d2FG ||||: A2AB AGFE | DFAD FDAF | A2AB AGFD | E3E E2FG | A2AB AGFE | DFAd f2ef | gfed cABc | dfec d2 :||
+
+

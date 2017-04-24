@@ -1,0 +1,131 @@
+Tune 775	Setting 13904
+
+X: 7
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+~A3 AGE|EDE ~G3|~A3 AGE|=c2d ed^c|-
+~A3 AGE|EDE GAB|cde ged|1 cAA A2G:|2 cAA A2B||
+|:cde g2a|gea ged|cde g2a|geg a2B|-
+cde g2a|gea ged|cde ged|1 cAA A2B:|2 BcB Adc|]
+
+
+Tune 775	Setting 28975
+
+X: 10
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+|:~B3 BAF|~A3 AFA|~B3 BAB|d2e fef|
+~B3 BAF|~A3 AFA|def afe| fdB ~B3:|
+|:def ~a3|bab afe|def ~a3|baf edB|
+def ~a3|bab afe|~f3 fef|dBA B3:|
+
+
+Tune 775	Setting 13902
+
+X: 5
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+AB |: cAB cBc| dcd ede| ~A3 cde | dcA AGE|cAB cBc| dcd ~e3| ~a3 ged |1cAG A2 B:|2cAG A2d||: eaa aba|gef ~g3|eaa aba |ged cAA|eaa eaa| gef ~g3| ~a3 ged| cAG A2d:|
+
+
+Tune 775	Setting 13900
+
+X: 3
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+~B3 BAF|FEF DFA|BdB BAF|d2e fed|~B3 BAF|FEF DFA|def geg|fdB B2A:|def ~a3|afb afe|dFA def|gag fdB|def ~a3|afb afe|def geg|fdB B2A:|
+
+
+Tune 775	Setting 25888
+
+X: 9
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+|:B3 BAF|FEF A3|B3 BAF|=d2e fed|-
+B/c/dB BAF|FEF A3|def =gfe|1 fdB B2A:|2 fdB B2c||
+|:def a3|afb afe|dFA def|=g3 fdB|-
+def a3|afb afe|def =gfe|1 fdB B2c:|2 fdB B2A||
+
+
+Tune 775	Setting 775
+
+X: 1
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+BcB BAF|FEF DFA|BcB BAF|
+d2e fed|BcB BAF|FEF DFA|
+def geg|1 fdB Bdc:|2 fdB ~B3||
+|:def ~a3|afb afe|dFA def|
+geg fdB|def ~a3|afb afe|
+def geg|1 fdB ~B3:|2 fdB Bdc||
+
+
+Tune 775	Setting 13903
+
+X: 6
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+ABG AGE|EDE G3|ABG AGE|c2d edc|-
+ABG AGE|EDE G3|cde ged|1 BcB A2G:|2 BcB A2B||
+cde g2a|gea ged|cde g2a|geg a2B|-
+cde g2a|gea ged|cde ged|1 cAA A2B:|2 BcB A3|]
+
+
+Tune 775	Setting 13901
+
+X: 4
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+|:B2 B BAF| FEF DFA |B2 B B^AB|| d2 e fed|B2 B BAF| FEF DFA ||def gfe|1 fdB B2 z:|2 fdB B2 A:||:def a3 | afb afe|d2A def||gfe fdB| def a3 |afb afe | |def gfe |1 fdB B2A:|2 fdB dBA:|
+
+
+Tune 775	Setting 13899
+
+X: 2
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+~A3 AGE | EDE ~G3 |~A3 AGE | c2d edc | ~A3 AGE | EDE GAB | cde ged | cAA A3 :|
+:cde ~g3 | gea ged | cde ~g3 | geg ~a3 | cde ~g3 | gea ged | cde ged | cAA A3 :||
+
+
+Tune 775	Setting 25886
+
+X: 8
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|:A3 AGE|EDE G3|A3 AGE|=c2d edc|-
+A/B/cA AGE|EDE G3|cde =fed|1 ecA A2G:|2 ecA A2B||
+|:cde g3|gea ged|cEG cde|=f3 ecA|-
+cde g3|gea ged|cde =fed|1 ecA A2B:|2 ecA A2G||
+
+

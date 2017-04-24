@@ -1,0 +1,107 @@
+Tune 72	Setting 28772
+
+X: 8
+T: The Merry Blacksmith
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+| d3A BAFA | ABdA BAFA | ABde feed | Be~e2 (3Bcd ef |
+d3A BAFA | DFAd BAFA | DFAd (3fga ec | dABG FDDA |
+dcdA BAFA | ~A2FA BAFA | ABde fded | Beed egfe |
+dcdA BAFA | ABdA BAFA | ABde fdec | dBAG FDDg |
+faag fafe | dcdA BAFA | ABde (3fgf ed | Beed e2fg |
+~a3g ~f3e | dcdA BAFA | ABde faec | dBAG FDDg |
+faag faec | dfed BAFA | DAde fded | Be~e2 (3Bcd eg |
+fgaf g2fe | dfed BAFA | ABde (3fga ec | dBAG FDD2 |
+
+
+Tune 72	Setting 25590
+
+X: 6
+T: The Merry Blacksmith
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A | "D" d3 A BAFA | ABdA BAFA | ABde fded | "A" Beed egfe |
+"D" d3 A BAFA | ABdA BAFA | "G" ABde fdec | "A" dAAG "D" FAD:|
+|: f | "D" a2ag fafe | dedA BAFA | ABde fded | "A" Beed e2fg |
+"D" abag fgfe | dedA BAFA | "G" ABde fdec | "A" dAAG "D" FAD :|
+
+
+Tune 72	Setting 26519
+
+X: 7
+T: The Merry Blacksmith
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: A2 | d2 dA BAFA | ABdA BAFA | ABde f2 ed | Beed egfe |
+d2 dA BAFA | ABdA BAFA | ABde fdec | dBAF D2 :|
+|: fg | a2 ag f2 fe | d2 dA BAFA | ABde f2 ed | Beed egfe |
+a2 ag f2 fe | d2 dA BAFA | ABde fdec | dBAF D2 :|
+
+
+Tune 72	Setting 12542
+
+X: 3
+T: The Merry Blacksmith
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+d2 dA BAFG | ABdA BAFA | ABde f2 ed | B/c/d e^d egfe |d/e/d dA BAFG | ABdA BAFA | ABde fdec | dBAF D3 :|a2 ag f2 fe | d2 dA BAFG | ABde f2 ed | Beed e/f/g fg |abag fgfe | dcdA BAFA | ABde f2 ec | dBAF D3 :|
+
+
+Tune 72	Setting 20702
+
+X: 4
+T: The Merry Blacksmith
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A|d2dA BAFA|AFdA BAFA|ABde f2ed|Beed Beef|
+d3A BAFA|AFdA BAFA|ABde f2ec|dBAF D3||
+f|ac'ag fafe|d3A BAFA|ABde f2ed|Beed Beef|
+ac'ag fafe|d3A BAFA|ABde f2ec|dBAF D3||
+
+
+Tune 72	Setting 12541
+
+X: 2
+T: The Merry Blacksmith
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+d3 A BAFB|A2 dA BAFB|ABde fded|Beed egfe|d3 A BAFB|A2 dA BAFB|ABde fedB|1 AFEF D3 z:|2 AFEF D3 e||faag ~f3 e|d2 fd efdB|ABde fded|Beed egfg|~a3 g ~f3 e|d2 fd efdB|ABde fedB|1 AFEF D3 e:|2 AFEF D3 z||
+
+
+Tune 72	Setting 72
+
+X: 1
+T: The Merry Blacksmith
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:AB|d2dA BAFA|ABdA BAFA|ABde fded|Beed egfe|d3A BAFA-|ABdA BAFA-|ABde fdec|dBAF D2:||:fg|a2ag f2fe|d2dA BAFA-|ABde fded|Beed egfg|abag fgfe|dcdA BAFA|ABde fdec|dBAF D2:|
+
+
+Tune 72	Setting 22729
+
+X: 5
+T: The Merry Blacksmith
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:d2dA BAFA|ABdA BAFA|ABde f2ed|Beed egfe|
+d2dA BAFA|ABdA BAFA|ABde fdec|dBAG FD D2:|
+|:a2 ag f2 fe|d2 dA BAFA |ABde f2ed|Beed egfg|
+a2 ag fgfe| d2 dA BAFA | ABde fdec | dBAG FD D2 :|
+
+

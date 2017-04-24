@@ -1,0 +1,132 @@
+Tune 93	Setting 29566
+
+X: 10
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Amin
+|:gec cde f3|gec cde fdB|gec cde f3|e2c e2A cAG:||
+|:AcA AGA f3|AcA AGA cAG|AcA AGA f3|e2c e2A cAG:||
+
+
+Tune 93	Setting 29880
+
+X: 11
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Amaj
+F3FEFc3|F3FEF AFD|F3FEFc2d|edA BAF AFE:|
+ecA ABc d2f|ecA ABc BAF|ecA ABc d3|edA BAF AFE:|
+
+
+Tune 93	Setting 26029
+
+X: 8
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+|:B3 BAB f2A| B3 BAB dBA|B3 BAB f2g|af/e/d edB dBA|
+B3 BAB f2A| B3 BAB dBA|B3 BAB f2g|afd edB dBA||
+|:afd def g3 | afd edB dBA | afd def g2e | fed edB dBA |
+afd def g3 | afd edB dBA| afd def g2e | fed edB dBA ||
+
+
+Tune 93	Setting 12642
+
+X: 3
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+~F3~F3 BcA| ~F3 FEF AFE|~F3~F3 Bcd|ecA ABc BAF:|
+
+
+Tune 93	Setting 12643
+
+X: 4
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+c |: BBB fdB FBd | BBB fdB cBA | BBB fdB FBd |[1 agf efd cBA :|[2 agf efd efg |||: afd dfg bge | afd ddd ecA | afd dfg bge |[1 fgf efd cBA :|[2 fgf efd cBA |||: d2e fdd edd | fdd gdd afe | d/e/de fdd edd |[1 agf efd cBA :|[2 agf efd cBA |]
+
+
+Tune 93	Setting 12645
+
+X: 6
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+~F3 FEF BcA| ~F3 FEF AFE|~F3 FEF Bcd|ec/B/A BAF AFE|~F3 FEF BcA| ~F3 FEF AFE|~F3 FEF Bcd|ecA BAF AFE|ecA ABc d2 f | ecA ABc BAF | ecA ABc dcB | cBA BAF AFE |ecA ABc de/f/g | aec ABc BAF | ecA ABc dcB | cBA BAF AFE :||
+
+
+Tune 93	Setting 12644
+
+X: 5
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+|: BcB BAB g2 A | BcB BAB dBA | BcB BAB g2 e | fed edB dBA :|afd def g2 e | afd def gfe | afd def g2 e | fed edB dBA |afd def g2 e | afd def gfe | a2 a agf g2 e | fed edB dBA |]
+
+
+Tune 93	Setting 26030
+
+X: 9
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Edor
+|:F3 FEF c2E| F3 FEF AFE|F3 FEF c2d|ecA BAF AFE|
+F3 FEF c2E| F3 FEF AFE|F3 FEF c2d|ecA BAF AFE||
+|:ecA ABc d3 | ecA BAF AFE | ecA ABc d2B | cBA BAF AFE |
+ecA ABc d3 | ecA BAF AFE| ecA ABc d2B | cBA BAF AFE ||
+
+
+Tune 93	Setting 25800
+
+X: 7
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Emin
+|:F3 FEF BcA| FG/A/F FEF AFE|F3 FEF Bcd|ec/B/A BAF AFE|
+F3 FEF BcA| FG/A/F FEF AFE|F3 FEF Bcd|ecA BAF AFE||
+|:ecA ABc d2 f | ecA ABc BAF | ecA ABc dcB | cBA BAF AFE |
+ecA ABc de/f/g | aec ABc BAF | ecA ABc dcB | cBA BAF AFE ||
+
+
+Tune 93	Setting 12641
+
+X: 2
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+~F3 FEF c2 A | ~F3 FEF AFE | ~F3 FEF c2 d | ecA BAF AFE :|ecA ABc d2 f | ecA ABc BAF | ecA ABc d2 B | cBA BAF AFE :|
+
+
+Tune 93	Setting 93
+
+X: 1
+T: The Cock And The Hen
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+|:B3 BAB f2A| B3 BAB cBA|B3 BAB f2g|afd edB dBA:||:afd def g2f|afd dfe dBA|afd def g2e|fed edB dBA:|
+
+

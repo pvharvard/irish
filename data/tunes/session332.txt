@@ -1,0 +1,75 @@
+Tune 332	Setting 22857
+
+X: 6
+T: The White Petticoat
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: "Em" Bed cBA | "Em"GFE BEG | "Bm"FBB cBB| "Bm"eBB cBA|
+| "Em" Bed cBA | "Em"GFE BEG | "Bm"FBB cBA |1 "Em" GEE E2 A:|2 "Em" GEE E2 g||
+|: "C" gec Gce| "C" gaf gec | "Am" cBA EAc | "Em" Be^d eBG |
+|"Bm" FBB GBB|"Bm" FBA GFE | "Em" BEG "Am" cBA|1 "Em"GEE E2 g:|2 "Em" GEE E2 A||
+
+
+Tune 332	Setting 13114
+
+X: 3
+T: The White Petticoat
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+A: |: E5 | E5 | B5 C5 | B5 A5 | E5 | E5 | B5 C5 | G5 Em |B: | C5 | C5 | A5 | Em | B5 C5 | B5 | B5 A5 | G5 Em |
+
+
+Tune 332	Setting 13113
+
+X: 2
+T: The White Petticoat
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: "Em" Bed cBA | "Em"GFE B,EG | "Bm"FBB cBB| "Bm"eBB cBA|| "Em" Bed cBA | "Em"GFE B,EG | "Bm"FBB cBA |1 "Em" GEE E2 A:|2 "Em" GEE E2 g|||: "C" gec Gce| "C" gaf gec | "Am" cBA EAc | "Em" Be^d eBG ||"Bm" FBB GBB|"Bm" FBA GFE | "Em" B,EG "Am" cBA|1 "Em"GEE E2 g:|2 "Em" GEE E2 A||
+
+
+Tune 332	Setting 332
+
+X: 1
+T: The White Petticoat
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|:Bed cBA|GFE B,EG|FBB cBB|eBB cBA|
+|Bed cBA|GFE B,EG|FBB cBA|1 GEE E2 A:|2 GEE E2 g||
+|:gec Gce|gaf gec|cBA EAc|Be^d eBG|
+|FBB GBB|FBA GFE|B,EG cBA|1 GEE E2 g:|2 GEE E2 A||
+
+
+Tune 332	Setting 13116
+
+X: 5
+T: The White Petticoat
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+| F>BB G3 | FBA GFE |B,EG cBA | GEE E2 |]
+
+
+Tune 332	Setting 13115
+
+X: 4
+T: The White Petticoat
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: B |Bed cBA | GFE B,EG | FBB {d/}cBB | eBB {d/}cBA |
+Bed {d/}cBA | GFE B,EG | FBB {d/}cBA | GEE E2 :|
+|: g |{a/}gec Gce | gaf {a/}gec | {d/}cBA EAc | Be^d eBE |
+FBB GBB | FBA GFE | B,EG cBA | GEE E2 :|
+
+

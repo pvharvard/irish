@@ -1,0 +1,94 @@
+Tune 2777	Setting 27208
+
+X: 6
+T: For The Sake Of Old Decency
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+d2BG AGEG|DGBG A2Bc|d2BG AGEG|dBAG EG~G2:||
+G3B d3b|a3g egg2|1~G3B d2ge|dega bgg2:|2 bgag egdB|~d2bg ageg||
+
+
+Tune 2777	Setting 29522
+
+X: 7
+T: For The Sake Of Old Decency
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A2FD EFDF |  A2FD EDB,D |  A2FD EFDF |  AFED B,DDF :|
+D3F A2FA | Beed Bcd2 | D3F A2FA |1 B2AF FEEF :|2ABde fedB ||
+
+
+Tune 2777	Setting 2777
+
+X: 1
+T: For The Sake Of Old Decency
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:d2BG AGEG|DGBG A2Bc|d2BG AGEG|1DGGF G2Bc:|2DGGF ~G3D||
+|:~G3B d2Bd|eaag eggD|~G3B d2Bd|1egga bagD:|2egga bage|
+
+
+Tune 2777	Setting 16003
+
+X: 4
+T: For The Sake Of Old Decency
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dB|A2 FD EFDF|(3ABA FD EDB,B|A2 FD EFDF|AFED B,DDB|A2 FD EFDF|(3ABA FD EDB,B|A2 FD EFDF|AFED B,DDC||D3F (3ABA FA|deed Bdd2|D3F ADFA|BdAF FEEF|D/D/D DF A2 FA|deed Bdd2|D3F ADFA|ABde fedB||
+
+
+Tune 2777	Setting 16004
+
+X: 5
+T: For The Sake Of Old Decency
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+B|A2 FD EFDF|A2 FD EDB,B|A2 FD EFDF|AFED B,DDB|A2 FD EFDF|A2 FD EDB,B|A2 FD EFDF|AFED B,DD2||D3A A2 FA|dBed Bdd2|D3A A2 FA|BdAF FEEF|D3A A2 FA|dBed Bcd2|D3A A2 FA|ABde fedB||
+
+
+Tune 2777	Setting 16001
+
+X: 2
+T: For The Sake Of Old Decency
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+d2 BG AE ~E2 | AcBG A2 GB | d2 BG AE ~E2 |1 DGB,D EGGB :|G2 GB d2 Bd | ea ~a2 ea a2 | G2 GB d2 Bd | ea ~a2 bgag |G2 GB d2 Bd | ea ~a2 eaag | bage g2 ed | egag bgag ||
+
+
+Tune 2777	Setting 16002
+
+X: 3
+T: For The Sake Of Old Decency
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+d2BG AGEG|DGBG A2Bc|d2BG AGEG|dBAG EG~G2:||~G3B d2Bd|eaag egg2|1~G3B d2ge|dega bgg2:|2 bgag egdB|~d2bg ageg||
+
+
+Tune 2777	Setting 29686
+
+X: 8
+T: For The Sake Of Old Decency
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A2FD EFDF|A2FD EDB,B|A2FD EFDF|AFED B,DDB|
+A2FD EFDF|A2FD EDB,B|A2FD EFDF|AFED B,DDE||
+D3B A2FA|Beed BcdB|D3A ADFA|BdAF FEEF|
+D3B A2FA|Beed BcdB|D3A ADFA|ABde fedB||
+
+

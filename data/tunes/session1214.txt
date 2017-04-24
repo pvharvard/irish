@@ -1,0 +1,97 @@
+Tune 1214	Setting 14509
+
+X: 2
+T: The Girl Of The House
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+AG||:F2 D DAG|F2F GEA| DED AGE| F2D DAG|!F2F GFG| AGA cde |dcA GEA|1DED DAG:||2 DED DAB||!c2 A AGF|G2G GFG|AdB cAG|Ad^c deg|!fed cAG|EFA GEA|dcA GEA|1DED DAB:||2DED D3||
+
+
+Tune 1214	Setting 29633
+
+X: 6
+T: The Girl Of The House
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+AG |: ~F2D DAG | A2 A GEA | DAD AGE | ~F2 D DAG |
+~F2F GFG | AGA =cde |d=cA GEA |1 DED DAG :|2 DED DAB ||
+|: ~=c2c cAF | ~G2G GFG | A2d =cAG |Adc d2 e |
+fed =cAG | ~F2 F GA=c | d=cA GEA | DED DAB |
+~=c2c cAF | ~G2G GFG | A2d =cAG |Adc dga |
+~f2 d =cAF | ~G2 G GA=c | d=cA GEA | DED DAG|]
+
+
+Tune 1214	Setting 1214
+
+X: 1
+T: The Girl Of The House
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:AG|FAD DFG|GA{c}A GEA|D{A}D{G}D AGE|FAD DAG|
+~F3 ~G3|~A3 cde|dcA GEA|D{A}D{G}D D:|
+|:FA|c2A AGF|FG{A}G {A}GFG|AdB cAG|AdA d2e|
+fed cAG|EF{A}F GEA|dcA GEA|D{A}D{G}D D:|
+
+
+Tune 1214	Setting 24641
+
+X: 5
+T: The Girl Of The House
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:AG|FAD DAG|AFA GEA|DED AGE|FAD DAG|
+EFF GFG|GAA c2A|dcA GEA|DED D :|
+|:AB|Bcc cAG|FGA GFG|AdB cAG|Ad^c dag|
+fed cAG|EFA GED|dcA GEA|DED D :|
+
+
+Tune 1214	Setting 23454
+
+X: 4
+T: The Girl Of The House
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:AG|(3FGAD DAD|A3 GEA|D3 AGE|(3FGAD DAG|
+F3 G3|A3 (3Bcde|dcA GEA|D3 D2:|
+|:AB|cAA AGF|G3 GFG|AdB cAG|Ad^c d2e|
+(3gfed cAG|FDF GEA|dcA GEA|D3 D2:|
+
+
+Tune 1214	Setting 30026
+
+X: 7
+T: The Girl Of The House
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:~F2D DAG|~A3 GEA|DED FED|GEA DAG|
+~F3 ~G3|~A3 cde|dcA GEA|~D3 DAG:|
+|:c2A AGF|~G3 DGG|Add cAG|Ad^d =d2e|
+fed cAG|FAF GEA|dcA GEA|~D3 D2B :|
+
+
+Tune 1214	Setting 14510
+
+X: 3
+T: The Girl Of The House
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A |DEF ~G3 | AGE c2 A | dcA d2 e | fed cAG |
+~F3 GFG | AGE B/c/de | dcA GEA | DED D2 :|
+|: A |dcA d2 e | fed e/f/ge | dcA c2 d | efd ecA |
+dAA d2 e | fed e/f/ge | dcA GEA | DED D2 A :|
+
+

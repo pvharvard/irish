@@ -1,0 +1,47 @@
+Tune 5114	Setting 17419
+
+X: 4
+T: Across The Black River
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+|:"Bm" ~B3 BAB | FAB A2 f | "A" ecA ABc | ~B2 A +slide+F2 E |"Bm" ~B3 BAB |AFE Ace |"D" ~f3 fec |1 "Bm" ~B3-B2 A :|2 "Bm" ~B3-Bcd |||: "A" efe e2 c | "Bn" ~B A ~F3 | "F#m7" EFA cBA | "A" c2 e "Bm" Bcd |"A" efe e2 c | "Bn" ~B A ~F3 | BcB A2 E | "F#m" F3 F3 :|
+
+
+Tune 5114	Setting 5114
+
+X: 1
+T: Across The Black River
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+B3 BAB|FAB A2f|ecA ABc|B2A F2E|
+B3 BAB|AFE Ace|f3 fec|1 B3 BAF:|2 B3 Bcd||
+efe e2c|B2A F2E|EFA BAB|c2e Bcd|
+efe e2c|B2A F2E|BcB A2E|1 F3 Fcd:|2 F3 F2A||
+
+
+Tune 5114	Setting 17417
+
+X: 2
+T: Across The Black River
+R: jig
+M: 6/8
+L: 1/8
+K: Dmin
+d3 dcd|Acd c2a|gec cde|d2c A2G|d3 dcd|cAG ceg|a3 age|1 d3 dcA:|2 d3 def||gag g2e|d2c A2G|GAc dcd|e2g def|gag g2e|d2c A2G|ded c2G|1 A3 Aef:|2 A3 A2c||
+
+
+Tune 5114	Setting 17418
+
+X: 3
+T: Across The Black River
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+efe e2c|B2A F2E|EFA CBA|c2e Bcd|efe e2c|B2A F2E|BcB AFE|1 F3 Fcd:|2 F3 F2A||
+
+

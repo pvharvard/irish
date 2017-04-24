@@ -1,0 +1,35 @@
+Tune 3931	Setting 29442
+
+X: 2
+T: Itchy Fingers
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: FG|A2AB ADFA|BDGB A2FG|A2AB ADFA|FDGF E2FG|
+A2AB ADFA|BDGB A2FA|GFFE EBAE|F2D2 D2:||
+FA|d2Dd FdDd|BdGd A2FA| d2Dd FdDd|FDGF E2FA|
+d2Dd FdDd| BdGd A2FA|GFFE EBAE|F2D2 D2|
+FA|d2Dd FdDd|BdGd A2FA| d2Dd FdDd|FDGF E2FG|
+A2AB ADFA| GGdB A2FA|GFFE EBAE|F2D2 D2||
+
+
+Tune 3931	Setting 3931
+
+X: 1
+T: Itchy Fingers
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: cd|e2ef eAce|fAdf e2cd| !
+e2ef eAce|cAdc B2cd|e2ef eAce|!
+fAdf e2ce|dccB BfeB|c2A2 A2:| !
+ce|a2Aa caAa|fada e2ce| !
+a2Aa caAa|cAdc B2ce|a2Aa caAa| !
+fada e2ce|dccB BfeB|c2A2 A2|] !
+ce|a2Aa caAa|fada e2ce| !
+a2Aa caAa|cAdc B2cd|e2ef eAce| !
+ddaf e2ce|dccB BfeB|c2A2 A2|] !
+
+

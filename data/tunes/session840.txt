@@ -1,0 +1,61 @@
+Tune 840	Setting 840
+
+X: 1
+T: The Chicago
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+cded cAGE|~G3E GAcd|ecgc acgc|eaag edcA|
+cded cAGE|~G3E GAcd|eaag (3efg ed|cABG ~A3B:|
+|:cdef g2ef|gfgd BG~G2|cdef g2fg|eaag aged|
+cdef ~g3e|~a3f ~g3e|~f3d efed|cABG ~A3B:|
+
+
+Tune 840	Setting 14001
+
+X: 2
+T: The Chicago
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+cded cAGE|EGGE GAcd|ec (3ccc acgc|eaag eged|cded cAGE|EGGE GAcd|eaag eged|cABG A3B:||:cdef geaf|gedc BAGB|cdef gedg|eaag aged|cdef ~g3e|~a3f gbag|effe dfed|cABG A3B:||
+
+
+Tune 840	Setting 30165
+
+X: 5
+T: The Chicago
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:cded cAGE|G3E GAcd|ecgc acgc|eaag edcA|
+cded cAGE|G3E GAcd|eaag (3efg ed|cABG A3B:||
+|:(3Bcd ef g2ef|g3d BG G2|(3Bcd ef g2fg|eaag aged|
+(3Bcd ef g3e|a3f g3e|f3d efed|cABG A3B:||
+
+
+Tune 840	Setting 14003
+
+X: 4
+T: The Chicago
+R: reel
+M: 4/4
+L: 1/8
+K: Bdor
+defe dBAF|A3F ABde|fdad bdad|fbba fedB|defe dBAF|A3F ABde|fbba fafe|dBcA B3c:|defg a2fg|agae cAA2|defg a2ga|fbba bafe|defg a3f|b3g a3f|=g3e f=gfe|dBcA B3c:|
+
+
+Tune 840	Setting 14002
+
+X: 3
+T: The Chicago
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+cded cAGE|GEDE GAcd|eAcd edcA|eaag edcA|cded cAGE|GEDE GAcd|eaae gedB|cABG A3B:||:cdef g2ef|gfgd BGG2|cdef g2fg|eaag aged|cdef g2fe|(3aaa ef (3ggg ge|fedB gedB|cABG A3B:|
+
+

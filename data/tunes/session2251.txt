@@ -1,0 +1,50 @@
+Tune 2251	Setting 2251
+
+X: 1
+T: The Road To Ballymac
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:DG G2 BAGA | Bd d2 e2 de | gd d2 egde | gedB ABGE |
+DG G2 BAGA | Bd d2 e2 de | gd d2 egdB |1 cAFA G2 GE :|2 cAFA G2 GA ||
+|:Bd d2 edBd | egfg a2 ga | bg g2 egde | gedB AGEG |
+Bd d2 edBd | eg g2 a2 ga | bgfg egdB |1 cAFA G2 GE :|2 cAFA G4 ||
+
+
+Tune 2251	Setting 15618
+
+X: 3
+T: The Road To Ballymac
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:DG (3GGG BAGA | Bd (3ddd e2 de | gd (3ddd egde | gedB ABGE |DG (3GGG BAGA | Bd (3ddd e2 de | gd (3ddd egdB |1 AGAB G2 GE :|2 AGAB G2 GA ||Bd (3ddd edBd | eg (3ggg a2 ga | bgag egde | gedB ABGA | Bd (3ddd edBd | eg (3ggg a2 ga | bgag egdB |1 AGAB G2 GA :|2 AGAB G4 ||
+
+
+Tune 2251	Setting 15619
+
+X: 4
+T: The Road To Ballymac
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: GE |DG G/G/G BAGA | Bd d/d/d e2 de | gd d/d/d egde | gBdB ABGE |
+DG G2 BAGA | Bd d/d/d e2 de | gd d/d/d egdB | ABGF G2 :|
+|: GA |Bd d/d/d edBd | eg g/f/g a2 ga | bgag egde | gBdB ABGA |
+Bd d/d/d edBd | eg g/f/g a2 ga | bgag egdB | ABGF G2 :|
+
+
+Tune 2251	Setting 15617
+
+X: 2
+T: The Road To Ballymac
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+Bd d2 edBd | egg2 a2 ga | bgag egde | gedB ABG2 | Bd d2 edBd | eg g2 a2 ga | bgag egdB |1 cAFA G2 GE :|2 cAFA G4 ||
+
+

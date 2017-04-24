@@ -1,0 +1,129 @@
+Tune 1662	Setting 1662
+
+X: 1
+T: Contentment Is Wealth
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|:f|~g3 edB|BAB EFG|~F3 DFA|dAF AFD|
+~g3 edB|BAB EGA|~B3 AGF|GED E2:|
+|:B|ege Beg|bge gfe|~d3 Adf|afd fed|
+ege Beg|bge gfe|~B3 AGF|GED E2:|
+
+
+Tune 1662	Setting 20808
+
+X: 4
+T: Contentment Is Wealth
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+S: Paul Cranford http://www.cranfordpub.com/tunes/CapeBreton/BuddysOrder_Contentment.htm
+F| GFG Eed | BAB E2 G | FEF DdB | AFD Def |
+gfe edB | BAF d2 B | AFD DFA | GEE E2 :|
+f | gbe gbe | gbb bag | fad fad | faa afd |
+gfe edB | BAF d2 B | AFD DFA | GEE E2 :|
+
+
+Tune 1662	Setting 15089
+
+X: 2
+T: Contentment Is Wealth
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+G/A/|GFG Eed|BAB EAG|(4FGAF DdB|AFD Def|
+gfe edB|BAB dcd|(4BcdB DFA|GEE E2:|
+e/f/|gbe gbe|gfg bag|fdd add|fdf afd|
+gfe edB|BAB dcd|(4BcdB DFA|GEE E2:|
+
+
+Tune 1662	Setting 28835
+
+X: 7
+T: Contentment Is Wealth
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+F|~G3 Eed|~B3 EAG|~F3 DdB|AFD D2f|
+~g3 edB|BAB d2d|B/c/dB DFA|GED E2:||
+|e3 Beg|bge gfe|d3 Adf|afd fed|
+e3 Beg|bge g2e|B/c/dB DFA|GED E2:|
+
+
+Tune 1662	Setting 15090
+
+X: 3
+T: Contentment Is Wealth
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+GFG Eed | BAB EFG | FEF DdB | AFD Def |gfe edB | BAB dcd | BdB DFA | GED E2 :|gbe gbe | geg bag | fdd Add | fdf afd |gfe edB | BAB dcd | BdB DFA | GED E2 :|
+
+
+Tune 1662	Setting 25887
+
+X: 6
+T: Contentment Is Wealth
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+E/F/|GFG Eed|BAB EFG|F3 D2A|AFD Def|
+gfe edB|BAB e2d|B/c/dB DFA|GEE E2:||
+|e3 Beg|bge gfe|d3 Adf|afd g/f/ed|
+e3 Beg|bge gfe|B/c/dB DFA|GEE E2:|
+
+
+Tune 1662	Setting 20809
+
+X: 5
+T: Contentment Is Wealth
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+S: Andrea Beaton
+F| GFG Eed | BAB E2 G | FEF DdB | AFD Def |
+gfe edB | BAB dcd | B/c/dB AGF | GEE E2 :|
+f | gbe gbe | gfg bag | fdd Add | fdf afd |
+gfe edB | BAB dcd | B/c/dB AGF | GEE E2 :|
+
+
+Tune 1662	Setting 29535
+
+X: 9
+T: Contentment Is Wealth
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+f||:g3 edB|BAB EFG|F3 DFA|dAF AFD|
+g3 edB|BAB E3|Bc/d/B AGF|1 GED EGB:|2 GED E2||
+B|e3 Beg|bge gfe|dB/c/d Adf|afd g/f/ed|
+e3 Beg|bge gfe|d3 AGF| GED E3|
+e3 g3|b3 gfe|dB/c/d fad|fad g/f/ed|
+g3 a3|bag fad|B/c/dB AGF| GED E2||
+
+
+Tune 1662	Setting 29534
+
+X: 8
+T: Contentment Is Wealth
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+f||:~g3 edB|BAB EFG|~F3 DFA|dAF AFD|
+~g3 edB|BAB EGA|BdB AGF|1 GED EGB:|2 GED E2||
+B|~e3 Beg|bge gfe|dcd Adf|afd fed|
+~e3 Beg|bge gfe|dcd AGF| GED ~E3|
+~e3 Beg|bge gfe|dcd Adf|afd fed|
+~g3 aga|bag fed|B/c/dB AGF| GED E2||
+
+

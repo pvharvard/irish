@@ -1,0 +1,78 @@
+Tune 91	Setting 91
+
+X: 1
+T: The Roaring Barmaid
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:GFG EGD|GFG EGD|DEG BGG|dGG BGG|GFG EGD|GFG EGD|GAB deg|deg edB:|deg b3|bab deg|b2b bag|edB deg|b2b bab|agg bgg|agg deg|deg edB:|
+
+
+Tune 91	Setting 12629
+
+X: 2
+T: The Roaring Barmaid
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+~G3 EGD|~G3 EGD|~G3 BGG|dGG ~B3|~G3 EGD|~G3 EGD|G2B deg|deg edB|~G3 EGD|~G3 EGD|~G3 ~B3|dBG ~B3|~G3 EGD|~G3 EGD|GAB deg|deg edB||deg bb2-|bab deg|bb3ag|age deg|bb3ab|agg bgg|agg egg|deg edB:||
+
+
+Tune 91	Setting 28867
+
+X: 6
+T: The Roaring Barmaid
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+G2G EGD | GFG EGD | GDD BDD | dDD B2A | G2G EGD| GFG EGD|GAB deg|deg edB:|
+|:DEG B2B| BAB DEG|B2B BAG|AGE DEG|B2B BAB|AGG BGG|AGG EFG|1 EFG EDB,:|2 (G,3 G,3)|]
+
+
+Tune 91	Setting 12630
+
+X: 3
+T: The Roaring Barmaid
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: DEG EDB | DEG B3 | DEG ABe | dBe dBA |
+DEG EDB | DEG B3 | dBd gfe | dBA G3 :|
+|: gab age | deg B3 | gab gab | dBd e2 d |
+gab age | deg B3 | dBd gfe | dBA G3 :|
+
+
+Tune 91	Setting 25915
+
+X: 5
+T: The Roaring Barmaid
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:G3 EGD|G3 EGD|G3 BGG|dGG B3|
+G3 EGD|G3 EGD|G2B deg|deg edB|
+G3 EGD|G3 EGD|G3 B3|dBG B3|
+G3 EGD|G3 EGD|GAB deg|deg edB||
+|:deg b3-|bab deg|b3 age|age deg|
+b3 abg|agg bgg|agg egg|deg edB:||
+
+
+Tune 91	Setting 12631
+
+X: 4
+T: The Roaring Barmaid
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: DEG EDB | DEG ~B3 | DEG B2 e | dBe dBA |
+DEG EDB | DEG ~B3 | dB/c/d gfe |[1 dBA ~G3 :|[2 dBa ~g3 ||
+|: gab age | deg ~B3 | gab gab | dB/c/d e{f}e d |
+gab age | deg ~B3 | dB/c/d gfe |[1 dea ~g3 :|[2 dBA ~G3 |]
+
+

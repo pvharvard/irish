@@ -1,0 +1,88 @@
+Tune 825	Setting 2758
+
+X: 2
+T: The Cuil Aodha
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A|:dcA GEA|DED F2 G|AGF GED|CB,A, GB,C|
+DED DCD|EFE cde|dcA GEA|DED DFA:|
+d2 d dcd|eAB cde|dcA G2 A|GED =CDE|
+DFA dcd|eAB cde|dcA GEA|DED D3:|
+
+
+Tune 825	Setting 21770
+
+X: 4
+T: The Cuil Aodha
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|: e |afe dBe | ABA c2 d | edc dBA | GEE dBG |
+ABA AGA | B^AB g=ab | age dBe |[1 ABA A2 :|[2 ABA Ace ||
+|: a2 a aga | bef gab | age d2 e | cBA GAB |
+a3 aga | bef gab | age dBe |[1 ABA A2 e :|[2 ABA A2 |]
+
+
+Tune 825	Setting 825
+
+X: 1
+T: The Cuil Aodha
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+gfd cAd|GAG B2c|dcB cAG|
+FED cBA|~G3 GFG|~A3 fga|
+gfd cAd|1 GAG G2g:|2 GAG G2d||
+d2g gfg|ade fga|gfd cAd|
+cAG FGA|G2g gfg|ade fga|
+gfd cAd|1 GAG G2d:|2 GAG G2g||
+
+
+Tune 825	Setting 13976
+
+X: 3
+T: The Cuil Aodha
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: gfd cAd | GAG B2c | d2B cAG | FDF cBA |
+G3 GFG | A3 fga | g/f/ed cAd | GAG GBd :|
+|: d2g gfg | ade fga | gfd cAd | cAG FGA |
+dgg gfg | ade fga | gfd cAd | GAG G2d :|
+
+
+Tune 825	Setting 28468
+
+X: 6
+T: The Cuil Aodha
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+gfd cAd|~G3 B2c|ded cAG|
+FAD DEF|~G3 GAB|~A3 fga|
+gfd cAF| ~G3 GBd:|
+g2g gfg|ade f2a|gfd cAd|
+cAG FGA|d2g gfg|ade fga|
+gfd cAF|~G3 GBd|
+
+
+Tune 825	Setting 28467
+
+X: 5
+T: The Cuil Aodha
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+a |age dBe| ABA c2d | e2c dBA | GEE cdB |
+ABA ABA | B3 gab | age dBe |1 ABA A2 :|2ABA Ace ||
+aba aga | bee gab | age ded | dBA GAB |
+A2a aga | b2e gab | age dBe |1 ABA Ace :|2ABA A2 ||
+
+

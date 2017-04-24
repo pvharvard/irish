@@ -1,0 +1,67 @@
+Tune 2788	Setting 29742
+
+X: 5
+T: Bill Harte's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|: ~D3 ~A3|BAG ABA|~D3 ~A3|BAG EDC|
+~D3 ~A3|BAG ABc|dcB cBA|1 BAG EGE:|2 BAG E2D||
+|:deB ~c2A|BAG ABc|deB ~c2A|BAG EDC|
+deB ~c2A|BAG ABc|deB c2A|1 BAG EDC:|2 BAG EGE||
+
+
+Tune 2788	Setting 2788
+
+X: 1
+T: Bill Harte's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+DED A2A|BAG ABA|DED A2A|BAG EGE|
+DED A2A|BAG ABc|d2B cBA|1 BAG EGE:|2 BAG E2D||
+|:d2B cBA|BAG ABc|d2B cBA|BAG E2D|
+dcB cBA|BAG ABc|ded c2A|1 BAG E2D:|2 BAG EGE||
+
+
+Tune 2788	Setting 16010
+
+X: 2
+T: Bill Harte's
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|:ABA e2e|fed efe|ABA e2e|fed BdB|ABA e2e|fed efg|a2f gfe|1 fed BdB:|2 fed B2A|||:a2f gfe|fed efg|a2f gfe|fed B2A|agf gfe|fed efg|aba g2e|1 fed B2A:|2 fed BdB||
+
+
+Tune 2788	Setting 4501
+
+X: 3
+T: Bill Harte's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+D3 ~A3|BAG ~A3|D2D ~A3|BAG ~E3|
+D3 ~A3|BAG ABc|dcB cBA|BAG E2D:|
+dcB cBA|BAG ABc|dcB cBA|BAG ~E3|
+dcB cBA|BAG ABc|ded cBA|BAG E2D:|
+
+
+Tune 2788	Setting 26028
+
+X: 4
+T: Bill Harte's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:D3 A3|BAG A3|D3 A3|BAG E3|
+D3 A3|BAG ABc|d2B c2A|BAG E2D:||
+|:d2B c2A|BAG ABc|d2B c2A|BAG E2D|
+dcB cBA|BAG ABc|d3 c2A|BAG E2D:||
+
+

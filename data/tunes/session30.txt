@@ -1,0 +1,64 @@
+Tune 30	Setting 21791
+
+X: 4
+T: Off To California
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3DEF|: "G"GFGB "D"AGED|"G"GBdg "C"e2 (3def|"G"gfgd "Em"edBG|"Am"ABAG "D"E2 (3DEF|
+"G"GFGB "D"AGED|"G"GBdg "C"e2 (3def|"G"gfgd "Em"edBG|[1 "D"(3ABA GF "G"G2 (3DEF:|[2 "D"(3ABA GF "G"G2 (3def|]
+|:"E"gfeg "Bm"fedf|"C"edef "Em"edBd|"G"gfgd "Em"edBG|"Am"ABAG "D"E2 (3DEF|
+"G"GFGB "D"AGED|"G"GBdg "C"e2 (3def|"G"gfgd "Em"edBG|[1 "D"(3ABA GF "G"G2 (3def:|[2 "D"(3ABA GF "G"G4|]
+
+
+Tune 30	Setting 21503
+
+X: 3
+T: Off To California
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3DEF|: GFGB AGED|GBdg e2 (3def|gfgd edBG|ABAG E2 (3DEF|
+GFGB AGED|GBdg e2 (3def|gfgd edBG|1 (3ABA GF G2 (3DEF:|2 (3ABA GF G2 (3def||
+|:gfeg fedf|edef edBd|gfgd edBG|ABAG E2 (3DEF|
+GFGB AGED|GBdg e2 (3def|gfgd edBG|1 (3ABA GF G2 (3def:|2 (3ABA GF G4||
+
+
+Tune 30	Setting 30
+
+X: 1
+T: Off To California
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:GFGB AGED|GBdg e2df|gfgd edBG|ABAG E2DE||G2GB AGED|GBdg e2df|gfgd edBG|ABAF G4:||:gfeg fedf|edef edBd|gfgd edBG|ABAG EDEF||GFGB AGED|GBdg e2df|gfgd edBG|ABAF G4:|
+
+
+Tune 30	Setting 12422
+
+X: 2
+T: Off To California
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:GFGB AGED|GFGB d2d2|egge dBBG|ABAG E2D2||GFGB AGED|GFGB d2d2|egge dBBG|1 A2G2 G2DE:| 2 A2G2 G2Gg|||:gfeg fed2|edBd edBd|g3d edBG|ABAG E2D2||GFGB AGED|GFGB d2d2|egge dBBG|1 A2G2 G2Gg:| 2 A2G2 G2DE||
+
+
+Tune 30	Setting 26562
+
+X: 5
+T: Off To California
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: (3DEF | G>FG>B A>GE>D | G>Bd>g e2 (3def | g>fg>d e>dB>G | A>BA>G E2 (3DEF |
+G>FG>B A>GE>D | G>Bd>g e2 (3def | g>fg>d e>dB>G | A>GE>F G2 :|
+|: (3def | g>fe>g f>ed>f | e>de>f e>dB>d | g>fg>d e>dB>G | A>BA>G E2 (3DEF |
+G>FG>B A>GE>D | G>Bd>g e2 (3def | g>fg>d e>dB>G | (3ABA E>F G2 :|
+
+

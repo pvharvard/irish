@@ -1,0 +1,32 @@
+Tune 10023	Setting 10023
+
+X: 1
+T: Jock Brown's 70th
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Amix
+cd|:e2ee efed|cAA/A/A eAce|f/g/-g3 gfga|e/f/-f3 fefg|
+aeed e3d|cAA/A/A eAcA|GAA/A/A cddA|GAde d2cd:|
+|:a2cd ecde|cdac decd|a2cd ecde|cdac dggg|
+a2cd ecde|cdac decA|GAA/A/A cddA|1 GAde d2cd:|2 GAde d2dc||
+|:AAGA AGAA|GAAG AAdc|AAGA AGAA|GAde d2dc|
+AAGA AGAA|GAAG AAdA|GAde d2dA|dcde d2dc:|
+
+
+Tune 10023	Setting 29514
+
+X: 2
+T: Jock Brown's 70th
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Amix
+cd|e3 e- efed|cA A/A/A eAcA|g3 g- gfga|f3 f- fefg|
+a2 ed e2 ed|cA A/A/A eAcA|GA A/A/A d2 dc|GAde d2:|
+|:cd|a2 cd ecde|cdac decd|a2 cd ecde|cdac dgcd|
+a2 cd ecde|cdac decA|GA A/A/A d2 dc|GAde d2:|
+|:dc|A2 GA- AGAA|GAAG A2 dc|A2 GA- AGAA|GAde d2 dc|
+A2 GA- AGAA|GAAG A2 dc|GAde d3 d-|dcde d2:|
+
+

@@ -1,0 +1,76 @@
+Tune 98	Setting 12656
+
+X: 3
+T: The Sally Gardens
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DE|G2DG BAGB|dBeB dBAB|d2Bd efge|dBAB ABAG|
+
+
+Tune 98	Setting 22450
+
+X: 5
+T: The Sally Gardens
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: [A,A][B,B] |\
+D2 [A,A]D F2 DF | AFBF AFEF | A/B/A FA BddB | AFEF D[B,B][A,A][B,FB] |
+D2 A,D BD D/E/F | AFBF AF E2 | A2 FA B/c/d dB | AFED D2 :|
+|: E/F/G |Ad-dc d/e/d AB | d/e/d fd edcd | Be-e^d e2 Bd | edfd edBG |
+Addc d2 Ad | d2 fd edBG | A2 F/G/A Bd-dB | AFEF D2 :|
+
+
+Tune 98	Setting 12655
+
+X: 2
+T: The Sally Gardens
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+BA|G2DG BAGB|dBeB dBAB|d2Bd efge|dBAB GEDE|G2DG BAGB|dBeB dBAB|d2Bd efge|1 dBAB G2:|2 dBAB G4||dggf g2dg|gabg agfg|eaag a2ea|agbg ageg|dggf g2dg|gabg ageg|d2Bd efge|1 dBAB G4:|2 dBAB G2||
+
+
+Tune 98	Setting 98
+
+X: 1
+T: The Sally Gardens
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2GA BAGB|dBeB dBAB|d2Bd efge|dBAB GEDE|GFGA BAGB|d2eB dBAB|d2Bd efge|dBAB G4:||:dggf g2de|g2bg ageg|eaag a2eg|a2bg ageg|dggf g2de|g2bg ageg|d2Bd efge|dBAB G4:|
+
+
+Tune 98	Setting 22449
+
+X: 4
+T: The Sally Gardens
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+BA |:G2 DG BAGB | de ~e2 dBAB | d2 B/c/d edge | dBAB GEDE |
+~G3 A BAGB | dBeB dBAB | dG B/c/d edge |[1 dBAB G3 F :|[2 dBAB g3 ||
+|: e |dggf g2 dg | g2 bg aged | eaag ageg | a2 bg ageg |
+dggf g2 bg | ~g2 bg abge | d2 B/c/d edge |[1 dBAB g3 :|[2 dBAB G2 |]
+
+
+Tune 98	Setting 29394
+
+X: 6
+T: The Sally Gardens
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2 DG B2 GB|dBeB dBAB|d2 (3Bcd efge|dBAB GEDE|
+G2 DG B2 GB|dBeB dBAB|d2 (3Bcd efge| dBAB G4:||
+|:dggf g2dg|g2 bg ageg|eaag a2ea|a2 bg ageg|
+dggf g2dg|g2 bg ageg|d2 (3Bcd efge|dBAB G2:||
+
+

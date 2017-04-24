@@ -1,0 +1,56 @@
+Tune 391	Setting 13232
+
+X: 5
+T: The Bag Of Spuds
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: BddB ce e2 | BddB A2 GA |\ |: gabg eaab | gabg e2 d2 |\
+
+
+Tune 391	Setting 13229
+
+X: 2
+T: The Bag Of Spuds
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+Bd d2 Beed|BddB ~A2 GA|Bd d2 Beed|gabg ~a2 g2:||:gabg eaab|gabg e2d2|gabg eaab|gedB ~A2G2:|
+
+
+Tune 391	Setting 13231
+
+X: 4
+T: The Bag Of Spuds
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:Bdd2 =ceed | BddB ABGA | Bdd2 =ceed | gabg abag:||:gabg eaaf | gbag efede | gbag eaaf | gedb abag:|
+
+
+Tune 391	Setting 391
+
+X: 1
+T: The Bag Of Spuds
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:Bdd2 =ceed | BddB ABGA | Bdd2 =ceed | gabg abag:|
+|:gabg eaaf | gbag efede | gbag eaaf | gedb abag:|
+
+
+Tune 391	Setting 13230
+
+X: 3
+T: The Bag Of Spuds
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: BddB ce e2 | BddB A2 GA | Bd d2 ceef | gabg a2 g2 :||: gabg eaab | gabg e2 d2 | gabg ea^ga | gedB A2 G2 :|FA ~A GB ~B | FAAF (3EFE DE | FA (3AAA GB (3ABc | defd (3efe d :|defd Be ~e | d2 (3fed B2 (3ABc | df ~f2 ce ~e | dBAF (3EFE D :|
+
+

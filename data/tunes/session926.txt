@@ -1,0 +1,65 @@
+Tune 926	Setting 14120
+
+X: 4
+T: The Hag's Purse
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:A2D FED|A2B cAF|G2E EDE|c2d cAG|A2D FED|A2B cAF|GEE cEE|DED D2:||:A|d2e fed|e2d cAF|G2E EDE|c2d cAG|d2e fed|e2d cAF|GEE cEE|DED D2:|
+
+
+Tune 926	Setting 27833
+
+X: 5
+T: The Hag's Purse
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+G |: A2D FED | A2 B cAF | G2 E EDE | c2 d cAG |
+| Ac/A/D FED | AdB cAF | GEE cEE | D3 DcB |
+| A2D FED | AdB cAF | GEE EDE | ced cAG |
+| ADD FED | AdB cAF | G3 cGE | D3 D2A ||
+|: d2 e fed | efd cAF | G2 E E3 | c2 d cAG |
+| Add fed | efd cAF | GEE cGE | D3 DE/F/G |
+| Ade fed | efd cAF | GcA GcA | ced cAG |
+| Ade fed | g/f/ed cAF | GE/F/G cGE | DFE DcB ||
+
+
+Tune 926	Setting 14118
+
+X: 2
+T: The Hag's Purse
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+G |: A2 D FED | A2 B cAF | G2 E EDE | c2 d cAG || A/A/AD FED | AdB cAF | GEE cEE | DED DcB || A2 D FED | AdB cAF | GEE EDE | ced cAG || ADD FED | AdB cAF | ~G3 cGE | DED D2 A ||| d2 e fed | efd cAF | G2 E EDE | c2 d cAG || Add fed | efd cAF | GEE cGE | DED DE/F/G || Ade fed | efd cAF | GcA GcA | ced cAG || Ade fed | g/f/ed cAF | GE/F/G cGE | DFE DcB ||
+
+
+Tune 926	Setting 14119
+
+X: 3
+T: The Hag's Purse
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:A2D FED|A2B cAF|G2E EDE|c2d cAG|A2D FED|A2B cAF|GFG cGE|DED D3:||:d2e =fed|e2d cAF|G2E EDE|c2d cAG||Ade =fed|e2d cAF|GFG cGE|DED D3:|
+
+
+Tune 926	Setting 926
+
+X: 1
+T: The Hag's Purse
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:B|A2D FED|A2d cAF|G2E EDE|c2d cAG|
+AAD FED|A2d cAF|GFG cAG|EDD D2:|
+|:A|d2e fed|ged cAF|G2E EDE|c2d cAG|
+Add fed|ged cAF|GFG cAG|EDD D2:|
+
+

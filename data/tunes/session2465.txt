@@ -1,0 +1,64 @@
+Tune 2465	Setting 20895
+
+X: 2
+T: The Singing Stream
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dA~A2 FAdF|Adef edBc|dA~A2 fged|edef g2fe|
+dA~A2 FAdF|Adef ed(3efg|a3b bagf|1edef g2fe:|2edef g2fg|
+adde cdef|g2fg egfe|dA~A2 FAdf|fgfd efge|
+a2de cdef|g3f egfe|dA~A2 FAdf|edef d2fg|
+a2de cdef|g3f egfe|dA~A2 FAdf|fgfd efge|
+a3b bagf|edef gefe|dFAd FAdG|AdFA dgfe|]
+
+
+Tune 2465	Setting 25589
+
+X: 4
+T: The Singing Stream
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dAAA GAdF|Adef edBc|dAAA g2fe|edef g2fe|
+dAAA GAdF|Adef ed(3efg|a3b bagf|1edef g2fe:|2edef g2fg||
+adde cdef|ggfg egfe|dAAA FAde|fgfd edfg|
+adde cdef|ggfg egfe|dAAA FAdf|edfe defg|
+adde cdef|ggfg egfe|dAAA FAde|fgfd edfg|
+a3b bagf|edef gefe|dFAd GAdF|AdGd g2fe|d8||
+
+
+Tune 2465	Setting 2465
+
+X: 1
+T: The Singing Stream
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dA~A2 GAdF|Adef edBc|dA~A2 fged|edef g2fe|
+dA~A2 GAdF|Adef ed(3efg|~a3b bagf|1edef g2fe:|2edef g2fg||
+adde cdef|g2fg egfe|dA~A2 FAdf|fgfd efge|
+a2de cdef|~g3f egfe|dA~A2 FAdf|edfe d2fg|
+a2de cdef|~g3f egfe|dA~A2 FAdf|fgfd efge|
+a3b bagf|edef gefe|dFAd FAdG|AdFA dgfe|
+
+
+Tune 2465	Setting 25446
+
+X: 3
+T: The Singing Stream
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:dA A2 FAdF|Adef edBc|dA A2 fged|edef g2fe|
+dA A2 FAdF|Adef ed (3efg|a3b bagf|1edef g2fe:|2edef g2fg|
+|:adde cdef|g2fg egfe|dA A2 FAdf|fgfd efge|
+a2de cdef|g3f egfe|dA A2 FAdf|edef d2fg|
+a2de cdef|g3f egfe|dA A2 FAdf|fgfd efge|
+a3b bagf|edef gefe|dFAd FAdG|AdFA dgfe||
+
+

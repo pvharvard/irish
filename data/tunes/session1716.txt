@@ -1,0 +1,52 @@
+Tune 1716	Setting 27429
+
+X: 3
+T: The Red-haired Lass
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+(BA)|!segno!G2 GG G2 (BA)|GABA GET(ED)|EGGA GABd|(3efg dB T(BA)AB|
+G2 GG G2 (BA)|GABA GET(ED)|EGGA GABd|egdB T(BA) A2||
+d2 (gd) edgd|d2 (gd) BAAB|d2 (gd) edef|({a}g)edB T(BA)AB|
+d2 (gd) edgd|d2 ({a}gd) T(BA)AB|c2 cA T(BA)Bd|(3efg dB T(BA)AB!segno!||
+
+
+Tune 1716	Setting 1716
+
+X: 1
+T: The Red-haired Lass
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DG{A}GF ~G3 E|DGBG AGEG|DG{A}GF GABd|egdB cBAG|
+DG{A}GF GABG|DGBG AGEG|DG{A}GF GABd|gedB ~c2 Bc||
+d2 gd edgd|(3ddd gd BABc|d2 gd edef|gedB ~c2 Bc|
+d2 gd edgd|(3ddd gd BABd|~c3 A BcBA|GABd edBA||
+
+
+Tune 1716	Setting 28023
+
+X: 4
+T: The Red-haired Lass
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|: A2A/A/A ABcB|ABcA B~F3|EAAG ABce|1 faec dBcB:|2 afec d2cd|]
+[| e/e/eae feaf|eaec d2cd|e/e/eae fefa| afec d2cd |
+e/e/eae feaf|eaec d2cB|BccB cefa| afec dBcB|]
+
+
+Tune 1716	Setting 15143
+
+X: 2
+T: The Red-haired Lass
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:DGGF G2 BG|G2 BG AGEG|DGGF GABd|egdB c2 BA|DGGF G2 BG|G2 BG AGEG|DGGF GABd|gedB c2 Bc||d2 gd edgd|d2 gd BABc|d2 gd edef|gedB c2 Bc|d2 gd edgd|d2 gd BABd|c3A B3A|GABd egdB||
+
+

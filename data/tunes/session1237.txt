@@ -1,0 +1,96 @@
+Tune 1237	Setting 29755
+
+X: 7
+T: The Yellow Wattle
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|: d^cA A2c|d^cA GED|d^cA A2D|G2G GED|
+d^cA A2c|d^cA GED|E2E cGE|EDD D2A:|
+D/E/F/G/A/B/c3|AdB cAG|AB^c ded|dfd AFD|
+D3 c3|AdB cAG|E2E cGE|EDD D2A|
+DF/G/A c3|AdB cAG|AB/^c/d ded|dAF DFA|
+D/E/F/G/A/B/c3|AdB cAG|E2E cde|dcA GED||
+
+
+Tune 1237	Setting 14536
+
+X: 2
+T: The Yellow Wattle
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+dcA AGE|[A3A3] ABc|dcA ABc|dcA GED|dcA AGE|ABA AGE|DE/E/D cde|1 dcA GAc:|2 dcA GEA||DE/E/D ~c3|ded ~c3|ded cde|dcA GEA|DE/E/D ~c3|ded d2 c|ABA ABc|1 dcA GEA:|2 dcA GAc||
+
+
+Tune 1237	Setting 25099
+
+X: 4
+T: The Yellow Wattle
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:ded c3|ded c3|ded cde|dcA GED|
+ded c3|ded cAG|A3 ABc|1 dcA GAc:|2 dcA GED||
+|:dcA AGE|A3 ABc|dcA ABc|dcA GED|
+dcA AGE|A3 AGE|D3 cde|1 dcA GED:|2 dcA GAc||
+
+
+Tune 1237	Setting 26574
+
+X: 5
+T: The Yellow Wattle
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:dcA AGE|ABA ABc|dcA ABc|dcA GED|
+dcA AGE|ABA AGE|DED cde|dcA GED:|
+|:DED c3|ded ccd|DED cde|dcA GED|
+DED c3|ded d2B|ABA ABc|dcA GED:|
+
+
+Tune 1237	Setting 1237
+
+X: 1
+T: The Yellow Wattle
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:dcA AGE|ABA ABc|dcA ABc|dcA AGE|
+dcA AGE|ABA AGE|EDD cde|dcA GED:|
+|:DED c3|ded c3|DED cde|dcA GED|
+DED c3|ded d2c|ABA ABc|dcA GED:|
+
+
+Tune 1237	Setting 24441
+
+X: 3
+T: The Yellow Wattle
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:dcA ~A2D| (3.F.G.A D (3.G.F.E D|dcA ~A2B|dcA GED:|
+|~D3 c2A|dfd cBc|~D3 c2e|dcA GED|
+~D3 c2A|dfd (3Bcd e|(3.g.f.e d (3edc e|dcA GED|
+
+
+Tune 1237	Setting 27394
+
+X: 6
+T: The Yellow Wattle
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:dcA AGE|ABA ABc|dcA ABc|dcA AGE|
+dcA AGE|ABA AGE|DED cde|dcA AGE:|
+|:DED c3|ded c3|DED cde|dcA AGE|
+DED c3|ded c2A|ABA ABc|dcA AGE:|
+
+

@@ -1,0 +1,85 @@
+Tune 390	Setting 22906
+
+X: 6
+T: The Famous Ballymote
+R: reel
+M: 4/4
+L: 1/8
+K: Gmix
+|BGdG Bdde|fddc ABcA|BGdG Bdde|fdcA BG G2|
+BG G2 Bdde|fddc ABcA|BGdG Bdde|fdcA BG G2||
+|BGBd g2 ag|fddc ABcA|BGBd g2 ag|fdcA BGdG|
+BGBd g2 ag|fddc ABcA|BG G2 g2 ag|fdcA =B4||
+
+
+Tune 390	Setting 13226
+
+X: 2
+T: The Famous Ballymote
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+||FDAD FAAB|cABG EFGE|FDAD FAAB|cAGE ED D2:|||FDFA d2 ed|cABG EFGE|1 FDFA d2 ed|cAGE ED D2:|2 FDFA df ed|cAGE ED D2||
+
+
+Tune 390	Setting 13228
+
+X: 4
+T: The Famous Ballymote
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+cAeA ceef|gefd BcdB|cAeA ceef|gedB BA A2:||cAce a2 a/a/a|gefd BcdB|cAce a2 ga|gedB BA AB:||
+
+
+Tune 390	Setting 22905
+
+X: 5
+T: The Famous Ballymote
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|FDAD FAAB|cAAG EFGE|FDAD FAAB|cAGE FD D2|
+FD D2 FAAB|cAAG EFGE|FDAD FAAB|cAGE FD D2||
+|FDFA d2 ed|cAAG EFGE|FDFA d2 ed|cAGE FDAD|
+FDFA d2 ed|cAAG EFGE|FD D2 d2 ed|cAGE =F4||
+
+
+Tune 390	Setting 390
+
+X: 1
+T: The Famous Ballymote
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+FDAD FAAB|cABG EFGE|FDAD FAAB|cAGE ED D2:||
+FDFA d2 ed|cABG EFGE|FDFA d2 ed|cAGE ED D2:||
+
+
+Tune 390	Setting 13227
+
+X: 3
+T: The Famous Ballymote
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+||FDAD F~A3|cABG EFGE|FDAD F~A3|cAGE FD D2:|||FDFA d2 ed|cABG EFGE|1 FDFA d2 ed|cAGE FD D2:|2 FDFA df ed|cAGE FD D2||
+
+
+Tune 390	Setting 23014
+
+X: 7
+T: The Famous Ballymote
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+FDAD FAAB|cABG EFGE|FDAD (3FFG AB|cAGE ED D2:|
+FDFA dfed|cABG EFGE|FDFA dfed|cAGE ED D2:|
+
+

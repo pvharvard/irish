@@ -1,0 +1,53 @@
+Tune 1123	Setting 25142
+
+X: 4
+T: The Rose Tree
+R: polka
+M: 2/4
+L: 1/8
+K: Cmaj
+|: e/d/ |cA GE | G>A GE/G/ | cB/c/ dc/d/ | ed d/f/e/d/ |
+cA GE | G2 GE/G/ | cc d/4e/4d/c/d/ |[1 ec c :|[2 ec c3/ ||
+|: d/ |e^d ef | g2 fe | da a>^g | ad d/f/e/d/ |
+c>A GE | G/A/G/E/ GA/B/ | cB/c/ d^c/d/ |[1 ec c3/ :|[2 ec c |]
+
+
+Tune 1123	Setting 23965
+
+X: 3
+T: The Rose Tree
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+f/e/|dB AF|A2 AB/c/|d2 f/e/d/e/|fee
+f/e/|dB AF|A2 AB/c/|d2 {f}ed/e/|fdd:|
+e|fefg|a2gf|.e.bba|bee
+f/e/|dB AF|A2 AB/c/|d2 f/e/d/e/|fdd:|
+
+
+Tune 1123	Setting 14385
+
+X: 2
+T: The Rose Tree
+R: polka
+M: 2/4
+L: 1/8
+K: Cmaj
+e/d/|:cAGE| G/A/G/E/G A/B/| cB/c/dc/d/| edde/d/|cAGE| G/A/G/E/G A/B/| cB/c/dc/d/|1edce/d/:|2edcc/d/|||:edef |gagf/e/| d aaa/b/ |a dde/d/ |cAGE| G/A/G/E/G A/B/| cB/c/dc/d/|1edcc/d/:|2edc2||
+
+
+Tune 1123	Setting 1123
+
+X: 1
+T: The Rose Tree
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+f/e/ |: dB AF | A>B AB | d2 ed/e/ | fe ef/e/ |
+dB AF | A>B AB | d2 ed/e/ | fd d2 :|
+|:fe fg | a2 gf | eb ba | be ef/e/ |
+dB AF | A>B AB | d2 ed/e/ | fd d2 :|
+
+

@@ -1,0 +1,63 @@
+Tune 474	Setting 29484
+
+X: 5
+T: Come West Along The Road
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+| d2 (3BAG d2 (3BAG | G2Bd efge | d2 (3BAG d2 (3BAG  | ABcd edBc |
+| d2 (3BAG d2 (3BAG | G2Bd efge | d2 (3BAG d2 (3BAG  | ABcd edBd ||
+| g2bg egdg | egdg egde | g2bg egdB | ABcd edBd |
+| g2bg egdg | (3efg dg egdf | gabg efge | dega ba (3gfe ||
+
+
+Tune 474	Setting 22920
+
+X: 4
+T: Come West Along The Road
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:d2BG dG (3Bcd|G2(3Bcd efge|d2BG dG (3Bcd| ABcd edBe|
+d2BG dG (3Bcd|G2(3Bcd efge|d2BG dG (3Bcd| ABcd edBd||
+|g2bg egdg|egdg edBd|g2bg egdg|ABcd edBd|
+|g2bg egdg|egdg edBd|gabg efge|dega bage||
+
+
+Tune 474	Setting 13359
+
+X: 2
+T: Come West Along The Road
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|d2 BG dGBG|(3GGG Bd efge|
+
+
+Tune 474	Setting 474
+
+X: 1
+T: Come West Along The Road
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:d2BG dGBd|G2(3Bcd efge|d2BG dGBd|1 ABcd edBe:|2 ABcd edBd||
+|g2bg egdg|egdg edBd|g2bg egdg|BABd edBd|
+|g2bg egdg|egdg edBd|gabg efge|dega bage|
+
+
+Tune 474	Setting 13360
+
+X: 3
+T: Come West Along The Road
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+d2BG dGBG|G2Bd ef (3gfe|d2BG dGBG|1 ABcd edBc:|2 ABcd edBd||g2bg egdg|(3efg dg edBd|g2bg egdB|ABcd edBd|g2bg egdg|(3efg dg edBd|gabg efge|dega bage||
+
+

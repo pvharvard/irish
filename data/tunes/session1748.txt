@@ -1,0 +1,25 @@
+Tune 1748	Setting 15186
+
+X: 2
+T: The Humours Of Scarriff
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+d3e f2ed|cAGc AcGc|Adde fded|cAGE EDDA|d3e f2ed|cAGc AcGc|Adde fded|cAGE EDD2||ecgc acgc|ecgc eaag|ecgc acgc|edcd edd2|ecgc acgc|ecgc eaag|abag efed|cAGE EDD2||
+
+
+Tune 1748	Setting 1748
+
+X: 1
+T: The Humours Of Scarriff
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+FAde f2ed|cAGc AcG2|Adde f2ed|cAGE EDD2|
+Adde f2ed|cAGc AcG2|Adde f2ed|cAGE EDD2||
+eccc acgc|ecgc eaa2|eccc acgc|edcd edd2|
+eccc acgc|ecgc eaa2|a3g eged|cAGE EDD2||
+
+

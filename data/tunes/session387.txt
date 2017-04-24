@@ -1,0 +1,46 @@
+Tune 387	Setting 387
+
+X: 1
+T: Sixpenny Money
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+fAA fAA|BAG FGE|DED AFA|dfd efg|
+FAA FAA|BAG FGE|DED AFA|dfd e2 d:||
+fef gfg|afd ede|fef gfg|afd e2 d|
+fef gfg|afd fga|ABA AFA|dfd e2 d:||
+
+
+Tune 387	Setting 27152
+
+X: 3
+T: Sixpenny Money
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: .F.A.A .F.A.A | BAG FEF| D3 AFA| dfd ~e2d:|
+|: AAA AFA|BAG FEF|D3 AFA|dfd fed :|
+|: fdf gfg| afd ecA|fdf gfg| afd ~e2d|
+|fdf gbg|afd ecA|AFA DFA|dfd ~e2d:|
+|: AAA AFA|BAG FEF|D3 AFA|dfd fed :|
+|: fdf gfg| afd ecA|fdf gfg| afd ~e2d|
+|fdf gbg|afd ecA|AFA DFA|dfd ~e2c|
+|d6|
+
+
+Tune 387	Setting 26001
+
+X: 2
+T: Sixpenny Money
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:fAA fAA|BAG FGE|D3 AFA|dfd e2d|
+fAA fAA|BAG FGE|D3 AFA|dfd e2 d:||
+|:f3 g3|afd ecA|f3 g3|afd e2 d|
+fga gfg|afd ecA|A3 AFA|dfd e2 d:||
+
+

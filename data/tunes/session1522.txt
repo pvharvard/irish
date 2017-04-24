@@ -1,0 +1,27 @@
+Tune 1522	Setting 21992
+
+X: 2
+T: The Enchanted Lady
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:A3G FAdB|AGFD EA A2|A3G FAdB|ABde fddB|
+A3G FAdB|AGFD EA A2|A3G FAdB|ABde fdde||
+|:f2df efdf|afdf edBd|f2df efdA|(3Bcd AG FDDe|
+f2df efdf|afdf edBd|A3B dfbf|afeg fddB||
+
+
+Tune 1522	Setting 1522
+
+X: 1
+T: The Enchanted Lady
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+~A3G FAdB|AGFD EA,~A,2|~A3G FAdB|1 ABde fddB:|2 ABde fdde||
+f2df efdf|afdf edBd|f2df efdA|B/c/dAG FDDe|
+f2df efdf|afdf edB2|ABAB dfbf|afeg fddB||
+
+

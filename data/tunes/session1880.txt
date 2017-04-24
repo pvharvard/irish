@@ -1,0 +1,70 @@
+Tune 1880	Setting 28266
+
+X: 4
+T: Junior Crehan's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A|:BAF AFE | DFD EDB, | A,B,D EDE | FED EFA |
+BAF AFE | DFD EDB, | A,B,D EDE |[1 FDC DFA :|[2 FDC DFE||
+DFA dcd | ede fdB | def edB | A (3Bcd e2 f |
+edB BAF | DFD EDB, | A,B,D EDE |[1 FDD D2 A,:| [2 FDD D2 A|]
+
+
+Tune 1880	Setting 28765
+
+X: 5
+T: Junior Crehan's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+ABc ||: dAF AFE | DFD EDB, | A,B,D EDE | FEE E2A |
+dAF AFE | D/E/FD EDB, | A,B,D EFG |1 FDC D2A :|2 FDC D2 |]
+A, [|: DFA ~d3 | ede fdB | def edB | ABd egf |
+edB AFE | D/E/FD EDB, | A,B,D ~E3 |1 FDC D2A, :|2 FDC D3|]
+
+
+Tune 1880	Setting 22533
+
+X: 2
+T: Junior Crehan's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:d|BAF AFE|D3 EDB|ABD E3|FEE E2d|
+BAF AFE|D3 EDB|ABD E3|FDD D2:|
+|:E|DFA d3|ede fdB|def edB|ABd e2f|
+edB AFE|D3 EDB|ABD E3|FDD D2:|
+
+
+Tune 1880	Setting 1880
+
+X: 1
+T: Junior Crehan's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:d|BAF AFE|D3 EDB,|A,B,D ~E3|FEE E2d|
+BAF AFE|D3 EDB,|A,B,D ~E3|FDD D2:|
+|:E|DFA ~d3|ede fdB|def edB|ABd e2f|
+edB AFE|D3 EDB,|A,B,D ~E3|FDD D2:|
+
+
+Tune 1880	Setting 24422
+
+X: 3
+T: Junior Crehan's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:g|edB dBA|G3 AGE|DEG A3|BAA A2g|
+edB dBA|G3 AGE|DEG A3|BGG G2:|
+|:A|GBd g3|aga bge|gab age|deg a2b|
+age dBA|G3 AGE|DEG A3|BGG G2:|
+
+

@@ -1,0 +1,36 @@
+Tune 1045	Setting 1045
+
+X: 1
+T: The Gun In The Thatch
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+dc||BGAF DGG2|gfge fdcd|BG (3GGG DGFG|FGAB c2dc|
+BGAF DGG2|gfge fdcd|BGAF DG (3GGG|FGAB c2Bc||
+|:dg{a}gf (3ggg bg|dgbg fgaf|dg{a}gf (3ggg dg|1 bgaf gfef:|2 bgaf gedc||
+
+
+Tune 1045	Setting 21186
+
+X: 3
+T: The Gun In The Thatch
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:BGAF DGGA|B2ge fdcA|BGAF DG~G2|1 FGAB c2dc:|2 FGAB c2Bc||
+|:dggf g2bg|dg~g2 fgaf|dggf ~g3a|bgag fdcA:|
+
+
+Tune 1045	Setting 14274
+
+X: 2
+T: The Gun In The Thatch
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+A|:BGAF DGGF|G2 ge fdcA|BGAF DGBG|E/F/G AB c2 dc|BGAF DGGF|G2 ge fdcA|BGAF DGBG|E/F/G AB c2 Bc||dggf g2 gf|d~g3 fgaf|dggf ~g3a|bgag fdcA|dggf g2 gf|d~g3 fgaf|d~g3 dgBg|bgag fdcA||
+
+

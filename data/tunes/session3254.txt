@@ -1,0 +1,42 @@
+Tune 3254	Setting 24876
+
+X: 2
+T: The Lark On The Strand
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+GED G2A | B3 ABd | edd gdd | edB dBA |
+GED G2A | BdB A (3Bcd | edd gdB |1 AGF GBA:|2AGF GBd||
+gfg efg | afd edB | Add fdd | ed^c def |
+gfg aga | bag fgf | edc B2A | BGF GBd :|
+
+
+Tune 3254	Setting 28752
+
+X: 3
+T: The Lark On The Strand
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:GED G2A|BAG ABd|edd gdd|edB dBA|
+GED G2A|BAG ABd|edd gdB|AGF G3:|
+|:gfg efg|aed edB|Add edd|fdd edB|
+g3 aga|bag fed|Add ede|fd^c d3:|
+
+
+Tune 3254	Setting 3254
+
+X: 1
+T: The Lark On The Strand
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BA|GEF ~G2A|BAG ABd|edd gdd|edB dBA|
+GEF G2A|BAG ABd|edd gdB|AGF G:|
+|:Bd|~g3 efg|afd edB|Add fdd|ed^c def|
+~g3 ~a3|bag ~f3|edc BcA|BGF G:|
+
+

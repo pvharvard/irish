@@ -1,0 +1,39 @@
+Tune 1636	Setting 15059
+
+X: 2
+T: An Comhra Donn
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+FG|ABAG FAde|fgfe dcdA|BcdB AFDE|FEED E2FG|ABAG FAde|fgfe dcdA|BcdB AFEG|F2D2 D2:|fg|agfd gfec|dcde fdAF|GA BG FADF|Efgf e2fg||agfd gfec|dcde fdAF|GABG FAEG|F2D2 D2|:
+
+
+Tune 1636	Setting 1636
+
+X: 1
+T: An Comhra Donn
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:FG|ABAG FAde|fgfe dcdA|BGdB AFDE|FEED E2FG|
+ABAG FAde|fgfe dcdA|BGdB AF (3EFG|F2D2 D2:|
+|:fg|ag (3fed gfec|dcde fdAF|GA (3BAG FADF|Efgf e2fg|
+ag (3fed gfec|dcde fdAF|GA (3BAG (3FGA EG|F2D2 D2:|
+
+
+Tune 1636	Setting 23031
+
+X: 3
+T: An Comhra Donn
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+FG|ABAG FAde|fgfe dcdA|BcdB AFDE|FEED E2FG|
+ABAG FAde|fgfe dcdA|BcdB AFEG|F2D2 D2:|
+fg|agfd gfec|dcde fdAF|GABG FADF|Efgf eAdf|
+|agfd gfec|dcde fdAF|GABG FAEG|F2D2 D2|:
+
+

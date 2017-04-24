@@ -1,0 +1,82 @@
+Tune 635	Setting 21767
+
+X: 3
+T: Give Us A Drink Of Water
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+D|GBd gdc BAG|B<-dB cAA A2A-|GBd gdc BAG|B<-cA BGG G2:|
+d|gfg efg afd|gfg efg a2d|gfg bag fed|efg afd g2d|
+gfg efg afd|gfg efg a2a|bag agf gfd|efg afd g2|]
+
+
+Tune 635	Setting 21774
+
+X: 4
+T: Give Us A Drink Of Water
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+GBd gdc BAG|Bcd eAA ABA|GBd gdc BAG|1BcA BGF G3:|2BcA BGF GBd||
+~g2g efg fed|~g2g efg ~a2a|~g2g bag fed|efg agf ~g2g|
+~g2g ~e2e ~f2f|~g2g efg ~a2a|bag agf ged|efg agf gdB|]
+
+
+Tune 635	Setting 26851
+
+X: 5
+T: Give Us A Drink Of Water
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|: D | GB/c/d gdc BAG | Bc/d/B cAA AFD | GB/c/d gdc BAG | Bc/d/B cAF G2D |
+GB/c/d gdc BAG | Bc/d/B cAA AFD | GB/c/d gdc BAG | Bc/d/B cAF G2f ||
+|:g3 efg fed | g3 efg a2f | g3 bag fed | efg afd g2d |
+g3 efg fed |g3 efg a3 | bag agf ged | efg afd g2 ||
+
+
+Tune 635	Setting 21763
+
+X: 2
+T: Give Us A Drink Of Water
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|: D |GBd gdc BAG | B/c/dB cAA A2 D |\
+GB/c/d gdc B2 G |[1 BcA BGG G2 :|[2 BcA BGG GBd ||
+gag efg afd | gag efg a2 d |\
+gag bag fed | efg agf g2 d |
+gag efg afd | gag efg a2 a |\
+bag agf g/f/ed | efg afd g2 |]
+
+
+Tune 635	Setting 28786
+
+X: 6
+T: Give Us A Drink Of Water
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|BGG AGE DEG | B2G GFG A2c | BGG AGE DEG | cBA AGE D2c :|
+Bdd dge dBG | Bdd dBG A2c | Bdd dge dBG | cBA AGE D2c |
+Bdd dge dBG | Bdd dBG Aef | gfe dBd cBA | cBA BGE D3 :|
+
+
+Tune 635	Setting 635
+
+X: 1
+T: Give Us A Drink Of Water
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|: D | GBd gdc BAG | BdB cAA A2D | GBd gdc BAG | BcA AGF G2 :|
+|d | {a}gfg efg fed | g2g efg afd | g2g bag fed | efg afd g2d |
+gfg efg fed | {a}gfg efg a2g | bag agf ged | efg afd g2 ||
+
+

@@ -1,0 +1,93 @@
+Tune 367	Setting 22868
+
+X: 6
+T: Mayor Harrison's Fedora
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+F|:GBEG B2 AF|GFGA B2 AG|FADF ADFA|dcdB ADFA|
+|GBEG B2 AF|GFGA BABc|dcdB ADFA| GE E2 E3F:||
+|:(3Bcd ed e3f|gefd edBd|FABc d2 (3ABc|dfaf gfed|
+|(3Bcd ed e3f|gefd edBc|dcdB ADFA|GE E2 E3F :||
+
+
+Tune 367	Setting 20652
+
+X: 5
+T: Mayor Harrison's Fedora
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+EF|:GBEG ~B2 AF|GFGA BdAG|FADF ADFA|~d2 cd BAGF|
+GBEG ~B2 AF|GFGA ~B3 c|dedB AGFA|1 GEFD ~E3 F:|2 GEFD ~E3 A||
+|:Beed e2 ef|g2 fg edBA|FABc d2 (3ABc|dfaf gfed|
+Beed e2 ef|g2 fg edBc|dedB AGFA|1GEFD ~E3 A:|2 GEFD ~E3 F||
+|:G2GF GABc|dBAG FADA|Beed efge|fedf edBc|
+dedB AGFA|GFEF GABc|dedB AGFA | GEFD ~E3F:|
+
+
+Tune 367	Setting 13170
+
+X: 4
+T: Mayor Harrison's Fedora
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:F|G2GF GABc|dBAG FADA|Beed efga|(3gfe df e3c|~d3B A3F|GFEF GABc|dedB AGFA GEFD ~E3:|
+
+
+Tune 367	Setting 367
+
+X: 1
+T: Mayor Harrison's Fedora
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+EF|:GBEG (3BBB AF|GFGA BdAG|FADF ADFA|(3ddd cd BAGF|
+|GBEG (3BBB AF|GFGA ~B3 c|dedB AGFA|1 GEFD ~E3 F:|2 GEFD ~E3 A||
+|:Beed e2 ef|g2 fg edBA|FABc d2 (3ABc|dfaf gfed|
+|Beed e2 ef|g2 fg edBc|dedB AGFA|1GEFD ~E3 A:|2 GEFD ~E3 F||
+
+
+Tune 367	Setting 13169
+
+X: 3
+T: Mayor Harrison's Fedora
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:G2 GF GABc|dBAG FDDA|Be (3eee edef||gefd e2 (3ABc|dcdB AGFA|GEFD EFGA||dedB AGFA|1 GEFD E2 (3DEF:|2 GEFD ~E3 F|
+
+
+Tune 367	Setting 28963
+
+X: 7
+T: Mayor Harrison's Fedora
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+F|: GBEG BGAF | GFGA BdAG | FADF ADFA | dcdB AGFA |
+GBEG BGAF | (3GGG A ~B3 c| dedB AGFA| GEED E3 A :||
+|:(3Bcd ef ~e3 f | e^def edBA| ^GABc dBBA | (3Bcd gf edBA|
+(3Bcd ef ~e3 f | geed edBc| dedB AGFA| GEED E3 A:||
+|: ~G4 GABc| dGBA FADA| (3Bcd ef e3 f| geed edBc |
+dedB AGFA | ~GAEF GABc | dA (3Bcd ~A3 F| GEED E4 :||
+
+
+Tune 367	Setting 13168
+
+X: 2
+T: Mayor Harrison's Fedora
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:G2 GF GABc|dBAG FDDA|Be (3eee edef|gefd e2 (3ABc||dcdB AGFA|GEFD EFGA|dedB AGFA|GEFD E2 (3DEF:|
+
+

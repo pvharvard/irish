@@ -1,0 +1,61 @@
+Tune 548	Setting 548
+
+X: 1
+T: The Scotsman Over The Border
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|: DED FDF | AFA d2A | {c}BAB BAB |dgf edB |
+ADD FDF | AFA d2A | ~B3 AFA | dAF E3 :|
+|: dfa afa | bag fef | dfa afe | def edB |
+dfa afa | bag fed | B2B AFA |dAF E3 :|
+
+
+Tune 548	Setting 13510
+
+X: 2
+T: The Scotsman Over The Border
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+DED FDF|AFA d2 A|~B3 BAB|dgf edB|ADD ~F3|AFA d2 A|~B3 AFA|dAF EAF|D E/E/D FDF|AFA dec|~B3 BAB|dg/f/e fdB|ADD FD/E/F|AFA dcA|BdB AFA|dAF EFA||dfa afa|bag fge|dfa afe|dcd ecA|dfa afa|bag fge| fdB AFA|dAF EFA|dfa a/f/g/a|bag fge|dfa afe|dB/c/d ecA|dfa afa|bag fge|fdB Afe|dAF EAF||
+
+
+Tune 548	Setting 13511
+
+X: 3
+T: The Scotsman Over The Border
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|: DDD FDF | AFA d2A | BBB BAB | def edB |ADD FDF | AFA d2A | BdB AFA | [1 dAF EEE :| [2 dAF EFD |||: dfa afa | bge edB | dfa afe | bge e2B |dfa afa | bge edB | d2B AFA | [1 dAF EFD :| [2 dAF EEE ||
+
+
+Tune 548	Setting 22982
+
+X: 5
+T: The Scotsman Over The Border
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+D3 FDF | AFA d2c | ~B3 BAB |def edB |
+ADD FDF | AFA d2c | ~B3 AFA | dAF E3 :|
+|: dfa afa | bge edB | dfa afa | bge e2B |
+dfa afa | bge edB | d2B AFA |dAF E3 :|
+
+
+Tune 548	Setting 13512
+
+X: 4
+T: The Scotsman Over The Border
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+DED FDF | AFA d2c | B3 BAB |dgf edB |
+
+

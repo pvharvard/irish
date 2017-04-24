@@ -1,0 +1,28 @@
+Tune 1994	Setting 24025
+
+X: 2
+T: The Cow That Ate The Blanket
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+dc|B2 A BGD|GAG GBd|ege dBG|ABA AGA|
+!B2 A BGD|GAG GBd|ege dBG|AGF G:|
+!|:Bd|g2 g efg|eag fed|g2 g edB|BAG ABc|
+!B2 A BGD|GAG GBd|ege dBG|AGF G:|
+
+
+Tune 1994	Setting 1994
+
+X: 1
+T: The Cow That Ate The Blanket
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:A | B2 A BGD | GAG GBd | ege dBG | ABA ABc |
+B2 A BGD | GAG GBd | ege dBA | BGF G2 :|
+|:d | gfg efg | eag fed | gfg edB | BAG ABc |
+B2 A BGD | GAG GBd | ege dBA | BGF G2 :|
+
+

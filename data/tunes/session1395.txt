@@ -1,0 +1,103 @@
+Tune 1395	Setting 14759
+
+X: 2
+T: The Frog In The Well
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+~E3 GFE| BGE GFE| D (3FED FED| ADG FED | ~E3 GFE| BGE GFE| BGB AFA| GBG E2
+
+
+Tune 1395	Setting 28479
+
+X: 6
+T: The Frog In The Well
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|:D|~E3 GFE|BEE GFE|~D3 FED|FAG FED |
+~E3 GFE|BEF G2A|BdB BAF|GEE ~E2:|
+|:B|efe ~B3|e2f gfe|fdd add|bdd add |
+efe ~B3|e2f gfe|edB BAF|GEE ~E2:|
+
+
+Tune 1395	Setting 26047
+
+X: 5
+T: The Frog In The Well
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|:E3 GEE|BEE GFE|D3 FDD|ADD FED|
+E3 GEE|BEE G2A|B3 AGF|1 GED EGD:|2 GED E2B ||
+|:efe B3|e2f gfe|fdd Add|fag fed|
+e^de BAB|e2f gfe|fdB AGF|1 GED E2B:|2 GED E2D||
+
+
+Tune 1395	Setting 14760
+
+X: 3
+T: The Frog In The Well
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+D|~E3 FEE|BEE GFE|DED FDF|AFA dAF|~E3 FEE|BEE GFE|d2B AFA|BED E2:|d|efe BAB|def gfe|fdd Add|fdf afd|efe BAB|def afd|edB AFA|BED E2:|
+
+
+Tune 1395	Setting 1395
+
+X: 1
+T: The Frog In The Well
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+~E3 GEE|BEE GFE|D3 FDD|ADD FED|
+~E3 GEE|BEE G2A|~B3 ABA|1 GED EGD:|2 GED E2B||
+|:efe ~B3|e2f gfe|fdd Add|Bdd fed|
+e^de ~B3|e2f gfe|fdB AGF|1 GED E2B:|2 GED EGD||
+
+
+Tune 1395	Setting 29955
+
+X: 7
+T: The Frog In The Well
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+E2F GFE|BEF GFE|D2E FED|ADD FED|
+E2F GFE|BEF G2A|BdB BGF|1 GEE E3:|2 GEE E2B||
+|:efe B2d|e2f gfe|fdd Add|fef agf|
+efe B2d|e2f gfe|fdB AGF|1 GEE E3:|2 GEE E2D||
+
+
+Tune 1395	Setting 29998
+
+X: 8
+T: The Frog In The Well
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+E2E GFE|BEF GFE|D2D FED|ABG FED|
+E2E GFE|BEF G2A|BdB BAF|1 GED E3:|2 GED E2B||
+|:efe B2B|eBe g2e|fdd add|fdf agf|
+ede B2B|eBe g2e|fdB AGF| GED E3:||
+
+
+Tune 1395	Setting 14761
+
+X: 4
+T: The Frog In The Well
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+E3 GEE|BEE GFE|D2D FDF|AFA dAF|E2E GEE|BEE GFE|d2c BAG| 1 ABE EED:| 2 ABE EEf ||efe BAB|def afe|fdd Add|faf fed|efe BAB|def afe|fdB AGA| 1 BEE E2f:| 2 BEE E2D||
+
+

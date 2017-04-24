@@ -1,0 +1,50 @@
+Tune 1305	Setting 14620
+
+X: 3
+T: The Bush On The Hill
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|: A,3 A,CE | EAA cea | fed ceB | cAF F3 |A,3 A,CE | EAA cea | fed ceB |[1 cAA A3 :|[2 cAA A2 E |||: Ace a3 | f3 ecA | dfd cec | B3 cA[AE] | Ace a3 | f3 ecA | dfd cec |[1 BAA A2 E :|[2 BAA A3 |]|: A,3 A,CE | EAA cea | fed cdB | cAF F3 |A,3 A,CE | EAA cea | fed cdB | cAA A3 :| ~
+
+
+Tune 1305	Setting 1305
+
+X: 1
+T: The Bush On The Hill
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|:~A,3 CEA | AEA cea | fed cdB | cAF FEF |
+~A,3 CEA | AEA cea | fed cdB | cAG A2z :|
+|: Ace aga | faf ecA | dfd cec | BAB cAF |
+Ace aga | faf ecA | dfd cec | BAG A2z :||
+
+
+Tune 1305	Setting 14619
+
+X: 2
+T: The Bush On The Hill
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:~G,3 B,DG|GDG Bdg|edc BcA|BGE EDE|~G,3 B,DG|GDG Bdg|edc BcA|BGF G2z:||:GBd gfg|ege dBG|cec BdB|AGA BGE|GBd gfg|ege dBG|cec BdB|AGF G2z:||
+
+
+Tune 1305	Setting 24012
+
+X: 4
+T: The Bush On The Hill
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+G,3 B,G,B,|GFG Bdg|edc BcA|BGE EDE|
+!G,3 B,G,B,|GFG Bdg|edc BcA|BGF G3:|
+!|:GBd g3|ece dBG|cBc BdB|ABA AFD|
+!GBd g3|ece dBG|cBc BdB|AGF G3:|
+
+

@@ -1,0 +1,51 @@
+Tune 2050	Setting 15446
+
+X: 2
+T: The Ladies Pantalettes
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+BdcA G2GB | A=FcF dBcA | BdcA G=feg |1 =fdcA BGGA :|2 =fdcA BGG2 |g2gf d2de | fgag fdde | fgaf g2ag | =fdcA BGG2 |fgaf g2ag | fgag fdde | =fede fgag | =fdcA BGG2 ||
+
+
+Tune 2050	Setting 25444
+
+X: 3
+T: The Ladies Pantalettes
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:(3Bcd cA G3c|AF F2 dF F2|(3Bcd cA G2ge|fdcA BG G2|
+(3Bcd cA BG G2|AF F2 dF F2|(3Bcd cA G2ge|fdcA BGGg||
+|:fgaf g2fg|a3g fdde|fgaf gaag|fdcA BGG2|
+fgaf g2fg|a3g fdde|f3g a3g|fdcA d2cA||
+
+
+Tune 2050	Setting 26946
+
+X: 4
+T: The Ladies Pantalettes
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:(3Bcd cA G3c|AF F2 dF F2|(3Bcd cA G2ge|fdcA BG G2:|
+|fgaf g2fg|a3g fdde|fgaf gaag|fdcA BGG2|
+fgaf g2fg|a3g fdde|f3g a3g|fdcA d2cA|]
+
+
+Tune 2050	Setting 2050
+
+X: 1
+T: The Ladies Pantalettes
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+(3Bcd cA ~G3c|AF~F2 DF~F2|BdcA G2ge|fdcA BG~G2:|
+fgaf g2fg|afag fdde|fgaf g2ag|fdcA BGG2|
+fgaf g2fg|~a3g fdde|~f3g ~a3g|fdcA d2cA|
+
+

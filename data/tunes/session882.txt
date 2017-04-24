@@ -1,0 +1,36 @@
+Tune 882	Setting 14064
+
+X: 3
+T: The Kerry
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+| D2F A2A | BdB AFE | D2F AFA | B2c d2d || D2F A2A | BdB AFA | fed cBA | B2c d2e || fed cBA | BdB AFA | fed cBA | B2c d2e || fed cBA | BdB AFE | D2F A2A | B2c d3 |
+
+
+Tune 882	Setting 14063
+
+X: 2
+T: The Kerry
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+|G,B,D EB,D EFG DB,D|G,B,D EB,D E2 F G3||G,B,D EB,D EFG DB,D|1 BAG AGF E2 F G3:||2 BAG AGF E2 F G2 A|||BAG AGF EFG DB,D|BAG AGF E2 AA2 A||BAG AGF EFG DB,D|1 G,B,D EB,D E2 F G2 A:|
+
+
+Tune 882	Setting 882
+
+X: 1
+T: The Kerry
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+|:GBd edB ege dBG|GBd edB e2 f g3|
+GBe edB ege dBG|GBe edB e2 f g3:|
+|:bag agd efg dBG|bag agd e2 a a3|
+bag agd efg dBG|GBd edB e2 f g3:||
+
+

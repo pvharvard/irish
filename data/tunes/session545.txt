@@ -1,0 +1,38 @@
+Tune 545	Setting 545
+
+X: 1
+T: The Repeal Of The Union
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|: ADED ~A2AG | E2cE dEcB | ADED ~A2AG | E2cE EDD2 :|
+|: Adde fdec | ABcA dBcB | Adde fdcA | GEcE EDD2 |
+Adde fdec | ABcd eg~g2 | afge fdcA | GEcE EDD2 ||
+
+
+Tune 545	Setting 13507
+
+X: 2
+T: The Repeal Of The Union
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+AD (3DDD AD (3FED | GEcE dEcE | AD (3FED ADFD | GEcE EDD :|Ad-de fdec | A2 (3cBA dBcB | Adde (3fed ed | GEcE DcBc | Ad (3ddd fd e2 | A>BcA dB (3cBA | a2 (3gfe fdec | GEcE D3 ||
+
+
+Tune 545	Setting 28420
+
+X: 3
+T: The Repeal Of The Union
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+AD D2 A3G | E2cE dEcB | AD D2 A3G | E2cE ED D2 |
+ADED A3G | E2cE dEcB | AD D2 A3G | E2cE ED D2 ||
+Adde fdec | ABcA dBcB | Adde fdcA | GEcE EDD2 |
+Adde fdec | ABcd eg g2 | afge fdcA | GEcE EDD2 ||
+
+

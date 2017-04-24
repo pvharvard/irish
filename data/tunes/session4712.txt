@@ -1,0 +1,85 @@
+Tune 4712	Setting 21616
+
+X: 3
+T: The Night Before Larry Was Stretched
+R: slip jig
+M: 9/8
+L: 1/8
+K: Emin
+|:GFE EB,E E2 G|FED DA,D FGA|GFE EB,E E2 G|FGA ABG FED:|
+|:GAB BcB d2B|GAB Bcd cAF|GAB BcA B2B|c2 A ABG FED:|
+
+
+Tune 4712	Setting 17224
+
+X: 2
+T: The Night Before Larry Was Stretched
+R: slip jig
+M: 9/8
+L: 1/8
+K: Emin
+| : dcB BFB B2 d | cBA AFA cde | dcB BFB B2 d | cde efd cBA : | | : d2f fge f2 e | d2 f fga bge | d2 f fge fga | b2 e efd cBA : |
+
+
+Tune 4712	Setting 23523
+
+X: 4
+T: The Night Before Larry Was Stretched
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmin
+|:BAG GDG G2 B|AGF FCF ABc|BAG GDG G2 B|ABc cdB AGF:|
+|:Bdd ded f3|B2d def ecA|B2 d ded d2d|dcB cdB AGF:|
+
+
+Tune 4712	Setting 26120
+
+X: 5
+T: The Night Before Larry Was Stretched
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmin
+|:BAG GDG G2 B|AGF FCF ABc|BAG GDG G2 B|ABc cdB AGF:|
+|:Bcd ded f2d|Bcd def ecA|Bcd ded d2d|edc cdB AGF:|
+
+
+Tune 4712	Setting 4712
+
+X: 1
+T: The Night Before Larry Was Stretched
+R: slip jig
+M: 9/8
+L: 1/8
+K: Emin
+|:GFE EB,E E2 G|FED DA,D FGA|GFE EB,E E2 G|FGA ABG FED:|
+|:G2 B BcA B3|G2B Bcd ecA|G2 B BcA Bcd|e2 A ABG FED:|
+
+
+Tune 4712	Setting 29437
+
+X: 7
+T: The Night Before Larry Was Stretched
+R: slip jig
+M: 9/8
+L: 1/8
+K: Amin
+|:cBA AEA A2 c|BAG GDG Bcd|cBA AF/G/A A2 c|Bcd dec BAG|
+cBA AEA A2 c|BAG D3 Bcd|cBA AEA A2 c|Bcd dec BAG||
+|:cde e=fe g3|cde e=fg =fdB|cde e=fe g3|=fed dec BAG|
+cde e=fe g2e|cde e=fg =fdB|cde e=fe g2e|=fed dec BAG||
+
+
+Tune 4712	Setting 26147
+
+X: 6
+T: The Night Before Larry Was Stretched
+R: slip jig
+M: 9/8
+L: 1/8
+K: Amin
+|:cBA AEA A2 c|BAG GDG Bcd|cBA AEA A2 c|Bcd dec BAG:|
+|:cde efe g2e|cde efg fdB|cde efe e2e|fed dec BAG:
+
+

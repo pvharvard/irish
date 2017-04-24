@@ -1,0 +1,82 @@
+Tune 1100	Setting 21682
+
+X: 7
+T: Tommy Peoples'
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+"G"GDDB cDBD|"D"ADDG FGAF|"G" GDDB cDBD|"D"Addc AGFA|
+"G"GDDB cDBD|"D"ADDG FGAF| "G"GDDB cDBD|"D"Addc AGBd|
+"C9"g2dg egdg|"G"gabg agdg|"C9"g2dg egdB|"D"cBAc "G"BGG2|
+"C9"g2dg egdg|"G"gabg agdg| "C9"g2dg egdB|"D"cBAc "C7"BGG2|
+
+
+Tune 1100	Setting 14348
+
+X: 2
+T: Tommy Peoples'
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:~G3B cABG|ADDE FGAF|~G3B cABG|1 Addc BGGF:|2 Addc BGGf||
+|:g2dg egde|g2dg eaaf|g2dg egdB|1 cBAc BGGf:|2 cBAc BGGF||
+
+
+Tune 1100	Setting 1100
+
+X: 1
+T: Tommy Peoples'
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2BG cGBG|ADDE FGAF|G2BG cGBG|1 Addc BGGF:|2 Addc BGGf||
+|:g2dg egde|g2bg fgaf|g2dg egdB|1 cAdc BGGf:|2 cAdc BGGF||
+
+
+Tune 1100	Setting 14350
+
+X: 4
+T: Tommy Peoples'
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:g2dc BG(3BCd|g2dg eaaf|g2dc BG(3BCd|1 cADF AGGf:|2 cADF AGGF||
+
+
+Tune 1100	Setting 14349
+
+X: 3
+T: Tommy Peoples'
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G2 BG cGBG | ADDE =F2 ED | GABG cABG |1 AcBA G2 G2 :| 2 AcBA GABc ||dBGB dBGB | ADDE =F3 B | dBGB dBGB | AcBA G3 B |dBGB dBGB | ADDE =F3 B | dBcA BGAF | DcBA G2 G2 ||
+
+
+Tune 1100	Setting 14352
+
+X: 6
+T: Tommy Peoples'
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+g2dg egde|g2bg age2|g2dg egdB|cBAc BGGf|g2dg egde|g2bg agef|gfga gedB|cBAc BGGF|
+
+
+Tune 1100	Setting 14351
+
+X: 5
+T: Tommy Peoples'
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+g2dg egde|g2bg eagf|g2dg egdB|1 cBAc BGGf:|2 cBAc BGGFg2dg egde|g2bg age2|g2dg egdB|cBAc BGGf|g2dg egde|g2bg agef|gfga gedB|cBAc BGGf|
+
+

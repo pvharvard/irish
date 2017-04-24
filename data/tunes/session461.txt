@@ -1,0 +1,89 @@
+Tune 461	Setting 27212
+
+X: 6
+T: Martin Wynne's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|dged B2Ac | BGAG EAAc | BGBd cdeg | fgaf g2fe |
+dged B2Ac | BGAG EAAc | BGBd cdeg |1 fgaf g2ge|2 fgaf gdef ||
+|g3a gfef | dged BGBc | dgga gfef| dega b2af |
+g3a gfef | dged B3c | dgga gfed |1 fgaf gdef|2 fgaf g2ge||
+
+
+Tune 461	Setting 13341
+
+X: 2
+T: Martin Wynne's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: A/B/c |: dged B2Ac | BGEG FA~A2 | BG B/c/d cdeg | fgaf gfeB |!dged B2Ac | BGEG FA~A2 | BG B/c/d cdeg |1 fgaf ~g3B:|2 fgaf ~g3f||!g3a gfeB | dged BG A/B/c | dggf gfeB | dega bggf | g2af gfeB |!dged BG A/B/c |dggf gfeg |1 fgaf ~g3f:|2 fgaf g2||!
+
+
+Tune 461	Setting 25327
+
+X: 5
+T: Martin Wynne's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: Bc | dged B2Ac | BGdG EAAc | BGdB cdef | g2ga gfed |
+dged B2Ac | BGdG EAAc | BGdB cdef | gbaf g2 :|
+|:ba | g3a gfed | dged BGBc | dg g2 gfed| dega bgaf |
+gbaf gfed | dged BGBc | dg g2 gfed | dfaf g2:|
+
+
+Tune 461	Setting 13343
+
+X: 4
+T: Martin Wynne's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: Bc | dged B2Ac | BGdG EAAc | BGdB cdef | g2ga gfed |dged B2Ac | BGdG EAAc | BGdB cdef | gbaf g2 :||:ba | g2ga gfed | dged BGBc | dgg/g/g gfed| dega bgaf |gbaf gfed | dged BGBc | dgg/g/g gfed | dfaf g2:|
+
+
+Tune 461	Setting 461
+
+X: 1
+T: Martin Wynne's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: Bc | dged BdAc | BG {A}(3GFG DEGA | BG {A}(3GFG Bdef |
+gbaf gfec |dged BdAc | BG {A}(3GFG DEGA | BG {A}(3GFG Bdef |
+gbaf g2 (3Bcd | g2gf gfec | dged BGBd | g2fa gfec | dega bg {a}(3gfg |
+gbaf gfec | dged BGBd | g2fa gfed | ceaf g2:|
+
+
+Tune 461	Setting 27885
+
+X: 7
+T: Martin Wynne's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+dged B2Ac|BGdG EAAc|BGdB cdeg|gfga gfeB|
+dged B2Ac|BGdG EAAc|BGdB cdeg|1fgaf g2fe :|2 fgaf g2ba ||
+gfga gfeB|d2ed BGGB|gfga gfeB|dega bgaf|
+gbaf gfeB|d2ed BGGB|gfga gfed|1fgaf g2ba :|2fgaf g2fe ||
+
+
+Tune 461	Setting 13342
+
+X: 3
+T: Martin Wynne's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+dged ~B3B|BGDG EA~A2|BGDG cdeg|fgaf gfeg|
+
+

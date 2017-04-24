@@ -1,0 +1,25 @@
+Tune 1398	Setting 14767
+
+X: 2
+T: The Star Above The Garter
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+|:d2e f2d (3gag e (3ded B|G2B c2B {d}BAG ABc|d2e fga (3gag e (3ded B|G2B c2E D3 D3:||
+
+
+Tune 1398	Setting 1398
+
+X: 1
+T: The Star Above The Garter
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+d2B BAG ~A3 ABA|G2E c2B BAG ABc|
+d2B BAG ~A3 ABA|G2E c2E D3 D3:|
+|:d2e f2a g2e d2B|G2B c2B BAG ABc|
+d2e f2a g2e d2B|G2B c2E D3 D3:|
+
+

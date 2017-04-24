@@ -1,0 +1,47 @@
+Tune 4185	Setting 4185
+
+X: 1
+T: The Flying Wheelchair
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+~G3 GED|~E3 AB/c/d|efg edB|Age dBA|
+~G3 GED|~E3 AB/c/d|efg edB|ABG EFD:|
+|:GAB ~d3|deB dBA|GAE ~e3|efg edB|
+GB/c/d efg|eaf g2b|age dBG|ABG EFD:|
+
+
+Tune 4185	Setting 16941
+
+X: 3
+T: The Flying Wheelchair
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+G2 A GED | E/F/GE ABd | e2 g edB | Age dBA |GBA GED | E2 G AB/c/d | e/f/ge edB | AeG E2 :|GA/B/c d3 | deB dBA | GG/A/B e3 | e/f/gf edB |GB/c/d g2 b | aef g2 b | age d2 G | A/B/cG E2 :|
+
+
+Tune 4185	Setting 16942
+
+X: 4
+T: The Flying Wheelchair
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+~G3 GED|EAA ABd|efg edB|Aee edB|~G3 GED|EAA ABd|efg edB|ABG EDE:||:GAB ~d3|deB dBA|GAE ~e3|efg edB|GBd efg|eaf gab|age dBG|ABG EDE:|
+
+
+Tune 4185	Setting 16940
+
+X: 2
+T: The Flying Wheelchair
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+~G3 GED|DEG A3|efg dBG|~A3 ~B3|~G3 GED|DEG A3|efg dBG|AGF ~G3:||:GAB ~d3|deB dBA|GA ~e3|efg edB|GBd e2g|eaf g2b|age dBG|A2G E2D:|
+
+

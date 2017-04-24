@@ -1,0 +1,42 @@
+Tune 1080	Setting 26304
+
+X: 3
+T: Father O'Flynn
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A | dAF DFA | ded cBA | dcd efg | fdf ecA |
+dAF DFA | ded cBA | dcd efg fdd d2 :|
+|: g | fdf fga | ecA ABc | dcd Bed | cAA A2 c |
+BGB Bcd | AFD DFA | dcd efg | fdd d2 :|
+
+
+Tune 1080	Setting 1080
+
+X: 1
+T: Father O'Flynn
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:d|dAF DFA|Bed cBA|dcd ede|faf ecA|
+dAF DFA|Bed cBA|dcd ede|fdd d2:|
+|:g|fdf fga|ece efe|dcd fed|cAA A2=c|
+BGB Bcd|AFA ABc|dcd efg|fdd d2:||
+
+
+Tune 1080	Setting 24491
+
+X: 2
+T: Father O'Flynn
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A |dAF DFA | Bed cBA | dcd efg | fdg ecA |
+dAF DFA | Bed cBA | dcd efg | fdd d2 :|
+|: g |fdf fga | ecc c3 | dcd Bed | cAA A3 |
+BGB Bcd | AFD DFA | dcd efg | fdd d2 :|
+
+

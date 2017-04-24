@@ -1,0 +1,80 @@
+Tune 566	Setting 13542
+
+X: 4
+T: The Red Haired Boy
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+E>A-A>^G A2 (3Bcd | (3efe e>c d2 c>d | e>A (3AAA A>B (3cBA | B>cB>A G2- G>=F | E2 A2 A>Bc>d | e2 e>c d4 | e>a (3aaa a>ge>d | =c2 A2 A3 :|g2 g>a g>fe>f | g>fe>c d>Bc>d | e>A-A>^G A>Bc>A | B>^GE>F G2 F>G | E>A (3AAA A>Bc>d | e2- e>c d>B (3Bcd | e2 a2 a>ge>d | =c>AA>^G A3 :|
+
+
+Tune 566	Setting 566
+
+X: 1
+T: The Red Haired Boy
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+|:"A"EAAG ABcd|efec "D"d2 cd|"A"eAAA ABcA|"G"B=GEF "G"G2 FG|
+"A"EAAG ABcd|efec "D"d2 cd|"A"eaaa afed|cA"E"BG "A"A4 :|
+|: "G"g2 g"G"a gfef|gfec "D"d2 cd|"A"eAAA ABcA|"G"B=GEF G2 FG|
+"A"EAAG ABcd|efec "D"d2 cd|"A"eaaa afed|cA"E"BG "A"A4 :|
+
+
+Tune 566	Setting 13543
+
+X: 5
+T: The Red Haired Boy
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+|: E | D>GG>^F G>A_B>c | (3ded (3dcB c>AB>c | ~
+
+
+Tune 566	Setting 13540
+
+X: 2
+T: The Red Haired Boy
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+AG|E2A2 AB cd|ef ec d2cd|e2A2 AB cA|BA EF G2 GF|E2A2 AB cd|ef ec d2cd|e a2 b ag ed|c2A2A2:||:ef|gf ga gf ef|gf ec d2cd|e2A2 AB cA|BA EF G3F|E2A2 AB cd|ef ec d2cd|e a2 b ag ed|c2 A2 A2:|
+
+
+Tune 566	Setting 13541
+
+X: 3
+T: The Red Haired Boy
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+A>G|E2A2 AB cd |ef ge d2cd|ed cB AB cA|BG EF G2 A>G|E2A2 AB cd|ef ge d2cd|ea ab ag ed|c2A2A2:|ef |g2 ga gf ef|gf ge d2cd|ed cB AB cA|BG EF G2 A>G|E2A2 AB cd|ef ge d2cd|ea ab ag ed|c2A2A2:|
+
+
+Tune 566	Setting 13544
+
+X: 6
+T: The Red Haired Boy
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+A,DDC DEFG|ABAF G2FG|ADDC DEED|ECA,B, C2B,G,|A,DDC DEFG|ABAF G2FG|Addc dcAG|1 FDEF D3C:|2 FEDF D3z|||:c3B c2AB|cBAF G2FG|ADDC DEED|ECA,B, C2B,G|A,DDC DEFG|ABAF G2FG|Addc dcAG|1 FDEF D3z:|2 FEDF D3C||
+
+
+Tune 566	Setting 13545
+
+X: 7
+T: The Red Haired Boy
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+A^GAB cBcd|{cd}e2 dc d2 cd|{cd}e2 G2 cAGE|G5 cB|A^GAB cBcd|e2 dc d2 e2|c2 BA AGEG|A5||g3 a g2 fe|fedc d2 cd|{cd}e2 G2 {AB}c2 GE|G5 cB|A^GAB cBcd|e2 dc d2 e2|c2 BA AGEG|A5||
+
+

@@ -23,7 +23,7 @@ class MeasureSpec extends Specification {
                 seq.add(i)
             }
             def measure = new Measure(sequence: seq)
-        expect:
+        then:
         measure.validate()
     }
 
@@ -34,7 +34,7 @@ class MeasureSpec extends Specification {
             seq.add(i)
         }
         def measure = new Measure(sequence: seq)
-        expect:
+        then:
         measure.validate()
     }
 
@@ -43,7 +43,7 @@ class MeasureSpec extends Specification {
         when: (" create a measure")
         List<Integer> seq = new ArrayList<>()
         def measure = new Measure(sequence: seq)
-        expect:
+        then:
         measure.validate()
     }
 
@@ -56,7 +56,7 @@ class MeasureSpec extends Specification {
         }
 
         def measure = new Measure(sequence: seq)
-        expect:
+        then:
         measure.validate()
     }
 

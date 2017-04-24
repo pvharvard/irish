@@ -1,0 +1,65 @@
+Tune 2518	Setting 26653
+
+X: 3
+T: The Queen Of May
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:dcdf e2dB|AD (3(FED) FA A2|Bddf edBc|dBAF BE E2:||
+Beef {a}gfge|^defg afdf|e^def {a}g2fe|dBAF BE E2|
+Beef {a}gfge|^defg afdf|(g/2a/2g/2f/2g).e (f/2g/2f/2e/2f).e|dBAF BE E2|]
+
+
+Tune 2518	Setting 2518
+
+X: 1
+T: The Queen Of May
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+Bcdf ~e2 dB|ADFD FA ~A2|Bcdf edBc|dBA=c BDFA|
+B2 BA BcdB|ADFD FA ~A2|Bcdf edBc|dBA=c BDFA||
+~B2 eB fBeB|defa afed|~B2 eB fBeB|dBA=c BDFA|
+(3Bcd eg fdeB|defa af e2|fbba fafe|dBA=c BDFA||
+
+
+Tune 2518	Setting 26654
+
+X: 4
+T: The Queen Of May
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|dcdf egdB | ADFD FAAG | Bddf edBc | dBAF BEE2 |
+dcdf egdB |ADFD FAAG | Bddf edBA | Bcef gfge||
+Beef gfge |defg afdf | e^def gafe | dBAF BEE2 |
+Beef gfge |defg afdf | gbag fage | dBAF BEE2 ||
+
+
+Tune 2518	Setting 28211
+
+X: 5
+T: The Queen Of May
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+(Be2)(fe2) dB|A2FD FAAc|Bdde d2ec|dBA=c B(E E2):||
+((3Bcd) eg (fd)ec|defg afed|((3Bcd) eg (fd)ec|dBA=c B(E E2)|
+((3Bcd) eg fdec|defg afdf|g2ge f2fe|dBA=c BEE2||
+
+
+Tune 2518	Setting 15809
+
+X: 2
+T: The Queen Of May
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+Bcdf eBdB|AD F/E/D FAAd|Bcdf edBc|dB A/A/=c BEGA|B3 B BAdB|AD F/E/D FAAd|Bcdf edBc|dB A/A/=c BEGA||B2 eB fBeB|defa afed|~B2 eB fBeB|dB A/A/=c BEGA|(3Bcd eg ~f3 e|defa afea|fbba ~f3 e|dB A/A/=c BEGA||
+
+

@@ -1,0 +1,97 @@
+Tune 447	Setting 29698
+
+X: 7
+T: The Rose In The Heather
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:FAF EAE|DFA ~BAF|ABd ede|fdB AFE|
+|FAF EAE|DFA ~BAF|AdB AFE|FDD D3:|
+|:fdB ABd|faa afd|[gd](3ggg fed|Bee ede|
+f~dB ABd|~faa afd|~baf ~gfe|1 fdd d2 e:|2 fdB AFE||
+|FAd EAc|DFA ~BAF|ABd ede|fdB AFE|
+FA,A, EA,A,|DFA ~BAF|AdB AFE|FDD D2 e|
+|fdd eAA|dAA BAF|ABd ede|fdB AFE|
+FAd EAc|DFA ~BAF|AdB AFE|FDD D3 |
+|:f(3fff edB|~faa afd|[gd](3ggg fed|Bee ede|
+f~dB ABd|faa afd|baf gfe|1 fdd d2 e:|2 fdB AFE| [A,DAf]3|
+
+
+Tune 447	Setting 13314
+
+X: 5
+T: The Rose In The Heather
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: FAF EFE | DFA BAF | ABd ede | fdB AFE |FAF EFE | DFA BAF | AdB AFE | FDD D3 :||: fdB ABd | faa afd | gfg fed | Bee efg |fdB ABd | faa afa | baf gfe fdd d3 :|
+
+
+Tune 447	Setting 447
+
+X: 1
+T: The Rose In The Heather
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+D2F EDB,|DFA BAF|ABd ede|fdB AFE|
+~F3 EFE|DFA Bcd|edB AFE|FDD D3:|
+|:fdB ABd|faa afd|~g3 fed|Bee ede|fdB ABd|
+faa afa|baf gfe|1 fdd d2e:|2 fdB AFE||
+"Variations:"
+~F3 EFE|DFA BAF|ABd ede|fdB AFE|
+D2F EDB,|DFA BAF|AdB AFE|1 FDD D3:|2 FDD D2e||
+|:fdB AFA|dfa afd|~g3 fed|Bee ede|
+fdB AFA|dfa afa|baf gfe|1 fdd d2e:|2 fdB AFE||
+
+
+Tune 447	Setting 28267
+
+X: 6
+T: The Rose In The Heather
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+E|:~F3 EFE | DFA BAF | A (3Bcd ede | fdB AFE |
+FAF EFE | DFA BAF | AdB AFE |[1 FDC D AG :|[2 FDC D de||
+fdB A (3Bcd | ~f2a afd | ~g2g fed |B2 e efg |
+fdB A (3Bcd | faa afa | bag fge|[1 fdc d2 e :|[2 fdc dAG|]
+
+
+Tune 447	Setting 13313
+
+X: 4
+T: The Rose In The Heather
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+DEF EDB,|DFA BAF|AB/c/d e2g|fdB AFE|F3 ~E3|DFA ~B3|B/c/dB AFE|FDD D2E|FAF EDB,|DFA ~B3|AB/c/d e2g|fdB AFE|FF/F/F EE/E/E|DFA ~B3|BdB AFE|FDD D2e||fdB AB/c/d|faa afd|g3 fed|Bcd e2g|fdB AB/c/d|faa ~a3|bag fae|fdd d2e|fAA eAA|dfa afd|~g3 fed|Bcd e2g|fdB AB/c/d|faa ~a3|bag fge|fdB AFE||
+
+
+Tune 447	Setting 13311
+
+X: 2
+T: The Rose In The Heather
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:D2F EDB,|DFA BAF|ABd e/f/ge|fdB AFE|FAF EFE|DFA ABd|edB AFE|1EDC D2A,:|2EDC Deg|:fdB ABd|faa afd|~g3 fed|Bcd efg|fdB ABd|faa afa|baf gfe|1fdc d2e:|2fdB AFE|
+
+
+Tune 447	Setting 13312
+
+X: 3
+T: The Rose In The Heather
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+FAF EFE|DFA BAF|ABd ede|fdB AFE|~F3 ~E3|DFA BAF|AdB AFE|1 FDD D2E:|2 FDD D2e||fdB ABd|faa afd|~g3 fed|Bee efg|fdB ABd|f2a afa|bag fge|1 fdc d2e:|2 fdc d2A||
+
+

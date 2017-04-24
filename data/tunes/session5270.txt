@@ -1,0 +1,104 @@
+Tune 5270	Setting 26647
+
+X: 6
+T: The Road To Errogie
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+AF | EA A/A/A BABc | eA A/A/A cefa | f2 fa ecAc | BABc BAFA |
+EA A/A/A BABc | eA A/A/A cefa | f2 fa ecAc | BABc A2 :|
+|: ce | {f}a3 a- aaba | c'3 b a2 ae | f2 ea- aef2- | feae fece |
+{f}a3 a- aaba | c'3 b a2 ae | fa a/a/a ecAc | BABc A2 :|
+
+
+Tune 5270	Setting 28587
+
+X: 7
+T: The Road To Errogie
+R: reel
+M: 4/4
+L: 1/8
+K: Bmix
+FB B/B/B cBcd|fB B/B/B cdfB|g3g fdBd|cBcd cBGB|
+FB B/B/B cBcd|fB B/B/B cdfB|g3g fdBd|[1cBcd B2BG:|[2cBcd Bcdf||
+fb2 b-b2c'b|d'2d'c' b2bf|fg2f b2fg-|gfbf gfdf|
+fb2 b-b2c'b|d'2d'c' b2bf|fg g/g/g fdBd|cBcd Bcdf|
+fb2 b-b2c'b|d'2d'c' b2bf|fg2f b2fg-|gfbf gfdB|
+FB B/B/B cBcd|fB B/B/B cdfB|g3g fdBd|cBcd B2B,2|]
+
+
+Tune 5270	Setting 21472
+
+X: 3
+T: The Road To Errogie
+R: reel
+M: 4/4
+L: 1/8
+K: Bmix
+|:BG| FB (3BBB cBcd | fB (3BBB cdfB | g4 fdBd | cBcd cBGB |
+FB (3BBB cBcd | fB (3BBB cdfb | g4 fdBd |1 cBcd B2 :|2 cBcd Bcdf ||
+|: b3 b- b2c'b | d'2d'c' b2bf | g2gf b2fg- | gfbf gfdf |
+[1 b3 b- b2c'b | d'2d'c' b2bf | g2~g2 fdBd | cBcd Bcdf :|
+[2 FB (3BBB cBcd | fB (3BBB cdfb | g4 fdBd | cBcd B2 ||
+
+
+Tune 5270	Setting 24535
+
+X: 5
+T: The Road To Errogie
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:Add2 edef|add2 efaf|b3d' afd2|e3f edBd|
+Add2 edef|add2 efaf|b3d' afd2|ed c/2B/2A d2 fd:|
+Add2 d2ed|ef2e d3A|B2Ad2AB2-|BAdA BAFG|
+Add2 d2ed|ef2e d3A|B3d AFDB,|ED C/2B,/2A, D4|
+Add2 d2ed|ef2e d3A|B2Ad2AB2-|BAdA BAFD|
+A,DD2 EDEF|ADD2 EFAF|B3d AFD2|ED C/2B,/2A, D2 FD||
+
+
+Tune 5270	Setting 17501
+
+X: 2
+T: The Road To Errogie
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DGG2 AGAB|dGG2 ABdB|e3d BAGB|A3B AGEG|DGG2 AGAB|dGG2 ABdB|e3d BAGB|AGAB G3E:|g2g2 g2ag|ab2a g3d|e2dg2de2-|edgd edBc|g2g2 g2ag|ab2a g3d|e3d BAGB|AGBA G4|g2g2 g2ag|ab2a g3d|e2dg2de2-|edgd edBG|DGG2 AGAB|dGG2 ABdB|e3d BAGB|AGBA G3E||
+
+
+Tune 5270	Setting 5270
+
+X: 1
+T: The Road To Errogie
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DGG2 AGAB|dGG2 ABdB|e3g dBG2|A3B AGEG|
+DGG2 AGAB|dGG2 ABdB|e3g dBG2|AG F/E/D G2 BG:|
+dgg2 g2ag|ab2a g3d|e2dg2de2-|edgd edBc|
+dgg2 g2ag|ab2a g3d|e3g dBGE|AG F/E/D G4|
+dgg2 g2ag|ab2a g3d|e2dg2de2-|edgd edBG|
+DGG2 AGAB|dGG2 ABdB|e3g dBG2|AG F/E/D G2 BG||
+
+
+Tune 5270	Setting 22806
+
+X: 4
+T: The Road To Errogie
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DGG2 AGAB|dGG2 AGBd|e3g edBG|A3B AGEG|
+DGG2 AGAB|dGG2 AGBd|e3g edBG|AGAB G3E:|
+dg g2 g2ag|ab3 g3d|e2dg2de2-|edgd edBc|
+dgg2 g2ag|ab3 g3d|e3g edBG|AGBA G4|
+dg g2 g2ag|ab3 g3d|e2d g<dee-|e>dgd edBG|
+DGG2 AGAB|dGG2 AGBd|e3g edBG|AGBA G3E||
+
+

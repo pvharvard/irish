@@ -1,0 +1,26 @@
+Tune 1230	Setting 22353
+
+X: 2
+T: The Merry Harriers
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:eA A2 egfg | eA A2 BGBd | eA A2 efge | afge dgfg |
+eA A2 egfg | eA A2 BGBd | eA A2 efge | afge d2 Bc ||
+|:dg g2 bg g2 | dggd BGBc | dg g2 afgb | afge dcBc |
+dg g2 bg g2 | dggd BGBc | dg g2 gabg | afge dgfg ||
+
+
+Tune 1230	Setting 1230
+
+X: 1
+T: The Merry Harriers
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:gfg|eA~A2 eAgA|eA~A2 BGBd|eA~A2 eg~g2|abge d:|
+|:cBc|dg~g2 bg~g2|dggd BGBc|dggf gabg|abge d:|
+
+

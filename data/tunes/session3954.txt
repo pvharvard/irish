@@ -1,0 +1,77 @@
+Tune 3954	Setting 3954
+
+X: 1
+T: Ragtime Annie
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+DFAF B2AF | DFAF B2AF | DFDF B2AF | Ac2A c2B2 |
+ABcA BcBA | AB2A BcBA | ABcd egfe | d6 fg:|
+a2ab afdB | A2A2 A2fg | a2a2 g2f2 | B6 ef |
+gfef gfed | c2A2 c2A2 | B2B2 A2G2 | F6 fg |
+a2ab afdB | A2A2 A2fg | a2a2 g2f2|B6 ga |
+b2b2 bafg | a2ab afdB | ABcd egfe | d6 GA |
+|:B2B2 BGAB | =cB=cd =c2de | f2f2 fdef | gfga g2GA |
+B2B2 BGAB | =cB=cd =c2De | f2f2 fdef | gfga g4 :|
+
+
+Tune 3954	Setting 16823
+
+X: 3
+T: Ragtime Annie
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A||FAAA BAGE|FFGE D3 A|FAAA BAAA|1 c4 cc2B|2 BccB cBcB|| ABcA BBcB|ABcA BBcB|ABcd e(3fed c|1 dA FA D2 AG:|2 dA FA D2 (3efg|||a2 aa agfe|d2 (3Bce d2 (3efg|a2 aa agfd|B6 dB|g3g gfef|gggf gfef|(3gfe fd ecdB|cABG ABde|faaa agfe|d2 (3Bce d2 Bc|dzdd ^c2 =c2 |B6 dB|gBdG (3def gd |fAdf Adfd|ABcd (3efe dc|dAFA FD3||
+
+
+Tune 3954	Setting 16822
+
+X: 2
+T: Ragtime Annie
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+DFAF B2AF | DFAF B2AF | DFDF B2AF | Ac2A c2B2 | ABcA BcBA | AB2A BcBA | ABcd egfe | d6 :||GA | B2B2 BGAB | =cB=cd =c2de | f2f2 fdef | gfga g2GA | B2B2 BGAB | =cB=cd =c2De | f2f2 fdef | gfga g4 :||
+
+
+Tune 3954	Setting 16824
+
+X: 4
+T: Ragtime Annie
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A||FAAA BAGE|FFGE D3 A|FAAA BAAA| c4 cc2B|| ABcA BBcB|ABcA BBcB|ABcd e(3fed c| dA FA D2 AG||||FAAA BAGE|FFGE D3 A|FAAA BAAA|BccB cBcB||| ABcA BBcB|ABcA BBcB|ABcd e(3fed c|dA FA D2 (3efg|||a2 aa agfe|d2 (3Bce d2 (3efg|a2 aa agfd|B6 dB|g3g gfef|gggf gfef|(3gfe fd ecdB|cABG ABde|faaa agfe|d2 (3Bce d2 Bc|dz2d d^c =c2 |B6 dB|gBdG (3def gd |fAdf Adfd|ABcd (3efe dc|dAFA FD3|| A||FAAA BAGE|FFGE D3 A|FAAA BAAA| c4 cc2B|| ABcA BBcB|ABcA BBcB|ABcd e(3fed c| dA FA D2 AG||||FAAA BAGE|FFGE D3 A|FAAA BAAA|Bce3 Bce|||BceB ceBe|BceB ceBc|ABcd e(3fed c|dA FA D2 (3efg||
+
+
+Tune 3954	Setting 25320
+
+X: 5
+T: Ragtime Annie
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A||FA A2 BAGE|F2 GE D3A|FA A2 BA A2| c4 c3B|
+| ABcA B2 cB|ABcA B2 cB|ABcd (3efe dc| dA FA D2 AG||
+||FA A2 BAGE|F2 GE D3A|FA A2 BA A2|BccB cBcB||
+| ABcA B2 cB|ABcA B2 cB|ABcd (3fed ce|dA FA D2 (3efg||
+|a2 a2 agfe|(3Bcd ce d2 (3efg|a2 a2 agfd|B6 dB|
+g2 g2 gfef|g3f gfef|(3gfe fd ecdB|cABG ABde|
+fa a2 agfe|(3Bcd ce d2 Bc|d2 d2 d^c =c2 |B6 dB|
+gBdg (3Bcd gd |fAdf Adfd|ABcd (3efe dc|dAFA D3||
+A||FA A2 BAGE|F2 GE D3A|FA A2 BA A2| c4 c3B|
+| ABcA B2 cB|ABcA B2 cB|ABcd (3efe dc| dA FA D2 AG||
+||FA A2 BAGE|F2 GE D3 A|FA A2 BA A2|Bce3 Bce||
+|BceB ceBe|BceB ceBc|ABcd (3efe dc|dA FA D2 (3efg||
+|a2 a2 agfe|(3Bcd ce d2 (3efg|a2 a2 agfd|B6 dB|
+g2 g2 gfef|g3f gfef|(3gfe fd ecdB|cABG ABde|
+fa a2 agfe|(3Bcd ce d2 Bc|d2 d2 d^c =c2 |B6 dB|
+gBdg (3Bcd gd |fAdf Adfd|ABcd (3efe dc|dAFA D3||
+
+

@@ -1,0 +1,36 @@
+Tune 2271	Setting 15639
+
+X: 2
+T: The Humours Of Castlefin
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:A|BE E2 BAFB|ADFD EFAd|BE E2 B2 AF|GBAF E2 FA|BE E2 BE E2| ADFD EF A2| BE E2 B2 FA|GBAF E3A |||:B2 ed egfe|defg afed|B2 ed efgb|agfa ge e2|B2 ed egfe|defg afdf|efga bagf|egfd edBA|
+
+
+Tune 2271	Setting 2271
+
+X: 1
+T: The Humours Of Castlefin
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+d^c[|BE E2 BEGB|AD D2 FGAd|BE E2 B2 AF|GBAF EFGA|
+BE E2 BEGB|AD D2 FGAd|BE E2 B2 AF|GBAF EFGA|
+B2 eB egfe|defg afed|!Beed efgb|agfa geed|
+B2 eB egfe|defg afdf|efga bagf|egfd e2|]
+
+
+Tune 2271	Setting 15640
+
+X: 3
+T: The Humours Of Castlefin
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|BE EE BEFB|AD DD FGAd|BE EE BE AF|GBAF EFGA|BE EE BEFB|AD DD FGAd|BE EE BE AF|GBAF EFGA|B2 eB egfe|defg afed|!B2 eB egfe|agfa geed|B2 eB egfe|defg afdf|efga bagf|e2fd e2|]
+
+

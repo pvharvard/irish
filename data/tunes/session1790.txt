@@ -1,0 +1,51 @@
+Tune 1790	Setting 26444
+
+X: 4
+T: Scully Casey's
+R: slide
+M: 12/8
+L: 1/8
+K: Ador
+cAc BAG | EGA GAB |1 cBc dcd | eaa ged |2 cBc dBG | BAG A3 :|
+|: cBc dcd | eaa ged | eaa aga | bag a2g |
+eaa c'aa | aba ged | cBc dBG | BAG A3 :|
+
+
+Tune 1790	Setting 15236
+
+X: 2
+T: Scully Casey's
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+c|dcd AGE F2G A2B|=cBc A2B cBc AB^c|dcd AGE F2G A2e|fed edc d3 d2c||agf gfe fed edc|fec ABc d2e f2e||
+
+
+Tune 1790	Setting 26402
+
+X: 3
+T: Scully Casey's
+R: slide
+M: 12/8
+L: 1/8
+K: Dmix
+|:d3 ABG F2G A2B|=c3 A2B cBc ABc|d3 ABG F2G A2g|
+|1fed ed^c d2e =f2e:|2fed ed^c d3 d2A||
+|:d2e f2g a3 afd|=c2d e2f g3 gfe|d2e f2g a3 afd|e^cA ABc d3 d2A|
+d2e f2g a3 afd|=c2d e2f g3 gfg|agf gfe fed ed^c|d^cA ABc d2e =f2e||
+
+
+Tune 1790	Setting 1790
+
+X: 1
+T: Scully Casey's
+R: slide
+M: 12/8
+L: 1/8
+K: Dmix
+d3 ABG F2G A2B|c3 A2B cBc ABc|d3 ABG F2G A2g|1fed ed^c d2e =f2e:|2fed ed^c d3 d2A||
+d2e f2g a3 afd|c2d e2f g3 gfe|d2e f2g a3 afd|e^cA ABc d3 d2A|
+d2e f2g a3 afd|c2d e2f g3 gfg|agf gfe fed ed^c|d^cA ABc d2e =f2e||
+
+

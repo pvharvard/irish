@@ -1,0 +1,100 @@
+Tune 1946	Setting 1946
+
+X: 1
+T: The Dairy Maid
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+AF ~F2 DFBF|AFDE FE ~E2|AF ~F2 BFAF|E2 DE FD D2|
+AF ~F2 DFBF|AFDE FEEF |G2 BG F2 AF|E2 DE FD D2||
+d3 f a3 g | fgef dB ~B2|dfaf ~g2 ag| faeg fd d2|
+dfaf ~g2 ag| fgef dB ~B2| dfaf g2 ag|faeg fd d2||
+
+
+Tune 1946	Setting 15370
+
+X: 2
+T: The Dairy Maid
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+AF~F2 AFBF|AFDE FE~E2|AF~F2 BFAF|EADE FDD2|AF~F2 AFBF|AFDE FEEF|~G3E F2AF|EADE FDD2||~d3f ~a3g|f2ef dB~B2|dcdf a2fa|bgeg fddA|dfaf g2ag|f2eg fBBA|GBdf gbag|faeg fedB||
+
+
+Tune 1946	Setting 28456
+
+X: 8
+T: The Dairy Maid
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+B|AF~F2 AFdF|AFDE FE~E2|AF~F2 DFAF|~E2DE FDD2|
+AF~F2 dF~F2|AFDE FEED|~G3E FAAF|~E2DE FDD||
+A|~d3f abag|fgef dBBA|dcdf afbf|afeg fdd2|
+dfaf g2bg|affe dBBA|df~f2 afbf|afeg fdd||
+
+
+Tune 1946	Setting 27600
+
+X: 7
+T: The Dairy Maid
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+dB||AF (3FFF DFAF|AFDE {G}FE E2|AF (3.F.F.F dFAF|EFDE FDDB|
+AF {G}(3FEF (3.A.AF dF|AFDE {G}FEEF|G3E F2FF|E2DE {G}FDD2||
+d3 e f2 Af|{a}ge{a}fe dB{d}BA|d3e (3fef af|{a}gfeg fdd2|
+dfaf g2 ge|{a}(3fef {a}fe dB{d}BA|dfaf fgbg|faeg {fg}fedB||
+
+
+Tune 1946	Setting 15373
+
+X: 5
+T: The Dairy Maid
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+B|AF~F2 AFBF|AFDE FE~E2|AF~F2 BFAF|EADE FDD2|AF~F2 AFBF|AFDE FEEF|~G3E F2AF|EADE FDD||A|~d3f ~a3g|f2ef dBBA|dcdf a2fa|bgeg fddA|dfaf g2ag|f2eg fBBA|dcdf g2ag|f2eg fdd||
+
+
+Tune 1946	Setting 26774
+
+X: 6
+T: The Dairy Maid
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|AF F2 AFBF|AFDE FE E2|AF F2 BFAF|EFDE FDD2|
+AF F2 AFBF|AFDE FE E2|G3E F2AF|EFDE FD D2||
+|d3f a3g|f2ef dBBA|dcdf a2fa|bgeg fddA|
+dfaf g2ag|f2eg fBBA|dcdf g2ag|fgeg fddB||
+
+
+Tune 1946	Setting 15372
+
+X: 4
+T: The Dairy Maid
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+The last bar of the B part should be: |afeg fedB||
+
+
+Tune 1946	Setting 15371
+
+X: 3
+T: The Dairy Maid
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dB|A~F3 D2 dB|AFDE FEEB|A~F3 dBAF|(3EFE DE FDDB|A~F3 DFBF|AFDE FEEF|[A3F3]d BdAF|(3EFE DE FD D2||dcdf abag|fgeg fdBc|dcdf adfa|bgeg fd{e}dc|dfaf g2 ag|fgeg fdBc|defg a^gab|afeg fd d2||
+
+

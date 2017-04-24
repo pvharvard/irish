@@ -1,0 +1,112 @@
+Tune 219	Setting 29602
+
+X: 9
+T: The Fermoy Lasses
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+A|(GE)E2 (BE)E2|GEGA B2(BA)|(GE)E2 (BE)E2|(FD)(AG)A2AF|
+(GE)E2 (BE)E2|(GE)(GA) (BcBA)|GABc d2dB|AFDF A2z||A|
+G2BG d2BA|G2Bd efg2|G2BG d2cB|AFDF AcBA|
+G2BG d2BA|G2Bd efg2|gage dedB|AFDF A2z |]
+
+
+Tune 219	Setting 25482
+
+X: 6
+T: The Fermoy Lasses
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:BA|GE E2 BE E2|GE E2 B3A|GE E2 BE E2|AFDF AcBA|
+GE E2 BE E2|GE E2 B3A|G3F GBdB|AFDF AcBA:||
+|:G2 BG dGBG|G2 (3Bcd efg2|G2 BG dGBG|AFDF AcBA|
+G2 BG dGBG|G2 (3Bcd efg2|afge dedB|AFDF AcBA:||
+
+
+Tune 219	Setting 12902
+
+X: 4
+T: The Fermoy Lasses
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|GE ~E2 BE ~E2|GE ~E2 BcBA|GE ~E2 BE ~E2|AFDF AcBA||GE ~E2 BE ~E2|GE ~E2 BcBA|~G3 F GBdB|AFDF AcBA||G2 BG dGBG|~G2 Bd efg2|G2 BG dGBG|AFDF AcBA||G2 BG dGBG|~G2 Bd efgf|gage dedB|AFDF AcBA|
+
+
+Tune 219	Setting 12903
+
+X: 5
+T: The Fermoy Lasses
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+GBEB GBEB|EBGB c2 BA|GBEB GBEB|EDFG A2 BA|GBEB GBEB|EBGB c2 BA|GABc dedc|ADFA c2 BA:||G2 BG dGBG|G/G/G Bd egdB|G2 BG dGBG|AFDF AcBA|G2 BG dGBG|G/G/G Bd e2 ef|gagf edBd|(e/f/g) dB AGEF:||
+
+
+Tune 219	Setting 219
+
+X: 1
+T: The Fermoy Lasses
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|GE (3EEE BE (3EEE|GE (3EEE BcBA|GE (3EEE BE (3EEE|AFDF AcBA|
+|GE (3EEE BE (3EEE|GE (3EEE BcBA|(3GGG GF GBdB|AFDF AcBA|
+|(3GGG BG dGBG|(3GGG Bd efg2|(3GGG BG dGBG|AFDF AcBA|
+|(3GGG BG dGBG|(3GGG Bd efg2|afge fded|AFDF AcBA|
+
+
+Tune 219	Setting 12900
+
+X: 2
+T: The Fermoy Lasses
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|GE ~E2 BE ~E2|GFGA B2BA|GE ~E2 BE ~E2||AFDF AcBA||GE ~E2 BE ~E2|GFGA B2BA|~G3F GBdB|AFDF AcBA||G2 BG dGBG|G2 Bd efg2|G2 BG dGBG|AFDF AcBA||G2 BG dGBG|G2 Bd efg2|afge fded|AFDF AcBA|
+
+
+Tune 219	Setting 12901
+
+X: 3
+T: The Fermoy Lasses
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+cE~E2 cAGE|~D2AD E/F/GAB|~c3B cded|~d2AG FGAB |cEE2 cAGE| ~D2AD E/F/GAB|c/d/cBd cded|~cABG AGEF ||
+
+
+Tune 219	Setting 25929
+
+X: 7
+T: The Fermoy Lasses
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:GEE2BEE2|GEE2BcBA|GEE2BEE2|AFDFAcBA|GEE2BEE2|GEE2BcBA|G2GFGBdB|AFDFAcBA:||:G2BGdGBG|G2Bdefg|G2BGdGBG|AFGFAcBA|G2BGdGBG|G2Bdefg|afgededB|AFDFAcBA:||
+
+
+Tune 219	Setting 28863
+
+X: 8
+T: The Fermoy Lasses
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+BA |: GE~E2 BE~E2 | GE~E2 B2BA | GE~E2 BE~E2 | ADED A2BA |
+GE~E2 BE~E2 | GE~E2 B2BA | G2GF GBdB | AFDF A2BA :|:
+G2 (3BAG DGBG | ~G2Bd (3efg dB | G2 (3BAG DG~G2 | AF~F2 DF~F2 |
+G2 (3BAG DGBG |1 ~G2 (3Bcd efg2 | afge dedB| AFDF A2BA :|
+|2 ~G2 (3Bcd efga | afge d2dB| A^GAB c2BA |
+
+

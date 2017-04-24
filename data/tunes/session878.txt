@@ -1,0 +1,27 @@
+Tune 878	Setting 878
+
+X: 1
+T: Da Full Rigged Ship
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+e|(e2 a) (aea)|(aea) (aba)|e2 ^f g2 g|(gag) (^f2 d)|
+(e2 a) (aea)|(aea) (aba)|g2 e e(dB)|A3 E3:|
+(efe) (edB)|(A2 B) c3|B2 G B2 G|(Bcd) E3|
+(efe) (edB)|(A2 B) (c2 d)|(efe) (dBG)|1A3 A3:|2 A3 (A2 E)||
+(EGE) (EGE)|(EGE) c3|(EGE) (E2 D)|(E2 F) (GEC)|
+(EGE) (EGE)|(EGE) (c2 d)|(efe) (dBG)|1A3 (A2 G):|2 A3 A2||
+
+
+Tune 878	Setting 14059
+
+X: 2
+T: Da Full Rigged Ship
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|:eaa egg eaa b2 a|e2 ^f g2 f eag fed|eaa egg eaa b2 a|ege {g}edB A3 A3:|||:efe dBG A2 B c2 A|~B3 ~B3 Bcd E3|efe dBG A2 B c2 d|efe dBG A3 A3:|||:~E3 ~E3 ~E3 c3|~E3 E2 D E2 F GEC|~E3 ~E3 ~E3 c2 d|efe dBG A3 A3:||
+
+

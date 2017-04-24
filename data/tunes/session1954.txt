@@ -1,0 +1,38 @@
+Tune 1954	Setting 15385
+
+X: 2
+T: The Pretty Girls Of Mayo
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DG~G2 A2de|fd~d2 fdcA|DG~G2 A2de|1 fdcA BGAF:|2 fdcA AGBd||g2ge fdde|fdge fdde|~g3e fdde|fdcA AG~G2|g2ge fdde|fdge fdd^c|defg abag|fdcA BGAF||
+
+
+Tune 1954	Setting 29463
+
+X: 3
+T: The Pretty Girls Of Mayo
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:DG G2 A2 de|fdge fdcA|DG G2 A2de| fdcA AGFA|
+DG G2 A2 de|fdge fdcA|DG G2 A2de|fdcA AGBd||
+|:g2 ag fddc|ABcA dBcA|g2 ag fdde|fdcA AG G2|
+g3e fdde|fdge fdd^c|defg abag|fdcA BGAF||
+
+
+Tune 1954	Setting 1954
+
+X: 1
+T: The Pretty Girls Of Mayo
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+GFDG ~GABd|ef (3ddd fdcA|G2FG ABde|1 fdcA GBAF:|2 fdcA BGG2||
+gage fd (3ddd|fdge fdcA|gage fdde|fdcA BGG2|
+gage fd (3ddd|fdge fdcA|defg abag|fdcA G4||
+
+

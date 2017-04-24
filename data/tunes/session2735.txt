@@ -1,0 +1,25 @@
+Tune 2735	Setting 2735
+
+X: 1
+T: Imelda Roland's
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+B2 GA BGdB |AD D/D/D AD FD |{A}GFEF G/G/GGA|BAB/c/d egfe |!
+d/e/d ce dBAG |FD AD BDAD |{A}GFEF G/G/GGA |B/c/d A=c BE E2 :|!
+e/e/e ed efga |be e/e/e bege |d/d/d dc defg |add/d/d adfd |!
+e/e/e ef edBc |d/d/d dB AFDF |{A}GFEF G/G/GGA |B/c/d A=c BE E2:|!
+
+
+Tune 2735	Setting 15971
+
+X: 2
+T: Imelda Roland's
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+B2 GA BGdB |AD (3FED AD (3FED |GFEF ~G3 A|BABd egfe |d2 ce dBAG |(3FED AD BDAD |G2 EF GFGA |(3Bcd A=c BE E2 :|e2 ed efga |be (3gfe bege |d2 dc defg |ad(3fed adfd |e2 ef edBc |dcdB AFDF |GFEF ~G3 A |B2 A=c BE E2:|
+
+

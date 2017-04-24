@@ -1,0 +1,146 @@
+Tune 559	Setting 24163
+
+X: 9
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Ador
+ed|:cB BG|EA AB|cB AG|cd ed|
+cB BG|EA A2|ed cB|A3 ed|:
+e>a a>b|a>e e>d|e>a a>b|a2 ab|
+c'2 b2|ag ed|eA A/B/c/d/|1e2 ed|:2e2 e|
+
+
+Tune 559	Setting 13531
+
+X: 6
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Edor
+|: B/A/ |GE EE/D/ | B,E E>G | FD D>E | FG A/B/B/A/ |
+GE EE/D/ | B,E E>F | GB AF | E2 E :|
+|: B/A/ |Be e>d | eB BA | Be ed | e2 e>f |
+ge fg/f/ | eB B>A | GE EF | GA B :|
+
+
+Tune 559	Setting 13532
+
+X: 7
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Bmin
+|:fe|d2B2B3B|F2B2B3B|c2A2A2c2| e4f3e|d2B2B3B|F2B2B3B|c2f2fedc|B4B2fe||a2f2a3b|a2f2a3b|a2f2d2e2|f4b3e|d2B2B3B|F2B2B3B|c2A2A2c2|e4f3e||d2B2B3B|F2B2B3B|c2f2fedc|B4B2:|
+
+
+Tune 559	Setting 13530
+
+X: 5
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Edor
+GE |: E/F/E/D/ B,E | E2 F/G/F/E/ | D>E FG | AB/A/ GE |E/F/E/D/ B,E | E>F GA | B2 GF |1 D2 GE :|2 D2 Be |||: e/f/e/d/ Be | e>d B/c/d | ef g2 | ef g2 |fg/f/ eB | BA AB | E>F GA |1 B>^A Be :|2 B/c/B/A/ GE ||
+
+
+Tune 559	Setting 13528
+
+X: 3
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Edor
+B>A |GE ED | B,E E2 | G>F ED | GA B/=c/B/A |
+GE ED | B,E E2 | B>A GF | E2 B>A |
+GE ED | B,D A,D | B,D A,D | B2 B/=c/B/A |
+GE ED | B,E E2 | B/=c/B/A GF | E2 ||
+|: B>A |Be ef | eB BA | Be df | e2 ef |
+ga/g/ fg/f/ | ed BA | BE E/F/G/A/ | B2 :|
+
+
+Tune 559	Setting 28380
+
+X: 10
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Edor
+B>A|:GE ED|B,E E>F|G>F ED|GA B/d/B/A/|GE ED|B,E E>A|B>A GF|1E2 B>A:|2E3 A||
+|:Be ef|ed BA|Be df|e3f|g2 f2|ed B>A|BE E/F/G/A/|1B3 A:|2B4||
+
+
+Tune 559	Setting 29458
+
+X: 11
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+B>A|:GE ED|B,E E>F|GF ED|GA B/d/B/A/|
+GE ED|B,E E2|B>A GF|1E2 B>A:|2E3 A||
+|:Be ef|ed BA|Be df|e3f|
+g2 f2|ed BA|BE E/F/G/A/|1B3 A:|2B4||
+
+
+Tune 559	Setting 559
+
+X: 1
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+ba|:"Em"(ge) (ed)|"Em"(Be) (ef)|"Em"g>f ed|"Em"(ga) "B"(b>a)|
+"Em"ge (ed)|"Em"(Be) e2|"B"(b>a) (gf)|1 "Em"e2 eb/a/:|2 "Em"e2 (eA)||
+"Em" Be (e>f)|"Em" ed BA|"Em" Be "Bm"df|e2 (ef)|
+"Em"gg/g/ "Bm"gg/g/|"Em"ed (BA)|"Em" B>E E/F/G/A/|1 "B" B2 (BA):|2 "B" B2B2||
+
+
+Tune 559	Setting 13529
+
+X: 4
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Edor
+GE ||: E/F/E/D/ B,E | E2 F/G/F/E/ | D>E FG | AB/A/ GE || E/F/E/D/ B,E | E>F GA | B2 GF |1 D2 GE :||2 D2 Be||: e/f/e/d/ Be | e>d B/c/d | ef g2 | ef g2 || fg/f/ eB | BA AB | E>F GA |1 B>^A Be |2 B/c/B/A/ GE ||
+
+
+Tune 559	Setting 22745
+
+X: 8
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Bdor
+|: f>e |dB B>A | FB B>c | d>c BA | de f/=g/f/e/ |
+dB B>A | FB B2 | f/=g/f/e/ dc |[1 B2 :|[2 B4 ||
+|: fb b>c' | ba fe | fb ba | b2 bc' |
+d'2 c'2 | bf f>e | fB B/c/d/e/ |[1 f4 :|[2 f2- f |]
+|: f/e/ |dB BA | FB B>c | dc BA | de f>e |
+dB BA | FB Bd | f/=g/f/e/ dc | B2- B :|
+|: B/A/ |FB- B>c | BA FE | FB Ac | B2- Bc |
+de/d/ cd/c/ | BF- F>E |[1 FB B/c/B/A/ | B2- B :|[2 FB B/c/d/e/ | f2 |]
+
+
+Tune 559	Setting 13527
+
+X: 2
+T: The Green Cottage
+R: polka
+M: 2/4
+L: 1/8
+K: Ador
+A/B/|:cB AG|EA A>B|cB AG|B/c/d e>d|cB AG|ED Dc/d/|ed cB|1A2 A>B:|2A2 Ac/d/|:ea a>b|ae ed|ea ag|a2 AB|c2 B{c}B|Ae e>d|eA A/B/c/d/|1e2 e>d:|2e2 e|
+
+

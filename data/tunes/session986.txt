@@ -1,0 +1,37 @@
+Tune 986	Setting 986
+
+X: 1
+T: The Arran Boat
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|:E3 FE2|B3 cd2|A3 FD2|A2 AF D2|
+|E3 FE2|B3 cd2|AF3 D2|1 E6:|2 E4 B2||
+|:e3 fe2|g3 fe2|d2 dB G2|A2 AF D2|
+|1 e3 fe2|g3 fe2|dB3 d2|e6:|
+|2 E3 FE2|d3 BG2|AF3 D2|E6||
+
+
+Tune 986	Setting 14186
+
+X: 2
+T: The Arran Boat
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|: E6 | B3 c d2 | A3 F D2 | A3 F D2 | E6 | B3 c d2 | A F3 D2 |1 E6 :|2 E4 B2 |||: e4 fe | g3 f e2 | d3 B G2 | A3 F D2 | e4 f e | g3 f e2 | ^d B3 d2 | e6 :|2 E6 | B3 c d2 | A F3 D2 | E6 ||
+
+
+Tune 986	Setting 14187
+
+X: 3
+T: The Arran Boat
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+1 e4 f e | g3 f e2 | ^d B3 d2 | e6 :|2 E6 | B3 c d2 | A F3 D2 | E6 ||
+
+

@@ -1,0 +1,83 @@
+Tune 1807	Setting 15248
+
+X: 5
+T: The Rainy Day
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+EAAG ~A3B|cded cBAc|BG~G2 dG~G2|Bdgd edBG|EAAG ~A3B|cBAB cdef|gbaf gedB|1 GBdB BAAG:|2 GBdB BAAd|||:eaag eaag|edef gabg|dg~g2 a2ga|bgaf gedg|eaag eaag|edef gaba|gedB GABd|1 gedB BAAd:|2 gedB BAAG||
+
+
+Tune 1807	Setting 21573
+
+X: 7
+T: The Rainy Day
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+CFFE ~F3 G | AF ~F2 AGFA | GE ~E2 BE ~E2 | GBe^d cBGE |
+CFFE ~F3 G | AF ~F2 ABc^d | eg ~g2 ecBG |1 ~E2 cB GFFE :|2 ~E2 cB GFGB|
+|: ~c3 B cffe | cB^df e2 ec | ~B3 c e3 f | ~g3 f fecB |
+cffe cffe | cB^df e2 ef | ecBG ~E3 B |1 BcBG GFGB :|2 BcBG GFGE |
+
+
+Tune 1807	Setting 15245
+
+X: 2
+T: The Rainy Day
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+G|:EAAG A3 B|c2 ed cBAc|B~G3 D~G3|B/c/d gd edB/A/G|EAAG A3 B|c2 AB cdef|~g2 af gedB|1 GBdB BAAG:|2 GBdB BA (3Bcd||eaag eaag|edef ~g3e|d~g3 b~g3|bgaf gf e2 |a3 g eaag|edef gbaf|gedB GA (3Bcd|1 gedB BA (3Bcd:|2 gedB BAAG||
+
+
+Tune 1807	Setting 15249
+
+X: 6
+T: The Rainy Day
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+AAAG AGAB|cedB cBAc|BGGG BdcA|B/c/def gdBG|AAAG AGAB|c2AB cdef|g2af gedB|GBdB BAA2:|eaag e2ag|edef gafg|agfa g2dB|GAB/c/d edBd |e2ag e2ag|edef g3f|gedB GABd|gedB BAA2:|
+
+
+Tune 1807	Setting 15246
+
+X: 3
+T: The Rainy Day
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+D|:EAAG A3G|B/c/d ed gedc|BGGF G2dG|G2dG eGdG|EAAG ~A3G|BAAA B/c/d ef|~g3e dBGA|B2dB A3:|d|eaag ~a3g|ba~a2 baag|eggf g3a|bg~g2 bgag|ea~a2 aged|B/c/d ef g2ag|eaag egdG|B2dB A3:|
+
+
+Tune 1807	Setting 15247
+
+X: 4
+T: The Rainy Day
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+EAAG ~A3B|cA~A2 eAcA|EGGF ~G3A|BGdG eGdG|EAAG ~A3B|cBAB cdef|~g3e dBGB|1 cABG A3G:|2 cABG A3d|||:eaag ~a3b|ca~a2 cabg|eggf ~g3a|bg~g2 bgag|eaag ~a3b|cbag edef|~g3e dBGB|1 cABG A3d:|2 cABG A3G||EAAG ~A3B|cded gedc|BGGF ~G2dG|~G2dG eGdG|EAAG ~A3B|cBAB cdef|~g3e dBGA|1 B2dB A3G:|2 B2dB A3d|||:eaag ~a3g|ba~a2 bgag|eggf ~g3a|bg~g2 bgag|eaag aged|(3Bcd ef g2ag|eaag egdG|1 B2dB A3d:|2 B2dB A3G||
+
+
+Tune 1807	Setting 1807
+
+X: 1
+T: The Rainy Day
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:EAAG AGAB|cedB {d}c2Ac|BGGF GFGA|Bdef gdBG|
+EAAG AGAB|{d}c2AB cdef|gbaf gedB|GBdB BAA2:|
+|:ea~a2 ea{b}ag|edef gabg|egfa gfga|bgaf gfed|
+ea~a2 ea{b}ag|edef gbaf|gedB GABd|gedB{d} BAA2:|
+
+

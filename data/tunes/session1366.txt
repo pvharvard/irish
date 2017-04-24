@@ -1,0 +1,51 @@
+Tune 1366	Setting 14719
+
+X: 3
+T: The Crib Of Perches
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A3B AGFD|(3EFG AB c2cA|(3GAG EC G,CEG|cG~G2 AGFG|~A3B AGFD|(3EFG AB c2cA|df~f2 e^cdB|AFGE FDD2:||:df~f2 af~f2|bfaf gfed|cdef ge~e2|gecA GABz|df~f2 af~f2|d2fd edcA|(3Bcd ec decB|1AFGE D4:|
+
+
+Tune 1366	Setting 28855
+
+X: 4
+T: The Crib Of Perches
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+A3B AGFD|(3EFG AB c2Bc| G2EC G,CEG|cAGc AGFG|
+A3B AGFD|(3EFG AB c2Bc|df~f2 efdB|AFGE FDD2:||:
+df~f2 af~f2|bfaf gfed|^cdef ge^ce |ge^cA ^GAB^c|
+df~f2 af~f2|defd ed^cA|(3Bcd e^c d2^cB| AFGE FDD2:|
+
+
+Tune 1366	Setting 1366
+
+X: 1
+T: The Crib Of Perches
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+FG|A2AB AGFD|(3EFG AB ~c3A|G2EC G,CEG|cG~G2 AGFG|
+A2AB AGFD|(3EFG AB c2Bc|df~f2 (3ed^c dB|AFGE D2:|
+K:D
+|:Bc|df~f2 af~f2|bfaf gfed|(3Bcd ef gece|gecA ^GABc|
+df~f2 af~f2|defd efdA|(3Bcd ec de (3dcB|AFGE D2:|
+
+
+Tune 1366	Setting 14718
+
+X: 2
+T: The Crib Of Perches
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+A3B AGFD|(3EFG AB c3A|G2EC G,CEG|cAGc AGFG|A2GB AGFD|(3EFG AB c2Ac|dfec dcAc|1BdAG FDDF:|2B2AG FDD2||:df~f2 af~f2|Adfa gfed|(3Bcd ef ge^de|be^de ^cAAc|df~f2 ~a3f|Adaf gfed|(3Bcd ge dBcB|1AFGE D3A:|2AFGE D4||
+
+

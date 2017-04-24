@@ -1,0 +1,39 @@
+Tune 2434	Setting 15768
+
+X: 2
+T: I'll Tell Me Ma
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+Ad f2 | ge f2 | fe ed/e/ | fe ed/B/ |Ad fd/f/ | ga/g/ f2 | fe ac | d2- d :|aa/a/ af | gg/g/ ge | ff/f/ fd | e/f/e/c/ BA |a>a af | g>g ge | fd e/f/e/c/ | ed d :|
+
+
+Tune 2434	Setting 21481
+
+X: 3
+T: I'll Tell Me Ma
+R: polka
+M: 2/4
+L: 1/8
+K: Gmaj
+|:DGB2 | cBB2 | BAA3/2B1/2 | AGG3/2E1/2 |
+DGB2 | cBB2 | BAA3/2B1/2 | AGG2 :|
+|:d2dB | cccA | B2BG | AFD2 |
+d2dB | ccc2 | BGAF | GGG2 :|
+
+
+Tune 2434	Setting 2434
+
+X: 1
+T: I'll Tell Me Ma
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+A|"D"Ad f>f|gf f>g|"A7"fe e>f|"D"ed d>d|
+Ad f>f|gf f>g|"A7"fe e>f|"D"ed d2|
+aa a<f|"G"gg g<e|"D"f>f fd|"A7"ec B<A|
+"D"aa a<f|"G"gg g2|"D"ff "A7"ef|"D"ed d2|
+
+

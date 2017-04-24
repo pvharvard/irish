@@ -1,0 +1,47 @@
+Tune 575	Setting 13559
+
+X: 2
+T: The Reel Of Rio
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DEGA BABd|eg~g2 agef|gede gedB|cABA GE~E2|DEGA BABd|eg~g2 agef|gede gedB|1 cABA G3E:|2 cABA G2 Bc||dg~g2 ag~g2|bgag edBd|eBBA GABd|gedB ABGE|DEGA BABd|eg~g2 agef|gede gedB|1 cABA G2Bc:|2 cABA G3E||
+
+
+Tune 575	Setting 13560
+
+X: 3
+T: The Reel Of Rio
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:BGGG AEGE|DEGA BAAA|BGGG AEGE|DEGA BGGG:|[|Bded gded|Bdgd BAAA|Bded gded|BdAc BGGG|Bded gded|Bdgd BAAA|Bded g3d|BdAc BGGG|]
+
+
+Tune 575	Setting 575
+
+X: 1
+T: The Reel Of Rio
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:GE|DEGA BABd|egg2 agef|gede gedB|AcBA GEE2|
+DEGA BABd|egg2 agef|gede gedB|AcBA G2:||
+|:Bc|dgg2 bgg2|bgag edBd|eBB2 GABd|e2dB AGEG|
+DEGA BABd|egg2 agef|gede gedB|AcBA G2:||
+
+
+Tune 575	Setting 13561
+
+X: 4
+T: The Reel Of Rio
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:DEGA BBBd|eggg ageg|gede gedd|eedB AGEG|DEGA BBBd|eggg ageg|gede gedB|ABBA G4:||:eggg aggg|aggg edBA|Bddd eddd|eedB AGEG|DEGA BBBd|eggg ageg|gede gedB|ABBA G4:|
+
+
