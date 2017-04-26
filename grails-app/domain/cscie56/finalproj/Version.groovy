@@ -1,6 +1,6 @@
 package cscie56.finalproj
 
-class Version {
+class Version implements Comparable {
     Integer setting
     Integer index
     String key
@@ -11,4 +11,28 @@ class Version {
     static constraints = {
     }
 
+    static transients = ['startAbc']
+
+    int compareTo(def other) {
+        return this.index <=> other?.index
+    }
+
+    /**
+     * Returns the first 3 measures as ABC ignoring the header
+     * @return
+     */
+    String getStartAbc() {
+        String[] splits = abc.split("\\|");
+        int len = 3;
+        StringBuilder builder = new StringBuilder();
+        if(abc.startsWith("|")) {
+            len++;
+            builder.append("|")
+        }
+        for(int i = 0; i < Math.min(len, splits.length); i++) {
+            builder.append(splits[i])
+            builder.append("|")
+        }
+        return builder.toString();
+    }
 }

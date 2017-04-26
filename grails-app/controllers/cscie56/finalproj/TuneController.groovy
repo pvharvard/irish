@@ -17,6 +17,10 @@ class TuneController {
         respond tune
     }
 
+    def test(Tune tune) {
+        respond tune
+    }
+
     def create() {
         respond new Tune(params)
     }
@@ -103,5 +107,9 @@ class TuneController {
             }
             '*'{ render status: NOT_FOUND }
         }
+    }
+
+    def search() {
+        respond Tune.list(params), model:[tuneCount: Tune.count()]
     }
 }

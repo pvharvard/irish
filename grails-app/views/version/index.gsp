@@ -4,6 +4,8 @@
         <meta name="layout" content="main" />
         <g:set var="entityName" value="${message(code: 'version.label', default: 'Version')}" />
         <title><g:message code="default.list.label" args="[entityName]" /></title>
+        <g:javascript src="abcjs_basic_midi_3.1.1-min.js"/>
+        <g:javascript src="abcjs_plugin_3.1.1-min.js" />
     </head>
     <body>
         <a href="#list-version" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
