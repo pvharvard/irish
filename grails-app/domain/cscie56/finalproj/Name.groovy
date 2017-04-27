@@ -8,7 +8,7 @@ class Name implements Comparable {
 
     }
 
-    //static belongsTo = [tune : Tune]
+    static belongsTo = [tune : Tune]
 
     int compareTo(def other) {
         return (Integer) this.index <=> (Integer) other.index

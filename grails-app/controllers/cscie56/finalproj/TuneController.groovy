@@ -110,6 +110,24 @@ class TuneController {
     }
 
     def search() {
-        respond Tune.list(params), model:[tuneCount: Tune.count()]
+        println("Reached search")
+    }
+
+    def searchByName(params) {
+        println("Reached search by name")
+        for(p in params) {
+            println 'param[' + p + '] -> ' + params[p]
+        }
+        def tunes = []
+        Name.findAll().each() {
+            if (it.name ==~ /(?i).*${params['name']}.*/) {
+                tunes.add(it)
+            }
+        }
+        tunes.each {
+            println 'tune ' + it
+        }
+
+        respond tunes, view:'search',  model:[tuneNames: tunes, tuneCount: Tune.count()]
     }
 }

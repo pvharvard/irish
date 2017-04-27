@@ -5,10 +5,13 @@
         <g:set var="entityName" value="${message(code: 'tune.label', default: 'Tune')}" />
         <title><g:message code="default.show.label" args="[entityName]" /></title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-        <%--<script src="https://use.fontawesome.com/491e16d960.js"></script>
-        <link href="abcjs-midi.css" media="all" rel="stylesheet" type="text/css" />--%>
+        <%--<script src="https://use.fontawesome.com/491e16d960.js"></script>--%>
+        <link href="abcjs-midi.css" media="all" rel="stylesheet" type="text/css" />
         <%--<g:javascript src="abcjs_basic_midi_3.1.1-min.js"/>--%>
         <g:javascript src="abcjs_plugin_3.1.2-min.js" />
+        <asset:javascript src="abcjs_plugin_3.1.2-min.js" />
+        <asset:javascript src="abcjs_basic_midi_3.1.1-min.js" />
+        <r:layoutResources/>
 
         <<%--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <link href="abcjs-midi.css" media="all" rel="stylesheet" type="text/css" />
@@ -25,13 +28,13 @@
         </style>--%>
 
 
-        <%--<script type="text/javascript">
+        <script type="text/javascript">
 
 
-            ABCJS.plugin.show_midi = false;
-            ABCJS.plugin.hide_abc = false;
+            ABCJS.plugin.show_midi = true;
+            ABCJS.plugin.hide_abc = true;
 
-        </script>--%>
+        </script>
 
 
         <%--<script type="text/javascript">
@@ -67,7 +70,7 @@
                 <h3>Alternative Names</h3>
                 <ul>
                     <g:each in="${tune.names.sort()}" var="othername">
-                        <li>${othername.name}</li>
+                        <li>${othername?.name}</li>
                     </g:each>
                 </ul>
             </div>
@@ -93,7 +96,7 @@
                     <th>ABC</th>
                 </tr>
                 <g:each in="${tune.versions.sort()}" var="version">
-                    <%--<g:render template="/version/versionRow" bean="${version}"/>--%>
+                    <g:render template="/version/versionRow" bean="${version}"/>
                 </g:each>
             </table>
 
@@ -107,30 +110,38 @@
         </div>
         <hr/>
     <div id="notation">
-        <pre>X:4<br/>${tune.versions[0].abc}</pre>
+        Other notation
+        <pre>X:4<br/>${tune?.versions[0]?.abc}</pre>
     </div>
 
-    <p id="notation2">
-        <pre>X:1\nT: Cooley\'s\nM: 4/4\nL: 1/8\nR: reel\nK: Emin\nD2|:"Em"EB{c}BA B2 EB|~B2 AB dBAG|"D"FDAD BDAD|FDAD dAFD|\n"Em"EBBA B2 EB|B2 AB defg|"D"afe^c dBAF|1"Em"DEFD E2 D2:|2"Em"DEFD E2 gf||\n|:"Em"eB B2 efge|eB B2 gedB|"D"A2 FA DAFA|A2 FA defg|\n"Em"eB B2 eBgB|eB B2 defg|"D"afe^c dBAF|1"Em"DEFD E2 gf:|2"Em"DEFD E4|]\n</pre>
+
+    </div>
+
+    <div id="print-friendly">
+        X: 2
+        T: Cooley's
+        M: 4/4
+        L: 1/8
+        R: reel
+        K: Emin
+        D2|:"Em"EB{c}BA B2 EB|~B2 AB dBAG|"D"FDAD BDAD|
+    </div>
+
+
+   <p id="notation2">
+
+        ${raw('X:3\nT: Cooley\'s\nM: 4/4\nL: 1/8\nR: reel\nK: Emin\nD2|:\"Em\"EB{c}BA B2 EB|~B2 AB dBAG|\"D\"FDAD BDAD|FDAD dAFD|\n\"Em\"EBBA B2 EB|B2 AB defg|\"D\"afe^c dBAF|1\"Em\"DEFD E2 D2:|2"Em"DEFD E2 gf||\n|:\"Em\"eB B2 efge|eB B2 gedB|\"D\"A2 FA DAFA|A2 FA defg|\n\"Em\"eB B2 eBgB|eB B2 defg|\"D\"afe^c dBAF|1\"Em\"DEFD E2 gf:|2\"Em\"DEFD E4|]\n'.replaceAll('\n','<br/>'))}
+
     </p>
-    <div id="music">
 
-    </div>
-    <div id="midi">
 
-    </div>
-    <div id="warnings">
-
-    </div>
-    <p id="try print friendly">
-
-        X: 1<br/>
-        T: Cooley\'s<br/>
-        M: 4/4<br/>
+    <p id="print-friendly">
+        X: 3<br/>
+        M: 3/4<br/>
         L: 1/8<br/>
-        R: reelK: Emin<br/>
-        D2|:"Em"EB{c}BA B2 EB|~B2 AB dBAG|"D"FDAD BDAD|<br/>
-
+        K: Emin<br/>
+        D2|:"Em"EB{c}BA B2 EB|~B2 AB dBAG|<br/>
+        "D"FDAD BDAD|
     </p>
 
     </body>

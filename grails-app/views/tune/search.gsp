@@ -6,7 +6,7 @@
         <title>Tune Search</title>
     </head>
     <body>
-        <a href="#edit-tune" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
+        <%--<a href="#edit-tune" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>--%>
         <div class="nav" role="navigation">
             <ul>
                 <li><a class="home" href="${createLink(uri: '/')}"><g:message code="default.home.label"/></a></li>
@@ -19,26 +19,17 @@
             <g:if test="${flash.message}">
                 <div class="message" role="status">${flash.message}</div>
             </g:if>
-            <%--<g:hasErrors bean="${this.tune}">
-            <ul class="errors" role="alert">
-                <g:eachError bean="${this.tune}" var="error">
-                <li <g:if test="${error in org.springframework.validation.FieldError}">data-field-id="${error.field}"</g:if>><g:message error="${error}"/></li>
-                </g:eachError>
-            </ul>
-            </g:hasErrors>--%>
-            <g:form name='searchForm', id="searchIdForm" action="search">
-                <g:hiddenField name="version" value="${this.tune?.version}" />
-                <%--<fieldset class="form">
-                    <f:all bean="tune"/>
-                </fieldset>--%>
-                <%--<fieldset class="buttons">
-                    <input class="save" type="submit" value="${message(code: 'default.button.update.label', default: 'Update')}" />
-                </fieldset>--%>
-                <g:textField name="myField" value="${myValue}" />
-                <g:submitButton name="update" value="Update" />
-                <g:select name="genre" from="['','Jig','Reel','Waltz','Slide','Slip-Jig']" value="0" />
-                <g:select name="beat" from="['','6/8','4/4','3/4','Other']" value="0"  />
+
+            <g:form name='searchForm', id="searchIdForm" action="searchByName">
+                Name:   <g:textField name="name" value="" size="50" />
+                Genre:  <g:select name="genre" from="['','Jig','Hornpipe','Polka','Reel','Slide','Slip-Jig','Waltz']" value="0" />
+                Rhythm: <g:select name="beat" from="['','2/2','3/4','4/4','6/8','Other']" value="0"  />
+                <g:submitButton name="update" value="Search" />
             </g:form>
+
+            <g:each var="tuneName" in="${tuneNames}">
+                <li>${tuneName.tune.primaryName}</li>
+            </g:each>
         </div>
     </body>
 </html>
