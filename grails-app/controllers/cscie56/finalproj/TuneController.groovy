@@ -6,6 +6,8 @@ import grails.transaction.Transactional
 @Transactional(readOnly = true)
 class TuneController {
 
+    def searchByNameService
+
     static allowedMethods = [save: "POST", update: "PUT", delete: "DELETE"]
 
     def index(Integer max) {
@@ -129,5 +131,18 @@ class TuneController {
         }
 
         respond tunes, view:'search',  model:[tuneNames: tunes, tuneCount: Tune.count()]
+    }
+
+    def searchByNameGenre(params) {
+        for(p in params.keySet()) {
+            println 'param[' + p + '] -> ' + params[p]
+        }
+        def nameSearch  = params['name'] ?: ""
+        def genreSearch = params['genre'] ?: ""
+        def results = searchByNameService.findTunes(nameSearch, genreSearch)
+        results.each {
+            println('Result ' + it)
+        }
+        respond results, view:'search', model:[results: results, nameSearch:nameSearch, genreSearch:genreSearch]
     }
 }

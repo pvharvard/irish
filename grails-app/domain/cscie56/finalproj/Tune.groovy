@@ -21,6 +21,8 @@ class Tune {
         versions nullable : true
     }
 
+    static belongsTo = Tune
+
     static hasMany = [names : Name, versions : Version, setMate : SetMate, tuneMeasLoc : TuneMeasureLoc]
 
 }

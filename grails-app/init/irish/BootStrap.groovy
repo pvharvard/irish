@@ -117,6 +117,54 @@ class BootStrap {
         saveObject(tune8)
 
 
+        name27a.tune = [tune27]
+        saveObject(name27a)
+        name27b.tune = [tune27]
+        saveObject(name27b)
+        name27c.tune = [tune27]
+        saveObject(name27c)
+        name27d.tune = [tune27]
+        saveObject(name27d)
+        name27e.tune = [tune27]
+        saveObject(name27e)
+
+
+        name55a.tune = [tune55]
+        saveObject(name55a)
+        name55b.tune = [tune55]
+        saveObject(name55b)
+        name55c.tune = [tune55]
+        saveObject(name55c)
+        name55d.tune = [tune55]
+        saveObject(name55d)
+        name55e.tune = [tune55]
+        saveObject(name55e)
+
+
+        name8a.tune = [tune8]
+        saveObject(name8a)
+        name8b.tune = [tune8]
+        saveObject(name8b)
+        name8c.tune = [tune8]
+        saveObject(name8c)
+        name8d.tune = [tune8]
+        saveObject(name8d)
+        name8e.tune = [tune8]
+        saveObject(name8e)
+        name8f.tune = [tune8]
+        saveObject(name8f)
+        name8g.tune = [tune8]
+        saveObject(name8g)
+        name8h.tune = [tune8]
+        saveObject(name8h)
+        name8i.tune = [tune8]
+        saveObject(name8i)
+        name8j.tune = [tune8]
+        saveObject(name8j)
+        name8k.tune = [tune8]
+        saveObject(name8k)
+
+
     }
 
 
