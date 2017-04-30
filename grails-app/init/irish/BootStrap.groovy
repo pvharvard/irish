@@ -1,5 +1,8 @@
 package irish
 
+import com.testapp.Role
+import com.testapp.User
+import com.testapp.UserRole
 import cscie56.finalproj.Measure
 import cscie56.finalproj.Name
 import cscie56.finalproj.Tune
@@ -10,6 +13,7 @@ class BootStrap {
 
     def init = { servletContext ->
         initTunes()
+        initUserRole()
 
     }
     def destroy = {
@@ -163,8 +167,26 @@ class BootStrap {
         saveObject(name8j)
         name8k.tune = [tune8]
         saveObject(name8k)
+    }
 
+    def initUserRole() {
+        User admin = new User(username: 'admin', password: 'admin')
+        saveObject(admin)
+        User user = new User(username: 'user', password: 'user')
+        saveObject(user)
 
+        User peter = new User(username: 'peter', password: 'peter')
+        saveObject(peter)
+
+        Role adminRole = new Role(authority: Role.ROLE_ADMIN)
+        saveObject(adminRole)
+        Role userRole  = new Role(authority: Role.ROLE_USER)
+        saveObject(userRole)
+
+        UserRole.create(admin, adminRole)
+        UserRole.create(admin, userRole)
+        UserRole.create(user,  userRole)
+        UserRole.create(peter,  userRole)
     }
 
 

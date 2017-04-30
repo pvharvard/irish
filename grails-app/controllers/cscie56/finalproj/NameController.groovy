@@ -1,18 +1,24 @@
 package cscie56.finalproj
 
+import com.testapp.Role
+import grails.plugin.springsecurity.annotation.Secured
+
 import static org.springframework.http.HttpStatus.*
 import grails.transaction.Transactional
 
+@Secured([Role.ROLE_ADMIN])
 @Transactional(readOnly = true)
 class NameController {
 
     static allowedMethods = [save: "POST", update: "PUT", delete: "DELETE"]
 
+    @Secured([Role.ROLE_ANONYMOUS])
     def index(Integer max) {
         params.max = Math.min(max ?: 10, 100)
         respond Name.list(params), model:[nameCount: Name.count()]
     }
 
+    @Secured([Role.ROLE_ANONYMOUS])
     def show(Name name) {
         respond name
     }
@@ -95,6 +101,7 @@ class NameController {
         }
     }
 
+    @Secured([Role.ROLE_ANONYMOUS])
     protected void notFound() {
         request.withFormat {
             form multipartForm {

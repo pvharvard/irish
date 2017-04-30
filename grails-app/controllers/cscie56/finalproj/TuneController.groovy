@@ -1,8 +1,13 @@
 package cscie56.finalproj
 
+import com.testapp.Role
+
 import static org.springframework.http.HttpStatus.*
 import grails.transaction.Transactional
 
+import grails.plugin.springsecurity.annotation.Secured
+
+@Secured([Role.ROLE_ANONYMOUS])
 @Transactional(readOnly = true)
 class TuneController {
 
@@ -23,10 +28,12 @@ class TuneController {
         respond tune
     }
 
+    @Secured([Role.ROLE_ADMIN])
     def create() {
         respond new Tune(params)
     }
 
+    @Secured([Role.ROLE_ADMIN])
     @Transactional
     def save(Tune tune) {
         if (tune == null) {
@@ -52,10 +59,12 @@ class TuneController {
         }
     }
 
+    @Secured([Role.ROLE_ADMIN])
     def edit(Tune tune) {
         respond tune
     }
 
+    @Secured([Role.ROLE_ADMIN])
     @Transactional
     def update(Tune tune) {
         if (tune == null) {
@@ -81,6 +90,7 @@ class TuneController {
         }
     }
 
+    @Secured([Role.ROLE_ADMIN])
     @Transactional
     def delete(Tune tune) {
 
@@ -156,7 +166,7 @@ class TuneController {
         def tune  = params['tune']
         def abcOption   = params['abcOption']
         println("versionAbcSet: TuneID" + tuneId + "\ttune " + tune + "\tabcOption " + abcOption)
-        respond tuneId, view:'show', model:[abcOption: abcOption, tuneId:tuneId]
+        respond tune, view:'show', model:[abcOption: abcOption, tuneId:tuneId]
     }
 
 }

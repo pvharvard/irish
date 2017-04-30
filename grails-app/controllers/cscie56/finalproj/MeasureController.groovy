@@ -1,8 +1,12 @@
 package cscie56.finalproj
 
+import com.testapp.Role
+import grails.plugin.springsecurity.annotation.Secured
+
 import static org.springframework.http.HttpStatus.*
 import grails.transaction.Transactional
 
+@Secured([Role.ROLE_ANONYMOUS])  // not implemented so keep anonymous for now
 @Transactional(readOnly = true)
 class MeasureController {
 

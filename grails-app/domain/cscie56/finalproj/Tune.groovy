@@ -1,5 +1,7 @@
 package cscie56.finalproj
 
+import com.testapp.Role
+
 class Tune {
     enum Dance {JIG, REEL, HORNPIPE, WALTZ, POLKA, SLIDE, SLIP_JIG }
 
