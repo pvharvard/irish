@@ -3,6 +3,7 @@
 <html>
     <head>
 
+
         <meta name="layout" content="main" />
         <g:set var="entityName" value="${message(code: 'tune.label', default: 'Tune')}" />
         <title><g:message code="default.show.label" args="[entityName]" /></title>
@@ -73,16 +74,11 @@
     .search-gap { margin-bottom: 0.4cm; }
     </style>
     <p class="top-gap" ></p>
-    <ul>
-        <li>tune  ${tune==null}</li>
-        <li>tuneId  ${tuneId}</li>
-        <li>abcOption ${abcOption}</li>
-    </ul>
-    <g:if test="${tune==null}" >
-        Retrieving value from tuneId
-        <g:set var="tune" value="${cscie56.finalproj.Tune.findById(Integer.parseInt(tuneId))}"/>
-    </g:if>
 
+    <h2>Analysis</h2>
+    <p class="top-gap" ></p>
+    <p class="top-gap" ></p>
+    <h3>Coming soon...</h3>
 
     <%--<a href="#show-tune" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
         <div class="nav" role="navigation">
@@ -94,82 +90,7 @@
         </div>--%>
 
 
-    <div id="show-tune" class="content scaffold-show" role="main">
-            <%--<h1><g:message code="default.show.label" args="[entityName]" /></h1>--%>
-            <h2>
-                ${tune.primaryName}
-                <g:if test="! ${tune.dance}.isEmpty()">
-                    (<g:danceTag dance="${tune.dance}"/>)
-                </g:if>
-            </h2>
 
-            <g:if test="${flash.message}">
-                <div class="message" role="status">${flash.message}</div>
-            </g:if>
-
-            <div class="container">
-            <div id="column1" class="col-sm-6">
-                <h3>Alternative Names</h3>
-                <ul>
-                    <g:each in="${tune.names.sort()}" var="othername">
-                        <li>${othername?.name}</li>
-                    </g:each>
-                </ul>
-            </div>
-
-            <div id="column2" class="col-sm-6">
-                <h3>Characteristics
-                </h3>
-                <ul>
-                    <li>#Tunebooks:  ${tune.numTunebooks}</li>
-                    <li>#Recordings: ${tune.numRecordings}</li>
-                    <li><g:link url="https://thesession.org/tunes/${tune.tuneId}">Link to the Session.org</g:link></li>
-                </ul>
-            </div>
-
-            <div id="column3" class="col-sm-6">
-                <g:form name='displayForm', id="displayForm" action="versionAbcSet">
-                    ABC Options: <g:select name="abcOption" from="['None','First Bars ABC','First Bars Music', 'Full ABC', 'Full Music']" value="${abcOption}"/>
-                    <g:hiddenField name="tuneId" value="${tune.id}" />
-                    <g:hiddenField name="tune" value="${tune}" />
-                    <g:submitButton name="update" value="Display" />
-                </g:form>
-            </div>
-            </div>
-
-            <table class="table table-striped table-bordered table-hover">
-                <tr>
-                    <%--<th class="hidden-xs">Index</th>--%>
-                    <th class="hidden-xs">Session Link</th>
-                    <th>Key</th>
-                    <th class="hidden-xs">Meter</th>
-                    <th class="hidden-xs">Unit Length</th>
-                    <g:if test="${abcOption!= null && ! abcOption.equals('None')}">
-                        <th class="hidden-xs">Music</th>
-                    </g:if>
-                    <th></th>
-                </tr>
-                <g:each in="${tune.versions.sort()}" var="version">
-                    <g:render template="/version/versionRow" bean="${version}"/>
-                </g:each>
-            </table>
-
-            <%--<f:display bean="tune" />--%>
-            <%--<g:form resource="${this.tune}" method="DELETE">
-                <fieldset class="buttons">
-                    <g:link class="edit" action="edit" resource="${this.tune}"><g:message code="default.button.edit.label" default="Edit" /></g:link>
-                    <input class="delete" type="submit" value="${message(code: 'default.button.delete.label', default: 'Delete')}" onclick="return confirm('${message(code: 'default.button.delete.confirm.message', default: 'Are you sure?')}');" />
-                </fieldset>
-            </g:form>--%>
-        </div>
-        <hr/>
-    <%--<div id="notation">
-        Other notation
-        <pre>X:4<br/>${tune?.versions[0]?.abc}</pre>
-    </div>--%>
-
-
-    </div>
 
     </body>
 </html>

@@ -65,21 +65,22 @@
                 <div class="message" role="status">${flash.message}</div>
             </g:if>
 
-            <%--console.log('Search values ' + abcoption ?: 'x')
+            <%--console.log('Search values ' + abcoption ?: 'x')--%>
             <div id="varnames">
                 <ul>
                     <li>abcOption: ${abcOption}</li>
                     <li>nameSearch: ${nameSearch}</li>
                     <li>genreSEarch: ${genreSearch}</li>
+                    <li>results: ${results?.size()}</li>
 
                 </ul>
-            </div>--%>
+            </div>
 
             <g:form name='searchForm', id="searchIdForm" action="searchByNameGenre">
                 Name:   <g:textField name="name" size="50" value="${nameSearch}"/>
                 Genre:  <g:select name="genre" from="['','Jig','Hornpipe','Polka','Reel','Slide','Slip-Jig','Waltz']" value="${genreSearch}"/>
             <%--Rhythm: <g:select name="beat" from="['','2/2','3/4','4/4','6/8','Other']" value="0"  />--%>
-                ABC Options: <g:select name="abcOption2" from="['None','First Bars ABC','First Bars Music', 'Full ABC', 'Full Music']" value="${abcOption}"/>
+                ABC Options: <g:select name="abcOption" from="['None','First Bars ABC','First Bars Music', 'Full ABC', 'Full Music']" value="${abcOption}"/>
                 <g:submitButton name="update" value="Search" />
             </g:form>
 
@@ -100,7 +101,7 @@
                         <th><g:link action="index" params="[sort:'dance', order: 'asc']">Dance</g:link></th>
                         <th class="hidden-xs"># Names</th>
                         <th class="hidden-xs"># Versions</th>
-                        <g:if test="{! abcOption.equals('None')}">
+                        <g:if test="${abcOption != null && ! abcOption.equals('None')}">
                             <th>Music</th>
                         </g:if>
                     </tr>

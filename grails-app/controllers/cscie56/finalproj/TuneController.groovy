@@ -146,7 +146,7 @@ class TuneController {
 
     def searchByNameGenre(params) {
         for(p in params.keySet()) {
-            println 'param[' + p + '] -> ' + params[p]
+            println 'searchByNameGenre param[' + p + '] -> ' + params[p]
         }
         def nameSearch  = params['name'] ?: ""
         def genreSearch = params['genre'] ?: ""
@@ -160,13 +160,17 @@ class TuneController {
 
     def versionAbcSet(params) {
         for(p in params.keySet()) {
-            println 'param[' + p + '] -> ' + params[p]
+            println 'versionAbcSet param[' + p + '] -> ' + params[p]
         }
         def tuneId  = params['tuneId']
         def tune  = params['tune']
         def abcOption   = params['abcOption']
         println("versionAbcSet: TuneID" + tuneId + "\ttune " + tune + "\tabcOption " + abcOption)
         respond tune, view:'show', model:[abcOption: abcOption, tuneId:tuneId]
+    }
+
+    def analysis() {
+        respond Tune.list(params), view:'analysis'
     }
 
 }
