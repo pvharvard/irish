@@ -1,6 +1,17 @@
+<%@ page import="cscie56.finalproj.Tune" %>
 <!DOCTYPE html>
 <html>
     <head>
+        <ul>
+            <li>tune  ${tune==null}</li>
+            <li>tuneId  ${tuneId}</li>
+            <li>abcOption ${abcOption}</li>
+        </ul>
+        <g:if test="${tune==null}" >
+            Retrieving value from tuneId
+            <g:set var="tune" value="${cscie56.finalproj.Tune.findById(Integer.parseInt(tuneId))}"/>
+        </g:if>
+
         <meta name="layout" content="main" />
         <g:set var="entityName" value="${message(code: 'tune.label', default: 'Tune')}" />
         <title><g:message code="default.show.label" args="[entityName]" /></title>
@@ -52,7 +63,9 @@
                 <li><g:link class="create" action="create"><g:message code="default.new.label" args="[entityName]" /></g:link></li>
             </ul>
         </div>
-        <div id="show-tune" class="content scaffold-show" role="main">
+
+
+    <div id="show-tune" class="content scaffold-show" role="main">
             <%--<h1><g:message code="default.show.label" args="[entityName]" /></h1>--%>
             <h1>
                 ${tune.primaryName}
@@ -84,16 +97,28 @@
                     <li><g:link url="https://thesession.org/tunes/${tune.tuneId}">Link to the Session.org</g:link></li>
                 </ul>
             </div>
+
+            <div id="column3" class="col-sm-6">
+                <g:form name='displayForm', id="displayForm" action="versionAbcSet">
+                    ABC Options: <g:select name="abcOption" from="['None','First Bars ABC','First Bars Music', 'Full ABC', 'Full Music']" value="${abcOption}"/>
+                    <g:hiddenField name="tuneId" value="${tune.id}" />
+                    <g:hiddenField name="tune" value="${tune}" />
+                    <g:submitButton name="update" value="Display" />
+                </g:form>
+            </div>
             </div>
 
             <table class="table table-striped table-bordered table-hover">
                 <tr>
-                    <th class="hidden-xs">Index</th>
+                    <%--<th class="hidden-xs">Index</th>--%>
+                    <th class="hidden-xs">Session Link</th>
                     <th>Key</th>
                     <th class="hidden-xs">Meter</th>
                     <th class="hidden-xs">Unit Length</th>
-                    <th>ABC Start</th>
-                    <th>ABC</th>
+                    <g:if test="${ ! abcOption.equals('None')}">
+                        <th class="hidden-xs">Music</th>
+                    </g:if>
+                    <th></th>
                 </tr>
                 <g:each in="${tune.versions.sort()}" var="version">
                     <g:render template="/version/versionRow" bean="${version}"/>
@@ -109,40 +134,13 @@
             </g:form>
         </div>
         <hr/>
-    <div id="notation">
+    <%--<div id="notation">
         Other notation
         <pre>X:4<br/>${tune?.versions[0]?.abc}</pre>
-    </div>
+    </div>--%>
 
 
     </div>
-
-    <div id="print-friendly">
-        X: 2
-        T: Cooley's
-        M: 4/4
-        L: 1/8
-        R: reel
-        K: Emin
-        D2|:"Em"EB{c}BA B2 EB|~B2 AB dBAG|"D"FDAD BDAD|
-    </div>
-
-
-   <p id="notation2">
-
-        ${raw('X:3\nT: Cooley\'s\nM: 4/4\nL: 1/8\nR: reel\nK: Emin\nD2|:\"Em\"EB{c}BA B2 EB|~B2 AB dBAG|\"D\"FDAD BDAD|FDAD dAFD|\n\"Em\"EBBA B2 EB|B2 AB defg|\"D\"afe^c dBAF|1\"Em\"DEFD E2 D2:|2"Em"DEFD E2 gf||\n|:\"Em\"eB B2 efge|eB B2 gedB|\"D\"A2 FA DAFA|A2 FA defg|\n\"Em\"eB B2 eBgB|eB B2 defg|\"D\"afe^c dBAF|1\"Em\"DEFD E2 gf:|2\"Em\"DEFD E4|]\n'.replaceAll('\n','<br/>'))}
-
-    </p>
-
-
-    <p id="print-friendly">
-        X: 3<br/>
-        M: 3/4<br/>
-        L: 1/8<br/>
-        K: Emin<br/>
-        D2|:"Em"EB{c}BA B2 EB|~B2 AB dBAG|<br/>
-        "D"FDAD BDAD|
-    </p>
 
     </body>
 </html>
