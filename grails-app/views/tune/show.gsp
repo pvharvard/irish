@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <ul>
+        <%--<ul>
             <li>tune  ${tune==null}</li>
             <li>tuneId  ${tuneId}</li>
             <li>abcOption ${abcOption}</li>
@@ -10,7 +10,7 @@
         <g:if test="${tune==null}" >
             Retrieving value from tuneId
             <g:set var="tune" value="${cscie56.finalproj.Tune.findById(Integer.parseInt(tuneId))}"/>
-        </g:if>
+        </g:if>--%>
 
         <meta name="layout" content="main" />
         <g:set var="entityName" value="${message(code: 'tune.label', default: 'Tune')}" />
@@ -41,7 +41,6 @@
 
         <script type="text/javascript">
 
-
             ABCJS.plugin.show_midi = true;
             ABCJS.plugin.hide_abc = true;
 
@@ -55,24 +54,54 @@
         </script>--%>
     </head>
     <body>
-        <a href="#show-tune" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
+
+    <nav class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">GT Session Compassion</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="/tune/index">Top Tunes</a></li>
+                    <li class="active"><a href="/tune/search">Search</a></li>
+                    <li class="active"><a href="/tune/analysis">Analysis</a></li>
+                    <%--<li><a href="http://getbootstrap.com/examples/offcanvas/#about">About</a></li>
+                    <li><a href="http://getbootstrap.com/examples/offcanvas/#contact">Contact</a></li>--%>
+                </ul>
+            </div><!-- /.nav-collapse -->
+        </div><!-- /.container -->
+    </nav><!-- /.navbar -->
+    <style>
+    .top-gap { margin-bottom: 1.5cm; }
+    .search-gap { margin-bottom: 0.4cm; }
+    </style>
+    <p class="top-gap" ></p>
+
+
+    <%--<a href="#show-tune" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
         <div class="nav" role="navigation">
             <ul>
                 <li><a class="home" href="${createLink(uri: '/')}"><g:message code="default.home.label"/></a></li>
                 <li><g:link class="list" action="index"><g:message code="default.list.label" args="[entityName]" /></g:link></li>
                 <li><g:link class="create" action="create"><g:message code="default.new.label" args="[entityName]" /></g:link></li>
             </ul>
-        </div>
+        </div>--%>
 
 
     <div id="show-tune" class="content scaffold-show" role="main">
             <%--<h1><g:message code="default.show.label" args="[entityName]" /></h1>--%>
-            <h1>
+            <h2>
                 ${tune.primaryName}
                 <g:if test="! ${tune.dance}.isEmpty()">
                     (<g:danceTag dance="${tune.dance}"/>)
                 </g:if>
-            </h1>
+            </h2>
 
             <g:if test="${flash.message}">
                 <div class="message" role="status">${flash.message}</div>
@@ -126,12 +155,12 @@
             </table>
 
             <%--<f:display bean="tune" />--%>
-            <g:form resource="${this.tune}" method="DELETE">
+            <%--<g:form resource="${this.tune}" method="DELETE">
                 <fieldset class="buttons">
                     <g:link class="edit" action="edit" resource="${this.tune}"><g:message code="default.button.edit.label" default="Edit" /></g:link>
                     <input class="delete" type="submit" value="${message(code: 'default.button.delete.label', default: 'Delete')}" onclick="return confirm('${message(code: 'default.button.delete.confirm.message', default: 'Are you sure?')}');" />
                 </fieldset>
-            </g:form>
+            </g:form>--%>
         </div>
         <hr/>
     <%--<div id="notation">

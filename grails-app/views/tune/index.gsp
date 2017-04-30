@@ -7,13 +7,41 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
     </head>
     <body>
-        <%--<a href="#list-tune" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
-        <div class="nav" role="navigation">
-            <ul>
-                <li><a class="home" href="${createLink(uri: '/')}"><g:message code="default.home.label"/></a></li>
-                <li><g:link class="create" action="create"><g:message code="default.new.label" args="[entityName]" /></g:link></li>
-            </ul>
-        </div>--%>
+    <nav class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">GT Session Compassion</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="/tune/index">Top Tunes</a></li>
+                    <li class="active"><a href="/tune/search">Search</a></li>
+                    <li class="active"><a href="/tune/analysis">Analysis</a></li>
+                    <%--<li><a href="http://getbootstrap.com/examples/offcanvas/#about">About</a></li>
+                    <li><a href="http://getbootstrap.com/examples/offcanvas/#contact">Contact</a></li>--%>
+                </ul>
+            </div><!-- /.nav-collapse -->
+        </div><!-- /.container -->
+    </nav><!-- /.navbar -->
+    <style>
+    .top-gap { margin-bottom: 1.5cm; }
+    .search-gap { margin-bottom: 0.4cm; }
+    </style>
+    <p class="top-gap" ></p>
+
+    <%--<a href="#list-tune" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
+    <div class="nav" role="navigation">
+        <ul>
+            <li><a class="home" href="${createLink(uri: '/')}"><g:message code="default.home.label"/></a></li>
+            <li><g:link class="create" action="create"><g:message code="default.new.label" args="[entityName]" /></g:link></li>
+        </ul>
+    </div>--%>
         <div id="list-tune" class="content scaffold-list" role="main">
             <h1>Tunes Ranked by Popularity</h1>
             <g:if test="${flash.message}">

@@ -25,6 +25,7 @@ class Version implements Comparable {
         String[] splits = abc.split("\\|");
         int len = 3;
         StringBuilder builder = new StringBuilder();
+        //builder.append('X:1\n')
         if(abc.startsWith("|")) {
             len++;
             builder.append("|")
@@ -33,6 +34,7 @@ class Version implements Comparable {
             builder.append(splits[i])
             builder.append("|")
         }
+        builder.append('\n')
         return builder.toString();
     }
 }

@@ -35,28 +35,32 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Top Tunes</a></li>
-                    <li class="active"><a href="#">Search</a></li>
-                    <li class="active"><a href="#">Analysis</a></li>
+                    <li class="active"><a href="/tune/index">Top Tunes</a></li>
+                    <li class="active"><a href="/tune/search">Search</a></li>
+                    <li class="active"><a href="/tune/analysis">Analysis</a></li>
                     <%--<li><a href="http://getbootstrap.com/examples/offcanvas/#about">About</a></li>
                     <li><a href="http://getbootstrap.com/examples/offcanvas/#contact">Contact</a></li>--%>
                 </ul>
             </div><!-- /.nav-collapse -->
         </div><!-- /.container -->
     </nav><!-- /.navbar -->
-    <span/>
+    <style>
+    .top-gap { margin-bottom: 1.5cm; }
+    .search-gap { margin-bottom: 0.4cm; }
+    </style>
+    <p class="top-gap" ></p>
     <div class="container">
         <%--<a href="#edit-tune" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>--%>
-        <div class="nav" role="navigation">
+        <%--<div class="nav" role="navigation">
             <ul>
                 <li><a class="home" href="${createLink(uri: '/')}"><g:message code="default.home.label"/></a></li>
                 <li><g:link class="list" action="index"><g:message code="default.list.label" args="[entityName]" /></g:link></li>
                 <li><g:link class="create" action="create"><g:message code="default.new.label" args="[entityName]" /></g:link></li>
             </ul>
-        </div>
+        </div>--%>
 
         <div id="edit-tune" class="content scaffold-edit" role="main">
-            <h1>Tune Search By Name</h1>
+            <h2>Tune Search By Name</h2>
             <g:if test="${flash.message}">
                 <div class="message" role="status">${flash.message}</div>
             </g:if>
@@ -85,7 +89,7 @@
                 <g:submitButton name="Colors" value="Display" />
             </g:form>
             </div>--%>
-
+            <p class="search-gap"/>
             <g:if test="${results?.size() > 0}">
             <div class="container", id="resultsTable">
                 <table class="table table-striped table-bordered table-hover">

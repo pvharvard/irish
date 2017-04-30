@@ -113,6 +113,7 @@ class TuneController {
 
     def search() {
         println("Reached search")
+
     }
 
     def searchByName(params) {
@@ -139,10 +140,26 @@ class TuneController {
         }
         def nameSearch  = params['name'] ?: ""
         def genreSearch = params['genre'] ?: ""
+        def abcOption   = params['abcOption']
         def results = searchByNameService.findTunes(nameSearch, genreSearch)
         results.each {
             println('Result ' + it)
         }
-        respond results, view:'search', model:[results: results, nameSearch:nameSearch, genreSearch:genreSearch]
+        respond results, view:'search', model:[results: results, nameSearch:nameSearch, genreSearch:genreSearch, abcOption:abcOption]
     }
+
+    def versionAbcSet(params) {
+        for(p in params.keySet()) {
+            println 'param[' + p + '] -> ' + params[p]
+        }
+        def tuneId  = params['tuneId']
+        def tune  = params['tune']
+        def abcOption   = params['abcOption']
+        println("versionAbcSet: TuneID" + tuneId + "\ttune " + tune + "\tabcOption " + abcOption)
+        respond tuneId, view:'show', model:[abcOption: abcOption, tuneId:tuneId]
+    }
+
 }
+
+
+
