@@ -11,10 +11,10 @@ class NameControllerSpec extends Specification {
         assert params != null
 
        params['name'] = 'name1'
-        assert true
+       assert true
     }
 
-    void "Test the index action returns the correct model"() {
+    /*void "Test the index action returns the correct model"() {
 
         when:"The index action is executed"
             controller.index()
@@ -147,5 +147,5 @@ class NameControllerSpec extends Specification {
             Name.count() == 0
             response.redirectedUrl == '/name/index'
             flash.message != null
-    }
+    }*/
 }
