@@ -3,11 +3,7 @@ package irish
 import com.testapp.Role
 import com.testapp.User
 import com.testapp.UserRole
-import cscie56.finalproj.Measure
-import cscie56.finalproj.Name
-import cscie56.finalproj.Tune
-import cscie56.finalproj.TuneMeasureLoc
-import cscie56.finalproj.Version
+import cscie56.finalproj.*
 
 class BootStrap {
 

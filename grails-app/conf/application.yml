@@ -93,7 +93,7 @@ dataSource:
     jmxExport: true
     driverClassName: org.h2.Driver
     username: sa
-    password:
+    password: sa
 
 environments:
     development:
