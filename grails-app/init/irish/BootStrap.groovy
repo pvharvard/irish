@@ -6,16 +6,32 @@ import com.testapp.UserRole
 import cscie56.finalproj.*
 
 class BootStrap {
+    public static final String DATA_PATH = "d:/Courses/00 Web Groovy Grails CSCIE-56/final/irish/data/"
+    public static boolean USE_MINI_DATASET = false;
+    def grailsApplication
+    def nameMap = [:]
+    def versionMap = [:]
+    def tuneMap = [:]
 
     def init = { servletContext ->
-        initTunes()
-        initUserRole()
+        if(USE_MINI_DATASET) {
+            initMiniSet()
+
+        } else {
+            testMap1()
+            testMap2()
+            initNames()
+            initVersions()
+            initTunesFile()
+            initName2Tune()
+            initUserRole()
+        }
 
     }
     def destroy = {
     }
 
-    def initTunes() {
+    def initMiniSet() {
         def name27a = new Name(name: 'Drowsy Maggie', index:1)
         saveObject(name27a)
         def name27b = new Name(name: 'Drowsie Maggie', index:2)
@@ -184,6 +200,139 @@ class BootStrap {
         UserRole.create(user,  userRole)
         UserRole.create(peter,  userRole)
     }
+
+
+    def testMap1() {
+        nameMap['a'] = 1
+        nameMap['b'] = 2
+    }
+
+    def testMap2() {
+        println("NameMap a" + nameMap['a'])
+        println("NameMap b" + nameMap['b'])
+    }
+
+    def initNames() {
+        def stream = grailsApplication.getParentContext().getResource("createNames2.txt").getInputStream()
+        int lineNum = 0
+        //println("Text has " + text.size() + " lines")
+        stream.eachLine { line ->
+            String[] tokens = line.split('\t')
+            if(tokens[0].equals("name")) {
+                lineNum += 1
+                if (lineNum % 500 == 0) {
+                    println("Name[" + lineNum + "]: " + tokens[1])
+                }
+                def oneName = new Name(name:tokens[1], index:lineNum)
+                nameMap['name' + lineNum] = oneName
+                saveObject(oneName)
+            }
+        }
+
+    }
+
+
+    def initVersions() {
+        def stream = grailsApplication.getParentContext().getResource("versionBootstrap2.txt").getInputStream()
+        int lineNum = 0
+        //println("Text has " + text.size() + " lines")
+        stream.eachLine { line ->
+            String[] tokens = line.split('\t')
+            if(tokens[0].equals("version")) {
+                boolean chord = Boolean.parseBoolean(tokens[7])
+                String abc = tokens[8].replaceAll("xxx[x]*","\n")
+                Version version = new Version(setting:tokens[2], key:tokens[3], meter:tokens[4], unitLength: tokens[5], index: tokens[6], chords:chord, abc:abc)
+                if(lineNum%250 == 0) {
+                    println("Version[" + lineNum + "]: " + tokens[1])
+                }
+                versionMap[tokens[1]] = version
+                saveObject(version)
+            }
+            lineNum  += 1
+        }
+
+    }
+
+    def initTunesFile() {
+        def stream = grailsApplication.getParentContext().getResource("tuneBootstrap2.txt").getInputStream()
+        int lineNum = 0
+        println("Initializing tunes")
+        //println("Text has " + text.size() + " lines")
+        stream.eachLine { line ->
+            String[] tokens = line.split('\t')
+            if(tokens[0].equals("tune")) {
+                def tuneId = tokens[1]
+                def dance = Tune.Dance.REEL
+                if(tokens[2].equals("JIG")) {
+                    dance = Tune.Dance.JIG
+                } else if(tokens[2].equals("POLKA")) {
+                    dance = Tune.Dance.POLKA
+                } else if(tokens[2].equals("SLIP_JIG")) {
+                    dance = Tune.Dance.SLIP_JIG
+                } else if(tokens[2].equals("WALTZ")) {
+                    dance = Tune.Dance.WALTZ
+                } else if(tokens[2].equals("SLIDE")) {
+                    dance = Tune.Dance.SLIP_JIG
+                } else if(tokens[2].equals("HORNPIPE")) {
+                    dance = Tune.Dance.HORNPIPE
+                }
+                def versionList = []
+                tokens[6].split("___").each {
+                    versionList.add(versionMap[it])
+                }
+                def nameList = []
+                tokens[7].split("___").each {
+                    nameList.add(nameMap[it])
+                }
+
+                def oneTune = new Tune(tuneId:tuneId, dance:dance, primaryName:tokens[3], numRecordings:Integer.parseInt(tokens[4]), numTunebooks: Integer.parseInt(tokens[5]),
+                        versions:versionList, names:nameList)
+                tuneMap['tune' + tuneId] = oneTune
+                if(lineNum % 50 == 0) {
+                    println('Tune [' + lineNum + ']\t' + tuneId + ' ' + tokens[3])
+                }
+
+                saveObject(oneTune)
+                lineNum += 1
+            }
+        }
+
+    }
+
+    def initName2Tune() {
+        def stream = grailsApplication.getParentContext().getResource("name2tune2.txt").getInputStream()
+        int lineNum = 0
+        stream.eachLine { line ->
+            if(lineNum%1 == 10) {
+                println("name2tune " + lineNum)
+            }
+            String[] tokens = line.split('\t')
+            if(tokens[0].equals("name2tune")) {
+                def tunes = []
+                for(int tokeni = 2; tokeni < tokens.length; tokeni++) {
+                    //println('\tTuneMap of ' + tokens[tokeni])
+                    if( tuneMap.containsKey(tokens[tokeni]) ) {
+                        //println('\t' + tuneMap[tokens[tokeni]])
+                        tunes.add(tuneMap[tokens[tokeni]])
+                    } else {
+                        println('TuneMap doesnt have key ' + tokens[tokeni])
+                    }
+                }
+                //println('Accessing nameMap ' + tokens[1])
+                if(nameMap.containsKey('name' + tokens[1])) {
+                    def oneName = nameMap['name' + tokens[1]]
+                    oneName.tune = tunes
+                    saveObject(oneName)
+                } else {
+                    println("NameMap doesn't have entry for name" + tokens[1])
+                }
+            }
+            lineNum  += 1
+        }
+
+    }
+
+
 
 
     def saveObject(object) {

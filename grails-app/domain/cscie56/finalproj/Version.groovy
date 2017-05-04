@@ -9,6 +9,7 @@ class Version implements Comparable {
     String abc
 
     static constraints = {
+        abc(maxSize:2000)
     }
 
     static transients = ['startAbc']
