@@ -7,7 +7,7 @@ import cscie56.finalproj.*
 
 class BootStrap {
     public static final String DATA_PATH = "d:/Courses/00 Web Groovy Grails CSCIE-56/final/irish/data/"
-    public static boolean USE_MINI_DATASET = false;
+    public static boolean USE_MINI_DATASET = true;
     def grailsApplication
     def nameMap = [:]
     def versionMap = [:]
@@ -16,13 +16,14 @@ class BootStrap {
     def init = { servletContext ->
         if(USE_MINI_DATASET) {
             initMiniSet()
-
+            initUserRole()
         } else {
             testMap1()
             testMap2()
             initNames()
             initVersions()
             initTunesFile()
+            versionMap = [:]
             initName2Tune()
             initUserRole()
         }
@@ -77,6 +78,9 @@ class BootStrap {
         def name8k = new Name(name: 'Miss McMahon\'s', index:11)
         saveObject(name8k)
 
+        def name0 = new Name(name: 'Generic Test', index:12)
+        saveObject(name0)
+
 
         def version55_10 = new Version(setting:26404, key:"Gmaj", meter:'6/8', unitLength : '1/8', index:10,
                 abc:'|:BGG dGG | ege dBA | BGG dGG | ~A3 ABc |\n' +
@@ -119,17 +123,17 @@ class BootStrap {
         saveObject(measure2)
 
         def tune27 = new Tune(dance:Tune.Dance.REEL, primaryName:"Drowsey Maggie", tuneId:27, numRecordings: 158, numTunebooks: 4932,
-                names: [name27a, name27b, name27c, name27d, name27e], tuneMeasLoc:[tuneMeasureLoc1, tuneMeasureLoc2])
+                names: [name27a, name27b, name27c, name27d, name27e, name0], tuneMeasLoc:[tuneMeasureLoc1, tuneMeasureLoc2])
         saveObject(tune27)
 
         def tune55 = new Tune(dance:Tune.Dance.JIG, primaryName:"The Kesh", tuneId:55, numRecordings: 140, numTunebooks: 4463,
-                names: [name55a, name55b, name55c, name55d, name55e],
+                names: [name55a, name55b, name55c, name55d, name55e, name0],
                 versions: [version55_10, version55_1, version55_5],
                 tuneMeasLoc:[tuneMeasureLoc2])
         saveObject(tune55)
 
         def tune8 = new Tune(dance:Tune.Dance.JIG, primaryName:"The Banshee", tuneId:8, numRecordings: 100, numTunebooks: 2711,
-                names: [name8a, name8b, name8c, name8d, name8e, name8f, name8g, name8h, name8i, name8j, name8k], tuneMeasLoc:[tuneMeasureLoc2])
+                names: [name8a, name8b, name8c, name8d, name8e, name8f, name8g, name8h, name8i, name8j, name8k, name0], tuneMeasLoc:[tuneMeasureLoc2])
         saveObject(tune8)
 
 
@@ -179,6 +183,11 @@ class BootStrap {
         saveObject(name8j)
         name8k.tune = [tune8]
         saveObject(name8k)
+
+        name0.tune = [tune8]
+        name0.tune.add(tune27)
+        name0.tune.add(tune55)
+        saveObject(name0)
     }
 
     def initUserRole() {
@@ -242,7 +251,7 @@ class BootStrap {
                 boolean chord = Boolean.parseBoolean(tokens[7])
                 String abc = tokens[8].replaceAll("xxx[x]*","\n")
                 Version version = new Version(setting:tokens[2], key:tokens[3], meter:tokens[4], unitLength: tokens[5], index: tokens[6], chords:chord, abc:abc)
-                if(lineNum%250 == 0) {
+                if(lineNum%500 == 0) {
                     println("Version[" + lineNum + "]: " + tokens[1])
                 }
                 versionMap[tokens[1]] = version
@@ -288,7 +297,7 @@ class BootStrap {
                 def oneTune = new Tune(tuneId:tuneId, dance:dance, primaryName:tokens[3], numRecordings:Integer.parseInt(tokens[4]), numTunebooks: Integer.parseInt(tokens[5]),
                         versions:versionList, names:nameList)
                 tuneMap['tune' + tuneId] = oneTune
-                if(lineNum % 50 == 0) {
+                if(lineNum % 100 == 0) {
                     println('Tune [' + lineNum + ']\t' + tuneId + ' ' + tokens[3])
                 }
 
@@ -303,7 +312,7 @@ class BootStrap {
         def stream = grailsApplication.getParentContext().getResource("name2tune2.txt").getInputStream()
         int lineNum = 0
         stream.eachLine { line ->
-            if(lineNum%1 == 10) {
+            if(lineNum%25 == 0) {
                 println("name2tune " + lineNum)
             }
             String[] tokens = line.split('\t')
