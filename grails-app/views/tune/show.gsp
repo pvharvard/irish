@@ -1,4 +1,4 @@
-<%@ page import="cscie56.finalproj.Tune" %>
+<%@ page import="cscie56.finalproj.Name; cscie56.finalproj.Tune" %>
 <!DOCTYPE html>
 <html>
     <head>
@@ -112,7 +112,16 @@
                 <h3>Alternative Names</h3>
                 <ul>
                     <g:each in="${tune.names.sort()}" var="othername">
-                        <li>${othername?.name}</li>
+                        <li>
+                            ${othername?.name}
+                            <g:if test="${cscie56.finalproj.Name.findAll(othername).size() > 1}">
+                                <g:each in="${cscie56.finalproj.Name.findAll(othername)}" var="altName">
+                                    <g:if test="${altName.tune.tuneId != tuneId}">
+                                        <g:link action="show" id="altName.tune.tuneId">${altName.tune.primaryName}</g:link>
+                                    </g:if>
+                                </g:each>
+                            </g:if>
+                        </li>
                     </g:each>
                 </ul>
             </div>

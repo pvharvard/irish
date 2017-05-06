@@ -15,25 +15,38 @@ class BootStrap {
         MINI, SMALL, LARGE
     }
     def nameMap = [:]
-    def versionMap = [:]
+    def versionMap = [:]  // stores 73_7 --> version
     def tuneMap = [:]
     def grailsApplication
 
 
-    def InitSizeEnum INIT_CONFIG = InitSizeEnum.LARGE
+    def InitSizeEnum INIT_CONFIG = InitSizeEnum.SMALL
 
 
     def init = { servletContext ->
-        if (INIT_CONFIG == InitSizeEnum.MINI) {
-            initTunesMini()
-            initUserRole()
-        } else {
-            initNames()
-            initVersions()
-            initTunesFile()
-            versionMap = [:]
-            initName2Tune()
-            initUserRole()
+        switch (INIT_CONFIG) {
+            case InitSizeEnum.MINI:
+                initTunesMini()
+                initUserRole()
+                break;
+            case InitSizeEnum.SMALL:
+                initNames("/short/createNames2Short.txt")
+                initVersions("/short/versionBootstrap2Short.txt")
+                initTunesFile("/short/tuneBootstrap2Short.txt")
+                versionMap = [:]
+                initName2Tune("/short/name2tune3Short.txt")
+                initUserRole()
+                break;
+            case InitSizeEnum.LARGE:
+                initNames("/large/createNames2.txt")
+                initVersions("/large/versionBootstrap2.txt")
+                initTunesFile("/large/tuneBootstrap2.txt")
+                versionMap = [:]
+                initName2Tune("/large/name2tune3.txt")
+                initUserRole()
+                break;
+            default:
+                println("No such configuration")
         }
 
     }
@@ -219,8 +232,8 @@ class BootStrap {
     }
 
 
-    def initNames() {
-        def stream = grailsApplication.getParentContext().getResource("createNames2.txt").getInputStream()
+    def initNames(String filename) {
+        def stream = grailsApplication.getParentContext().getResource(filename).getInputStream()
         int lineNum = 0
         //println("Text has " + text.size() + " lines")
         stream.eachLine { line ->
@@ -238,8 +251,8 @@ class BootStrap {
 
     }
 
-    def initVersions() {
-        def stream = grailsApplication.getParentContext().getResource("versionBootstrap2.txt").getInputStream()
+    def initVersions(String filename) {
+        def stream = grailsApplication.getParentContext().getResource(filename).getInputStream()
         int lineNum = 0
         //println("Text has " + text.size() + " lines")
         stream.eachLine { line ->
@@ -259,8 +272,8 @@ class BootStrap {
 
     }
 
-    def initTunesFile() {
-        def stream = grailsApplication.getParentContext().getResource("tuneBootstrap2.txt").getInputStream()
+    def initTunesFile(String filename) {
+        def stream = grailsApplication.getParentContext().getResource(filename).getInputStream()
         int lineNum = 0
         println("Initializing tunes")
         //println("Text has " + text.size() + " lines")
@@ -306,8 +319,8 @@ class BootStrap {
 
     }
 
-    def initName2Tune() {
-        def stream = grailsApplication.getParentContext().getResource("name2tune3.txt").getInputStream()
+    def initName2Tune(String filename) {
+        def stream = grailsApplication.getParentContext().getResource(filename).getInputStream()
         int lineNum = 0
         stream.eachLine { line ->
             if (lineNum % 25 == 0) {

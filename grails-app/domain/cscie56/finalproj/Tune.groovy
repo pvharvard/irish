@@ -28,9 +28,9 @@ class Tune {
 
     static hasMany = [names : Name, versions : Version, setMate : SetMate, tuneMeasLoc : TuneMeasureLoc]
 
-    static transients  = ['version1StartAbc', 'version1StartAbc2', 'version1Abc']
+    static transients  = ['version1StartAbc', 'version1KeyMeter', 'version1Abc']
 
-    String getVersion1StartAbc() {
+    def getVersion1StartAbc() {
         def abc
         versions.each {
             if(it.index==1) {
@@ -40,11 +40,17 @@ class Tune {
         abc
     }
 
-    String getVersion1StartAbc2() {
-        versions.findByIndex(1).startAbc
+    def getVersion1KeyMeter() {
+        def keyMeter
+        versions.each {
+            if(it.index==1) {
+                keyMeter = 'K: ' + it.key + '\nM: ' + it.meter + '\n'
+            }
+        }
+        keyMeter
     }
 
-    String getVersion1Abc() {
+    def getVersion1Abc() {
         def abc
         versions.each {
             if(it.index==1) {

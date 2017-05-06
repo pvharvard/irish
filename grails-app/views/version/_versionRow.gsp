@@ -6,16 +6,17 @@
     <td class="hidden-xs">${it.unitLength}</td>
 
     <g:if test="${abcOption.equals('First Bars ABC')}">
-        <th class="hidden-xs">${raw(tune.version1StartAbc)}</th>
+        <%--<th class="hidden-xs">${raw(tune.version1StartAbc)}</th>--%>
+        <th class="hidden-xs">${raw(it.startAbc)}</th>
     </g:if>
     <g:elseif test="${abcOption.equals('First Bars Music')}">
-        <th class="hidden-xs"><pre>X:1<br/>${raw(tune.version1StartAbc)}</pre></th>
+        <th class="hidden-xs"><pre>X:1<br/>K:${it.key}<br/>M:${it.meter}<br/>${raw(it.startAbc)}</pre></th>
     </g:elseif>
     <g:elseif test="${abcOption.equals('Full ABC')}">
-        <th class="hidden-xs">T:The Kesh<br/>M:6/8<br/>K: Gmaj<br/>L:1/8<br/>${raw(tune.version1Abc)}</th>
+        <th class="hidden-xs">${raw(it.abc)}</th>
     </g:elseif>
     <g:elseif test="${abcOption.equals('Full Music')}">
-        <th class="hidden-xs"><pre>X:1<br/>T:The Kesh<br/>M:6/8<br/>K: Gmaj<br/>L:1/8<br/>${raw(tune.version1Abc)}</pre></th>
+        <th class="hidden-xs"><pre>X:1<br/>K:${it.key}<br/>M:${it.meter}<br/>${raw(it.abc)}</pre></th>
     </g:elseif>
 
     <%--<td><pre>X:1<br/>${it.startAbc}</pre></td>
