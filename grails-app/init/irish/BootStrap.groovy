@@ -11,15 +11,22 @@ import cscie56.finalproj.Version
 
 class BootStrap {
 
+    enum InitSizeEnum { MINI, SMALL, LARGE }
+
+    def InitSizeEnum INIT_CONFIG = InitSizeEnum.MINI
+
+
     def init = { servletContext ->
-        initTunes()
-        initUserRole()
+        if(INIT_CONFIG == InitSizeEnum.MINI) {
+            initTunesMini()
+            initUserRole()
+        }
 
     }
     def destroy = {
     }
 
-    def initTunes() {
+    def initTunesMini() {
         def name27a = new Name(name: 'Drowsy Maggie', index:1)
         saveObject(name27a)
         def name27b = new Name(name: 'Drowsie Maggie', index:2)
@@ -31,39 +38,42 @@ class BootStrap {
         def name27e = new Name(name: 'Maggie\'s Drowsy', index:5)
         saveObject(name27e)
 
-        def name55a = new Name(name: 'The Kesh', index:1)
+        def name55a = new Name(name: 'The Kesh', index:6)
         saveObject(name55a)
-        def name55b = new Name(name: 'The Castle', index:2)
+        def name55b = new Name(name: 'The Castle', index:7)
         saveObject(name55b)
-        def name55c = new Name(name: 'The Kesh Mountain', index:3)
+        def name55c = new Name(name: 'The Kesh Mountain', index:8)
         saveObject(name55c)
-        def name55d = new Name(name: 'The Kincora', index:4)
+        def name55d = new Name(name: 'The Kincora', index:9)
         saveObject(name55d)
-        def name55e = new Name(name: 'The Mountaineer\'s March', index:5)
+        def name55e = new Name(name: 'The Mountaineer\'s March', index:10)
         saveObject(name55e)
 
-        def name8a = new Name(name: 'Around the World', index:1)
+        def name8a = new Name(name: 'Around the World', index:11)
         saveObject(name8a)
-        def name8b = new Name(name: 'The Bansee', index:2)
+        def name8b = new Name(name: 'The Bansee', index:12)
         saveObject(name8b)
-        def name8c = new Name(name: 'Bean An Mulga Sig', index:3)
+        def name8c = new Name(name: 'Bean An Mulga Sig', index:13)
         saveObject(name8c)
-        def name8d = new Name(name: 'The Bean Si', index:4)
+        def name8d = new Name(name: 'The Bean Si', index:14)
         saveObject(name8d)
-        def name8e = new Name(name: 'Bean Sidhe', index:5)
+        def name8e = new Name(name: 'Bean Sidhe', index:15)
         saveObject(name8e)
-        def name8f = new Name(name: 'James McMahon\'s', index:6)
+        def name8f = new Name(name: 'James McMahon\'s', index:16)
         saveObject(name8f)
-        def name8g = new Name(name: 'Kilcaven Banks', index:7)
+        def name8g = new Name(name: 'Kilcaven Banks', index:17)
         saveObject(name8g)
-        def name8h = new Name(name: 'The Kilcaven Banks', index:8)
+        def name8h = new Name(name: 'The Kilcaven Banks', index:18)
         saveObject(name8h)
-        def name8i = new Name(name: 'MacMahon\'s', index:9)
+        def name8i = new Name(name: 'MacMahon\'s', index:19)
         saveObject(name8i)
-        def name8j = new Name(name: 'McMahon\'s', index:10)
+        def name8j = new Name(name: 'McMahon\'s', index:20)
         saveObject(name8j)
-        def name8k = new Name(name: 'Miss McMahon\'s', index:11)
+        def name8k = new Name(name: 'Miss McMahon\'s', index:21)
         saveObject(name8k)
+
+        def name0 = new Name(name: 'Generic Test', index:0)
+        saveObject(name0)
 
 
         def version55_10 = new Version(setting:26404, key:"Gmaj", meter:'6/8', unitLength : '1/8', index:10,
@@ -107,11 +117,11 @@ class BootStrap {
         saveObject(measure2)
 
         def tune27 = new Tune(dance:Tune.Dance.REEL, primaryName:"Drowsey Maggie", tuneId:27, numRecordings: 158, numTunebooks: 4932,
-                names: [name27a, name27b, name27c, name27d, name27e], tuneMeasLoc:[tuneMeasureLoc1, tuneMeasureLoc2])
+                names: [name27a, name27b, name27c, name27d, name27e, name0], tuneMeasLoc:[tuneMeasureLoc1, tuneMeasureLoc2])
         saveObject(tune27)
 
         def tune55 = new Tune(dance:Tune.Dance.JIG, primaryName:"The Kesh", tuneId:55, numRecordings: 140, numTunebooks: 4463,
-                names: [name55a, name55b, name55c, name55d, name55e],
+                names: [name55a, name55b, name55c, name55d, name55e, name0],
                 versions: [version55_10, version55_1, version55_5],
                 tuneMeasLoc:[tuneMeasureLoc2])
         saveObject(tune55)
@@ -167,6 +177,10 @@ class BootStrap {
         saveObject(name8j)
         name8k.tune = [tune8]
         saveObject(name8k)
+
+        name0.tune = [tune27]
+        name0.tune.add(tune55)
+        saveObject(name0)
     }
 
     def initUserRole() {
