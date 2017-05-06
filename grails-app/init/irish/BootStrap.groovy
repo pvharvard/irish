@@ -17,9 +17,10 @@ class BootStrap {
     def nameMap = [:]
     def versionMap = [:]
     def tuneMap = [:]
+    def grailsApplication
 
 
-    def InitSizeEnum INIT_CONFIG = InitSizeEnum.MINI
+    def InitSizeEnum INIT_CONFIG = InitSizeEnum.LARGE
 
 
     def init = { servletContext ->
@@ -293,6 +294,7 @@ class BootStrap {
                 def oneTune = new Tune(tuneId: tuneId, dance: dance, primaryName: tokens[3], numRecordings: Integer.parseInt(tokens[4]), numTunebooks: Integer.parseInt(tokens[5]),
                         versions: versionList, names: nameList)
                 tuneMap['tune' + tuneId] = oneTune
+                nameList[0].tune = [oneTune]
                 if (lineNum % 100 == 0) {
                     println('Tune [' + lineNum + ']\t' + tuneId + ' ' + tokens[3])
                 }
@@ -305,7 +307,7 @@ class BootStrap {
     }
 
     def initName2Tune() {
-        def stream = grailsApplication.getParentContext().getResource("name2tune2.txt").getInputStream()
+        def stream = grailsApplication.getParentContext().getResource("name2tune3.txt").getInputStream()
         int lineNum = 0
         stream.eachLine { line ->
             if (lineNum % 25 == 0) {
