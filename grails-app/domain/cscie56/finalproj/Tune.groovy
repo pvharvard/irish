@@ -24,14 +24,14 @@ class Tune {
 
     }
 
-    static belongsTo = Tune
+    //static belongsTo = Tune
 
     static hasMany = [names : Name, versions : Version, setMate : SetMate, tuneMeasLoc : TuneMeasureLoc]
 
     static transients  = ['version1StartAbc', 'version1KeyMeter', 'version1Abc']
 
     def getVersion1StartAbc() {
-        def abc
+        def abc = ""
         versions.each {
             if(it.index==1) {
                 abc = it.startAbc
@@ -41,7 +41,7 @@ class Tune {
     }
 
     def getVersion1KeyMeter() {
-        def keyMeter
+        def keyMeter = ""
         versions.each {
             if(it.index==1) {
                 keyMeter = 'K: ' + it.key + '\nM: ' + it.meter + '\n'
@@ -51,7 +51,7 @@ class Tune {
     }
 
     def getVersion1Abc() {
-        def abc
+        def abc = ""
         versions.each {
             if(it.index==1) {
                 abc = it.abc

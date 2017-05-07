@@ -5,7 +5,8 @@ class Measure {
 
     static constraints = {
         //sequence unique: true
+        tuneMeasLoc nullable : true
     }
 
-    static hasMany = { tuneMeasLoc : TuneMeasureLoc }
+    static hasMany = [tuneMeasLoc:TuneMeasureLoc ]
 }

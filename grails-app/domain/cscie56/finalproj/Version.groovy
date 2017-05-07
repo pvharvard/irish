@@ -29,7 +29,7 @@ class Version implements Comparable {
         //builder.append('X:1\n')
         if(abc.startsWith("|")) {
             len++;
-            builder.append("|")
+            //builder.append("|")
         }
         for(int i = 0; i < Math.min(len, splits.length); i++) {
             builder.append(splits[i])

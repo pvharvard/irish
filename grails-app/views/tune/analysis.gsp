@@ -80,12 +80,14 @@
     <div>
         <div role="tabpanel">
             <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation" class="active"><a href="#genre" aria-controls="settings" role="tab" data-toggle="tab">Genre</a>
+                <li role="presentation" class="active"><a href="#genre" aria-controls="genre" role="tab" data-toggle="tab">Genre</a>
                 </li>
-                <li role="presentation"><a href="#key" aria-controls="settings" role="tab" data-toggle="tab">Key</a></li>
-                <li role="presentation"><a href="#meter" aria-controls="settings" role="tab" data-toggle="tab">Meter</a>
+                <li role="presentation"><a href="#key" aria-controls="key" role="tab" data-toggle="tab">Key</a>
                 </li>
-                <li role="presentation"><a href="#combined" aria-controls="settings" role="tab" data-toggle="tab">Combined</a></li>
+                <li role="presentation"><a href="#meter" aria-controls="meter" role="tab" data-toggle="tab">Meter</a>
+                </li>
+                <li role="presentation"><a href="#combined" aria-controls="combined" role="tab"
+                                           data-toggle="tab">Combined</a></li>
             </ul>
 
             <div class="tab-content">
@@ -101,7 +103,7 @@
                             </tr>
                             <g:each in="${genreResults}" var="genre">
                                 <tr>
-                                    <td>${genre.genre}</td>
+                                    <td><g:danceFromStringTag dance="${genre.genre}"/></td>
                                     <td>${genre.count}</td>
                                 </tr>
                             </g:each>
@@ -113,53 +115,55 @@
                 </div>
 
                 <div role="tabpanel" class="tab-pane" id="key">
-                    <g:if test="${keyResults.size() > 0}">
                     <h3>Key</h3>
-                    <table class="table table-striped table-bordered table-hover">
-                        <tr>
-                            <th>Key</th>
-                            <g:if test="${genreSearch?.isEmpty()}">
-                                <th>Genre</th>
-                            </g:if>
-                            <th>Count</th>
-                        </tr>
-                        <g:each in="${keyResults}" var="key">
+                    <g:if test="${keyResults?.size() > 0}">
+                        <table class="table table-striped table-bordered table-hover">
                             <tr>
-                                <td>${key.key}</td>
                                 <g:if test="${genreSearch?.isEmpty()}">
-                                    <th><%--${key.genre}--%>key</th>
+                                    <th>Genre</th>
                                 </g:if>
-                                <td>${key.count}</td>
+                                <th>Key</th>
+                                <th>Count</th>
                             </tr>
-                        </g:each>
-                    </table>
-                </g:if>
-                <g:else>
-                    <h4>No results</h4>
-                </g:else>
+                            <g:each in="${keyResults}" var="key">
+                                <tr>
+                                    <g:if test="${genreSearch?.isEmpty()}">
+                                        <%--<td>${key.genre}</td>--%>
+                                        <td><g:danceFromStringTag dance="${key.genre}"/></td>
+                                    </g:if>
+                                    <td>${key.key}</td>
+                                    <td>${key.count}</td>
+                                </tr>
+                            </g:each>
+                        </table>
+                    </g:if>
+                    <g:else>
+                        <h4>No results</h4>
+                    </g:else>
                 </div>
 
                 <div role="tabpanel" class="tab-pane" id="meter">
                     <h3>Meter</h3>
-                    <g:if test="${meterResults.size() > 0}">
-                    <table class="table table-striped table-bordered table-hover">
-                        <tr>
-                            <th>Key</th>
-                            <g:if test="${genreSearch?.isEmpty()}">
-                                <th>Genre</th>
-                            </g:if>
-                            <th>Count</th>
-                        </tr>
-                        <g:each in="${meterResults}" var="meter">
-                        <tr>
-                            <td>${meter.meter}</td>
-                            <g:if test="${ genreSearch?.isEmpty()}">
-                                <td>${meter.genre}</td>
-                            </g:if>
-                            <td>${meter.count}</td>
-                        </tr>
-                        </g:each>
-                    </table>
+                    <g:if test="${meterResults?.size() > 0}">
+                        <table class="table table-striped table-bordered table-hover">
+                            <tr>
+                                <th>Key</th>
+                                <g:if test="${genreSearch?.isEmpty()}">
+                                    <th>Genre</th>
+                                </g:if>
+                                <th>Count</th>
+                            </tr>
+                            <g:each in="${meterResults}" var="meter">
+                                <tr>
+                                    <td>${meter.meter}</td>
+                                    <g:if test="${genreSearch?.isEmpty()}">
+                                        <%--<td>${meter.genre}</td>--%>
+                                        <td><g:danceFromStringTag dance="${meter.genre}"/></td>
+                                    </g:if>
+                                    <td>${meter.count}</td>
+                                </tr>
+                            </g:each>
+                        </table>
                     </g:if>
                     <g:else>
                         <h4>No results</h4>
@@ -167,26 +171,33 @@
                 </div>
 
                 <div role="tabpanel" class="tab-pane" id="combined">
-                    <table class="table table-striped table-bordered table-hover">
-                        <tr>
-                            <g:if test="genreSearch?.isEmpty()">
-                                <th>Genre</th>
-                            </g:if>
-                            <th>Key</th>
-                            <th>Meter</th>
-                            <th>Count</th>
-                        </tr>
-                        <g:each in="${genreKeyMeterResults}" var="combined">
-                        <tr>
-                            <g:if test="genreSearch?.isEmpty()">
-                                <th>${combined.genre}</th>
-                            </g:if>
-                            <td>${combined.key}</td>
-                            <td>${combined.meter}</td>
-                            <td>${combined.count}</td>
-                        </tr>
-                        </g:each>
-                    </table>
+                    <h3>Genre Key Meter Combined Results</h3>
+                    <g:if test="${genreKeyMeterResults?.size() > 0}">
+                        <table class="table table-striped table-bordered table-hover">
+                            <tr>
+                                <g:if test="${genreSearch?.isEmpty()}">
+                                    <th>Genre</th>
+                                </g:if>
+                                <th>Key</th>
+                                <th>Meter</th>
+                                <th>Count</th>
+                            </tr>
+                            <g:each in="${genreKeyMeterResults}" var="combined">
+                                <tr>
+                                    <g:if test="${genreSearch?.isEmpty()}">
+                                        <%--<td><g:danceTag dance="${meter.genre}"/></td>--%>
+                                        <td><g:danceFromStringTag dance="${combined.genre}"/></td>
+                                    </g:if>
+                                    <td>${combined.key}</td>
+                                    <td>${combined.meter}</td>
+                                    <td>${combined.count}</td>
+                                </tr>
+                            </g:each>
+                        </table>
+                    </g:if>
+                    <g:else>
+                        <h4>No results</h4>
+                    </g:else>
                 </div>
             </div>
         </div>

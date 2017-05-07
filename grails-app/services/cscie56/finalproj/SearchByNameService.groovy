@@ -12,9 +12,6 @@ import groovy.sql.Sql
 @Transactional
 class SearchByNameService {
 
-    def serviceMethod() {
-
-    }
 
     def dataSource
 
@@ -48,23 +45,15 @@ class SearchByNameService {
         Sql sql = new Sql(dataSource)
         def results = sql.rows(query)
 
-        println("Query: " + query)
-        //def results = sql.rows(query, search: searchString)
+        /*println("Query: " + query)
         println('Number of results ' + results.size())
         results.each {
             println('Result ' + it)
         }
-        /*results.each {
-            print('Result ' + it + '\t' + it.ID + '\t' + it.PRIMARY_NAME + '\t')
-            if(it.containsKey("NAME")) {
-                println(it.NAME)
-            } else {
-                println("")
-            }
-        }*/
+
         results.each {
             println('Result ' + it.ID)
-        }
+        }*/
         results
     }
 }

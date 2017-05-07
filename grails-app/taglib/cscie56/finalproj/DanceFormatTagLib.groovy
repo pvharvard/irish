@@ -26,4 +26,26 @@ class DanceFormatTagLib {
             out << "Unknown"
         }
     }
+
+    def danceFromStringTag = { attrs ->
+        def dance = attrs.dance
+        if(dance == "JIG") {
+            out << "Jig"
+        } else if(dance == "REEL") {
+            out << "Reel"
+        } else if(dance == "SLIP_JIG") {
+            out << "Slip Jig"
+        } else if(dance == "SLIDE") {
+            out << "Slide"
+        } else if(dance == "POLKA") {
+            out << "Polka"
+        } else if(dance == "HORNPIPE") {
+            out << "Hornpipe"
+        } else if(dance == "WALTZ") {
+            out << "Waltz"
+        } else {
+            out << 'Unknown [' + dance + ']'
+        }
+    }
+
 }
