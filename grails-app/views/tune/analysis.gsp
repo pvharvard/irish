@@ -113,6 +113,7 @@
                 </div>
 
                 <div role="tabpanel" class="tab-pane" id="key">
+                    <g:if test="${keyResults.size() > 0}">
                     <h3>Key</h3>
                     <table class="table table-striped table-bordered table-hover">
                         <tr>
@@ -132,10 +133,15 @@
                             </tr>
                         </g:each>
                     </table>
+                </g:if>
+                <g:else>
+                    <h4>No results</h4>
+                </g:else>
                 </div>
 
                 <div role="tabpanel" class="tab-pane" id="meter">
                     <h3>Meter</h3>
+                    <g:if test="${meterResults.size() > 0}">
                     <table class="table table-striped table-bordered table-hover">
                         <tr>
                             <th>Key</th>
@@ -154,22 +160,30 @@
                         </tr>
                         </g:each>
                     </table>
+                    </g:if>
+                    <g:else>
+                        <h4>No results</h4>
+                    </g:else>
                 </div>
 
                 <div role="tabpanel" class="tab-pane" id="combined">
                     <table class="table table-striped table-bordered table-hover">
                         <tr>
+                            <g:if test="genreSearch?.isEmpty()">
+                                <th>Genre</th>
+                            </g:if>
                             <th>Key</th>
-                            <th>Hornpipe</th>
-                            <th>Jig</th>
-                            <th>Reel</th>
-                            <th>Hornpipe</th>
+                            <th>Meter</th>
+                            <th>Count</th>
                         </tr>
-                        <g:each in="${keyResults}" var="meter">
+                        <g:each in="${genreKeyMeterResults}" var="combined">
                         <tr>
-                            <td>${meter.meter}</td>
-                            <td>${meter.genre}</td>
-                            <td>${meter.count}</td>
+                            <g:if test="genreSearch?.isEmpty()">
+                                <th>${combined.genre}</th>
+                            </g:if>
+                            <td>${combined.key}</td>
+                            <td>${combined.meter}</td>
+                            <td>${combined.count}</td>
                         </tr>
                         </g:each>
                     </table>
