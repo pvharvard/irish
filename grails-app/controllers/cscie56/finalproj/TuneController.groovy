@@ -12,6 +12,7 @@ import grails.plugin.springsecurity.annotation.Secured
 class TuneController {
 
     def searchByNameService
+    def analysisService
 
     static allowedMethods = [save: "POST", update: "PUT", delete: "DELETE"]
 
@@ -156,6 +157,20 @@ class TuneController {
             println('Result ' + it)
         }
         respond results, view:'search', model:[results: results, nameSearch:nameSearch, genreSearch:genreSearch, abcOption:abcOption]
+    }
+
+
+    def analyzeByGenre(params) {
+        for(p in params.keySet()) {
+            println 'analyzeByGenre param[' + p + '] -> ' + params[p]
+        }
+        def genreSearch = params['genre'] ?: ""
+        def keyResults   = analysisService.findKeys(genreSearch)
+        def genreResults = analysisService.findGenres()
+        def meterResults = analysisService.findMeters(genreSearch)
+        def genreKeyMeterResults = analysisService.findGenreKeyMeters(genreSearch)
+
+        respond keyResults, view:'analysis', model:[genreSearch:genreSearch, keyResults:keyResults, genreResults:genreResults, meterResults:meterResults, genreKeyMeterResults:genreKeyMeterResults]
     }
 
     def versionAbcSet(params) {
