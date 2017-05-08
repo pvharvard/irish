@@ -60,13 +60,13 @@
         </div>--%>
 
         <div id="edit-tune" class="content scaffold-edit" role="main">
-            <h2>Tune Search By Name</h2>
+            <h2 id="h2header">Tune Search By Name</h2>
             <g:if test="${flash.message}">
                 <div class="message" role="status">${flash.message}</div>
             </g:if>
 
             <%--console.log('Search values ' + abcoption ?: 'x')--%>
-            <div id="varnames">
+            <%--<div id="varnames">
                 <ul>
                     <li>abcOption: ${abcOption}</li>
                     <li>nameSearch: ${nameSearch}</li>
@@ -74,7 +74,7 @@
                     <li>results: ${results?.size()}</li>
 
                 </ul>
-            </div>
+            </div>--%>
 
             <g:form name='searchForm', id="searchIdForm" action="searchByNameGenre">
                 Name:   <g:textField name="name" size="50" value="${nameSearch}"/>

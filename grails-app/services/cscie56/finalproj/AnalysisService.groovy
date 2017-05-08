@@ -18,11 +18,27 @@ class AnalysisService {
 
         if (genre.isEmpty()) {
             query = "select COUNT(setting) from tune t, version v GROUP BY key, dance ORDER BY key, dance"  //works
-            query = "select COUNT(setting) as count,key,dance as genre  from tune t, version v GROUP BY key, dance ORDER BY dance, key"
+            query = "select COUNT(setting) as count,key,dance as genre from tune t, version v GROUP BY key, dance ORDER BY dance, key" // what we had
+            query = "select t.id as count,key,dance as genre from tune t, version v  " +
+                    "where t.id = tune_version.tune_versions_id and v.id = tune_version.version_id"
+            query = "select t.id as count,key,dance as genre from tune t join version v "
+            query = "select t.id as count,key,dance as genre from tune t inner join tune_version tv on t.id = tv.tune_versions_id inner join version v on tv.version_id = v.id"
+
+            query = "select t.id, v.id from tune t " +
+                    "inner join tune_version tv on t.id = tv.tune_versions_id " +
+                    "inner join version v on tv.version_id = v.id "
+            query = "select count(v.id) as count,key,dance as genre from tune t " +
+                    "inner join tune_version tv on t.id = tv.tune_versions_id " +
+                    "inner join version v on tv.version_id = v.id GROUP BY key, dance ORDER by dance,key"
 
         } else {
             query = "select COUNT(setting) as count,key from tune t, version v GROUP BY key  ORDER BY key "
             "where t.dance='${genre}'"
+            query = "select count(v.id) as count,key from tune t " +
+                    "inner join tune_version tv on t.id = tv.tune_versions_id " +
+                    "inner join version v on tv.version_id = v.id " +
+                    "where t.dance='${genre}' " +
+                    "GROUP BY key ORDER by key "
         }
 
         Sql sql = new Sql(dataSource)
@@ -49,11 +65,19 @@ class AnalysisService {
 
         if (genre.isEmpty()) {
             query = "select COUNT(setting) from tune t, version v GROUP BY key, dance ORDER BY key, dance"  //works
-            query = "select COUNT(setting) as count,meter,key,dance as genre  from tune t, version v GROUP BY key, meter, dance ORDER BY key, meter, dance"
+            query = "select COUNT(setting) as count,meter,key,dance as genre  from tune t, version v GROUP BY key, meter, dance ORDER BY dance, meter, key"
+            query = "select count(v.id) as count,meter,key,dance as genre from tune t " +
+                    "inner join tune_version tv on t.id = tv.tune_versions_id " +
+                    "inner join version v on tv.version_id = v.id GROUP BY key, meter, dance ORDER by dance,meter,key"
 
         } else {
-            query = "select COUNT(setting) as count,meter,key from tune t, version v GROUP BY key,meter  ORDER BY key,meter "
+            query = "select COUNT(setting) as count,meter,key from tune t, version v GROUP BY key,meter  ORDER BY meter, key"
             "where t.dance='${genre}'"
+            query = "select count(v.id) as count,meter,key from tune t " +
+                    "inner join tune_version tv on t.id = tv.tune_versions_id " +
+                    "inner join version v on tv.version_id = v.id " +
+                    "where t.dance='${genre}' " +
+                    " GROUP BY key, meter ORDER by meter,key "
         }
 
         Sql sql = new Sql(dataSource)
@@ -77,6 +101,9 @@ class AnalysisService {
         def query = ""
 
         query = "select COUNT(setting) as count, dance as genre from tune t, version v GROUP BY dance ORDER BY dance"
+        query = "select count(v.id) as count,dance as genre from tune t " +
+                "inner join tune_version tv on t.id = tv.tune_versions_id " +
+                "inner join version v on tv.version_id = v.id GROUP BY dance ORDER by dance"
 
         Sql sql = new Sql(dataSource)
         def results = sql.rows(query)
@@ -97,12 +124,20 @@ class AnalysisService {
         def query = ""
 
         if (genre.isEmpty()) {
-            query = "select COUNT(setting) from tune t, version v GROUP BY key, dance ORDER BY key, dance"  //works
-            query = "select COUNT(setting) as count, meter, dance as genre from tune t, version v GROUP BY meter, dance ORDER BY dance, meter"
+            query = "select COUNT(v.id) as count, meter, dance as genre from tune t, version v GROUP BY meter, dance ORDER BY dance, meter " +
+                    ""
+            query = "select count(v.id) as count,meter, dance as genre from tune t " +
+                    "inner join tune_version tv on t.id = tv.tune_versions_id " +
+                    "inner join version v on tv.version_id = v.id GROUP BY dance ORDER by dance"
 
         } else {
-            query = "select COUNT(setting) as count, meter  from tune t, version v GROUP BY meter ORDER BY meter "
+            query = "select COUNT(v.id) as count, meter  from tune t, version v GROUP BY meter ORDER BY meter "
             "where t.dance='${genre}'"
+            query = "select count(v.id) as count,meter from tune t " +
+                    "inner join tune_version tv on t.id = tv.tune_versions_id " +
+                    "inner join version v on tv.version_id = v.id " +
+                    "where t.dance='${genre}' " +
+                    "GROUP BY meter ORDER by meter "
         }
         //query = "select COUNT(setting) as count, meter from tune t, version v GROUP BY meter ORDER BY meter"
 

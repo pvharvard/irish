@@ -73,11 +73,11 @@
     .search-gap { margin-bottom: 0.4cm; }
     </style>
     <p class="top-gap" ></p>
-    <ul>
+    <%--<ul>
         <li>tune  ${tune==null}</li>
         <li>tuneId  ${tuneId}</li>
         <li>abcOption ${abcOption}</li>
-    </ul>
+    </ul>--%>
     <g:if test="${tune==null}" >
         Retrieving value from tuneId
         <g:set var="tune" value="${cscie56.finalproj.Tune.findById(Integer.parseInt(tuneId))}"/>

@@ -7,9 +7,9 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
     </head>
     <body>
-    <nav class="navbar navbar-fixed-top navbar-inverse">
+    <nav class="navbar navbar-fixed-top navbar-inverse greenHeader">
         <div class="container">
-            <div class="navbar-header">
+            <div class="navbar-header  greenHeader">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
@@ -31,6 +31,7 @@
     </nav><!-- /.navbar -->
     <style>
     .top-gap { margin-bottom: 1.5cm; }
+    .greenHeader { color: #2b542c}
     .search-gap { margin-bottom: 0.4cm; }
     </style>
     <p class="top-gap" ></p>
@@ -43,7 +44,7 @@
         </ul>
     </div>--%>
         <div id="list-tune" class="content scaffold-list" role="main">
-            <h1>Tunes Ranked by Popularity</h1>
+            <h1 id="h1header">Tunes Ranked by Popularity</h1>
             <g:if test="${flash.message}">
                 <div class="message" role="status">${flash.message}</div>
             </g:if>

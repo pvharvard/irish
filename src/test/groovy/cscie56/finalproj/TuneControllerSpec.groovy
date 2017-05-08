@@ -4,18 +4,26 @@ import grails.test.mixin.*
 import spock.lang.*
 
 @TestFor(TuneController)
-@Mock(Tune)
+@Mock([Tune, Version, Name])
 class TuneControllerSpec extends Specification {
+    def START_ABC = "| aaaaaaaa | bbbbbbbb | cccccccc |"
 
     def populateValidParams(params) {
         assert params != null
+        def version = new Version(setting:1, index:1, key:"Gmaj", meter:"3/4", unitLength:"1/8",
+                abc:START_ABC + "ddddddddd | eeeeeeee | ffffffff |")
+        def name1 = new Name(name:'name1',index:1)
+        def name2 = new Name(name:'Cooley',index:2)
+        def name3 = new Name(name:'Kesh',index:3)
 
-        params['setting'] = 101
-        params['index'] = 5
-        params['key'] = 'Dmaj'
-        params['meter'] = '1/4'
-        params['unitLength'] = '1/8'
-        params['abc'] = 'abcdefg'
+        params['primaryName'] = "Cooley's Reel"
+        params['numRecordings'] = 10
+        params['tuneId'] = 55
+        params['dance'] = Tune.Dance.REEL
+        params['numTunebooks'] = 20
+        params['versions'] = [version]
+        params['names'] = [name1, name2, name3]
+
         assert true
     }
 
@@ -39,11 +47,10 @@ class TuneControllerSpec extends Specification {
 
     void "Test the save action correctly persists an instance"() {
 
-        /*when:"The save action is executed with an invalid instance"
+        when:"The save action is executed with an invalid instance"
             request.contentType = FORM_CONTENT_TYPE
             request.method = 'POST'
-            populateValidParams(params)
-            def tune = new Tune(params)
+            def tune = new Tune()
             tune.validate()
             controller.save(tune)
 
@@ -61,8 +68,7 @@ class TuneControllerSpec extends Specification {
         then:"A redirect is issued to the show action"
             response.redirectedUrl == '/tune/show/1'
             controller.flash.message != null
-            Tune.count() == 1*/
-            true
+            Tune.count() == 1
     }
 
     void "Test that the show action returns the correct model"() {
@@ -125,11 +131,11 @@ class TuneControllerSpec extends Specification {
 
         then:"A redirect is issued to the show action"
             tune != null
-            response.redirectedUrl == "/tune/show/$tune.id"
+            //response.redirectedUrl == "/tune/show/$tune.id"
             flash.message != null
     }*/
 
-   /* void "Test that the delete action deletes an instance if it exists"() {
+    /*void "Test that the delete action deletes an instance if it exists"() {
         when:"The delete action is called for a null instance"
             request.contentType = FORM_CONTENT_TYPE
             request.method = 'DELETE'
@@ -155,4 +161,24 @@ class TuneControllerSpec extends Specification {
             response.redirectedUrl == '/tune/index'
             flash.message != null
     }*/
+
+    void "test versionABC request"() {
+        response.reset()
+        populateValidParams(params)
+        def abc = new Tune(params)
+        controller.versionAbcSet()
+        expect:
+        true
+    }
+
+    void "analyzing by genre"() {
+        response.reset()
+        populateValidParams(params)
+        def tune = new Tune(params)
+        def params2 = []
+
+        controller.analyzeByGenre()
+        true
+    }
+
 }

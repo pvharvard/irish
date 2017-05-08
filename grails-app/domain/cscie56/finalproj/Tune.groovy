@@ -65,6 +65,4 @@ class Tune {
         return "Tune[" + tuneId + "] " + primaryName
     }
 
-
-
 }

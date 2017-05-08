@@ -147,19 +147,19 @@
                     <g:if test="${meterResults?.size() > 0}">
                         <table class="table table-striped table-bordered table-hover">
                             <tr>
-                                <th>Key</th>
                                 <g:if test="${genreSearch?.isEmpty()}">
                                     <th>Genre</th>
                                 </g:if>
+                                <th>Key</th>
                                 <th>Count</th>
                             </tr>
                             <g:each in="${meterResults}" var="meter">
                                 <tr>
-                                    <td>${meter.meter}</td>
                                     <g:if test="${genreSearch?.isEmpty()}">
                                         <%--<td>${meter.genre}</td>--%>
                                         <td><g:danceFromStringTag dance="${meter.genre}"/></td>
                                     </g:if>
+                                    <td>${meter.meter}</td>
                                     <td>${meter.count}</td>
                                 </tr>
                             </g:each>

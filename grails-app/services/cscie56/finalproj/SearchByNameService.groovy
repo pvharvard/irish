@@ -13,7 +13,8 @@ import groovy.sql.Sql
 class SearchByNameService {
 
 
-    def dataSource
+    //def dataSource
+    def groovySql
 
     List<GroovyRowResult> findTunes(String tuneName, String genre) {
         tuneName = tuneName ?: ""
@@ -42,8 +43,8 @@ class SearchByNameService {
                     "where t.dance = '${genre}' and UPPER(n.name) like '%${tuneName}%'"
         }
 
-        Sql sql = new Sql(dataSource)
-        def results = sql.rows(query)
+        //Sql sql = new Sql(dataSource)
+        def results = groovySql.rows(query)
 
         /*println("Query: " + query)
         println('Number of results ' + results.size())
