@@ -20,7 +20,7 @@ class BootStrap {
     def grailsApplication
 
 
-    def InitSizeEnum INIT_CONFIG = InitSizeEnum.SMALL
+    def InitSizeEnum INIT_CONFIG = InitSizeEnum.LARGE
 
 
     def init = { servletContext ->
@@ -39,8 +39,8 @@ class BootStrap {
                 break;
             case InitSizeEnum.LARGE:
                 initNames("/large/createNames2.txt")
-                initVersions("/large/versionBootstrap2.txt")
-                initTunesFile("/large/tuneBootstrap2.txt")
+                initVersions("/large/versionBootstrap3.txt")
+                initTunesFile("/large/tuneBootstrap3.txt")
                 versionMap = [:]
                 initName2Tune("/large/name2tune3.txt")
                 initUserRole()
@@ -260,6 +260,9 @@ class BootStrap {
             if (tokens[0].equals("version")) {
                 boolean chord = Boolean.parseBoolean(tokens[7])
                 String abc = tokens[8].replaceAll("xxx[x]*", "\n")
+                if(abc.length() > 2000) {
+                    println("Excessive version " + abc.length() + "\t" + lineNum + "\t" + tokens[2])
+                }
                 Version version = new Version(setting: tokens[2], key: tokens[3], meter: tokens[4], unitLength: tokens[5], index: tokens[6], chords: chord, abc: abc)
                 if (lineNum % 500 == 0) {
                     println("Version[" + lineNum + "]: " + tokens[1])
@@ -322,8 +325,9 @@ class BootStrap {
     def initName2Tune(String filename) {
         def stream = grailsApplication.getParentContext().getResource(filename).getInputStream()
         int lineNum = 0
+        println("In inName2Tune now")
         stream.eachLine { line ->
-            if (lineNum % 25 == 0) {
+            if (lineNum % 1 == 0) {
                 println("name2tune " + lineNum)
             }
             String[] tokens = line.split('\t')

@@ -124,15 +124,11 @@ class AnalysisService {
         def query = ""
 
         if (genre.isEmpty()) {
-            query = "select COUNT(v.id) as count, meter, dance as genre from tune t, version v GROUP BY meter, dance ORDER BY dance, meter " +
-                    ""
-            query = "select count(v.id) as count,meter, dance as genre from tune t " +
+            query = "select count(v.id) as count, meter, dance as genre from tune t " +
                     "inner join tune_version tv on t.id = tv.tune_versions_id " +
-                    "inner join version v on tv.version_id = v.id GROUP BY dance ORDER by dance"
+                    "inner join version v on tv.version_id = v.id GROUP BY dance, meter ORDER by dance, meter"
 
         } else {
-            query = "select COUNT(v.id) as count, meter  from tune t, version v GROUP BY meter ORDER BY meter "
-            "where t.dance='${genre}'"
             query = "select count(v.id) as count,meter from tune t " +
                     "inner join tune_version tv on t.id = tv.tune_versions_id " +
                     "inner join version v on tv.version_id = v.id " +
